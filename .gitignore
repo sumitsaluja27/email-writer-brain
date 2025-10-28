@@ -1,0 +1,18 @@
+# SECRETS
+.env
+
+# DATA (NEVER COMMIT)
+data/
+Data/
+
+# OS GARBAGE
+.DS_Store
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# LOGS
+*.log
