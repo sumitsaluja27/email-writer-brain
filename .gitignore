@@ -1,18 +1,36 @@
-# SECRETS
-.env
-
-# DATA (NEVER COMMIT)
-data/
-Data/
-
-# OS GARBAGE
-.DS_Store
+# Python
 __pycache__/
+*.py[cod]
 *.pyc
+.Python
+venv/
+env/
+*.egg-info/
 
-# IDE
-.vscode/
-.idea/
+# Secrets
+.env
+*.key
 
-# LOGS
+# Mac
+.DS_Store
+
+# Generated
+knowledge_base/
+generated_emails/
+*.db
+*.sqlite
+
+# CRITICAL: Don't upload real POC data
+data/Companies/Complete list.csv
+data/Companies/complete list.csv
+Complete list.csv
+complete list.csv
+
+# Crawl4ai source (too large, use pip instead)
+crawl4ai-main/
+
+# Logs & Output
 *.log
+results/
+output/
+data/
