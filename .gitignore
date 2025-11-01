@@ -14,23 +14,17 @@ env/
 # Mac
 .DS_Store
 
-# Generated
+# Generated files
 knowledge_base/
 generated_emails/
 *.db
 *.sqlite
-
-# CRITICAL: Don't upload real POC data
-data/Companies/Complete list.csv
-data/Companies/complete list.csv
-Complete list.csv
-complete list.csv
-
-# Crawl4ai source (too large, use pip instead)
-crawl4ai-main/
-
-# Logs & Output
 *.log
 results/
 output/
+
+# CRITICAL: Don't upload data folder (has proprietary company info + PDFs)
 data/
+
+# Crawl4ai source (too large, install via pip instead)
+crawl4ai-main/
