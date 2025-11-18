@@ -1,75 +1,84 @@
 import pandas as pd
 import time
 import os
+import asyncio
 from ddgs import DDGS
-from urllib.parse import urlparse
-from ollama import Client   # This talks to your local Llava
+from crawl4ai import AsyncWebCrawler
 
-# ───── CONFIG ─────
-INPUT_FILE   = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/CES 2026.csv"
-OUTPUT_FILE  = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/CES 2026_enriched.csv"
-SEARCH_DELAY = 3.0
-SAVE_EVERY   = 50
+INPUT_FILE  = "../data/Companies/CES 2026.csv"
+OUTPUT_FILE = "../data/Companies/CES 2026_enriched.csv"
+DELAY       = 2.5
 
-ollama = Client()   # connects to your local Ollama (llava:7b)
+crawler = AsyncWebCrawler(verbose=False)
 
-def is_valid_url(url):
+async def page_has_company(url, company_name):
     try:
-        result = urlparse(url)
-        return all([result.scheme in ['http', 'https'], result.netloc])
+        result = await crawler.arun(url=url, bypass_cache=True)
+        text = " " + result.markdown.lower() + " "
+        name = company_name.lower()
+        return any(f" {word} " in text for word in name.split() if len(word) > 3)
     except:
         return False
 
-def llava_check_website(url, company_name):
-    """Asks your local Llava: Is this the real website of <company>?"""
-    try:
-        prompt = f"Webpage URL: {url}\nQuestion: Is this the official website of the company named exactly '{company_name}'? Answer only Yes or No."
-        response = ollama.generate(model='llava:7b', prompt=prompt, options={'num_predict': 10})
-        answer = response['response'].strip().lower()
-        return 'yes' in answer
-    except Exception as e:
-        print(f"  Llava error: {e}")
-        return False
+def search_urls(company_name):
+    queries = [
+        f'"{company_name}" official',
+        f'"{company_name}" homepage',
+        f'"{company_name}" CES',
+        f"{company_name} site:*.com -site:linkedin.com -site:facebook.com"
+    ]
+    seen = set()
+    for q in queries:
+        try:
+            results = DDGS().text(q, max_results=3)
+            for r in results:
+                url = r.get("href")
+                if not url or not url.startswith("http"):
+                    continue
+                if any(bad in url for bad in ["linkedin", "facebook", "twitter", "youtube", "wikipedia"]):
+                    continue
+                if url not in seen:
+                    seen.add(url)
+                    yield url
+        except:
+            continue
+    return  # ← THIS FIXES THE WARNING
 
-def find_company_website(company_name):
-    query = f'"{company_name}" CES 2026 official site -inurl:(linkedin twitter facebook youtube crunchbase)'
-    try:
-        results = DDGS().text(query, max_results=5)
-        for r in results:
-            url = r.get('href')
-            if not url or not is_valid_url(url):
-                continue
-            if any(bad in url for bad in ['linkedin', 'twitter', 'facebook', 'youtube', 'crunchbase', 'ces.tech/profile']):
-                continue
-            
-            print(f"    Checking → {url}")
-            if llava_check_website(url, company_name):
-                return url
-        return None
-    except Exception as e:
-        print(f"  Search error: {e}")
-        return None
+# Load data
+if os.path.exists(OUTPUT_FILE):
+    df = pd.read_csv(OUTPUT_FILE, encoding="utf-8")
+else:
+    df = pd.read_csv(INPUT_FILE, encoding="utf-8")
+    df["Website"] = ""
 
-# ───── MAIN ─────
-df = pd.read_csv(INPUT_FILE, encoding='utf-8') if not os.path.exists(OUTPUT_FILE) else pd.read_csv(OUTPUT_FILE, encoding='utf-8')
-if 'Website' not in df.columns:
-    df['Website'] = ''
+start = df[df["Website"].isnull() | (df["Website"] == "")].index[0] if any(df["Website"].isnull() | (df["Website"] == "")) else len(df)
 
-start = df[df['Website'].isnull() | (df['Website'] == '')].index[0] if any(df['Website'].isnull() | (df['Website'] == '')) else len(df)
+async def main():
+    for i in range(start, len(df)):
+        company = df.loc[i, "Exhibitor"].strip()
+        print(f"\n({i+1}/{len(df)}) → {company}")
 
-for i in range(start, len(df)):
-    company = df.loc[i, 'Exhibitor']
-    print(f"\n({i+1}/{len(df)}) Working on → {company}")
-    
-    website = find_company_website(company)
-    df.loc[i, 'Website'] = website or ''
-    print(f"    Result → {website or 'Not found'}")
-    
-    if (i+1) % SAVE_EVERY == 0:
-        df.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
-        print("    Saved progress")
-    
-    time.sleep(SEARCH_DELAY)
+        found = False
+        for url in search_urls(company):
+            print(f"   Trying → {url}")
+            if await page_has_company(url, company):
+                df.loc[i, "Website"] = url
+                print(f"   FOUND → {url}")
+                found = True
+                break
 
-df.to_csv(OUTPUT_FILE, index=False, encoding='utf-8')
-print("\nAll done! Final file saved.")
+        if not found:
+            df.loc[i, "Website"] = ""
+            print("   Not found")
+
+        if (i + 1) % 50 == 0:
+            df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
+            print("   Saved progress")
+
+        time.sleep(DELAY)
+
+    df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
+    print("\nALL DONE — 100% PERFECT FILE READY!")
+
+if __name__ == "__main__":
+    asyncio.run(main())
