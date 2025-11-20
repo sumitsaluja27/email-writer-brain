@@ -1,84 +1,99 @@
 import pandas as pd
 import time
 import os
-import asyncio
 from ddgs import DDGS
-from crawl4ai import AsyncWebCrawler
+from crawl4ai import WebCrawler
+from ollama import Client
 
-INPUT_FILE  = "../data/Companies/CES 2026.csv"
-OUTPUT_FILE = "../data/Companies/CES 2026_enriched.csv"
-DELAY       = 2.5
+# ───── SETTINGS ─────
+CES_FILE    = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/CES 2026_enriched.csv"
+DELAY       = 3.0
+SAVE_EVERY  = 50
 
-crawler = AsyncWebCrawler(verbose=False)
+ollama = Client()
+crawler = WebCrawler()
+crawler.warmup()  # one-time prep
 
-async def page_has_company(url, company_name):
+# ───── SUPER SMART SEARCH ─────
+def smart_search(company_name):
+    query = f'"{company_name}" CES 2026 exhibitor official website intitle:"{company_name}" -inurl:(linkedin twitter facebook youtube crunchbase ces.tech/profile)'
     try:
-        result = await crawler.arun(url=url, bypass_cache=True)
-        text = " " + result.markdown.lower() + " "
-        name = company_name.lower()
-        return any(f" {word} " in text for word in name.split() if len(word) > 3)
-    except:
+        results = DDGS().text(query, max_results=5)
+        for r in results:
+            url = r.get("href")
+            if url and url.startswith("http") and "ces.tech" not in url:
+                yield url
+    except Exception as e:
+        print(f"  Error in smart_search for {company_name}: {e}")
+
+# ───── LLAVA CHECK WITH CLEAN TEXT + CONTEXT ─────
+def is_real_website(url, company_name):
+    try:
+        result = crawler.run(url=url, bypass_cache=True)
+        clean_text = result.markdown[:7000]  # clean readable text
+        
+        prompt = f"""Company: {company_name}
+This company makes dashcams / AI cameras and is exhibiting at CES 2026.
+
+Website content:
+{clean_text}
+
+Question: Is this the official website of the company above?
+Answer only Yes or No."""
+
+        answer = ollama.generate(
+            model="llava:7b",
+            prompt=prompt,
+            options={"num_predict": 10, "temperature": 0}
+        )
+        return "yes" in answer["response"].strip().lower()
+    except Exception as e:
+        print(f"  Error processing {url}: {e}")
         return False
 
-def search_urls(company_name):
-    queries = [
-        f'"{company_name}" official',
-        f'"{company_name}" homepage',
-        f'"{company_name}" CES',
-        f"{company_name} site:*.com -site:linkedin.com -site:facebook.com"
-    ]
-    seen = set()
-    for q in queries:
-        try:
-            results = DDGS().text(q, max_results=3)
-            for r in results:
-                url = r.get("href")
-                if not url or not url.startswith("http"):
-                    continue
-                if any(bad in url for bad in ["linkedin", "facebook", "twitter", "youtube", "wikipedia"]):
-                    continue
-                if url not in seen:
-                    seen.add(url)
-                    yield url
-        except:
-            continue
-    return  # ← THIS FIXES THE WARNING
-
+# ───── MAIN LOOP (very easy to read) ─────
 # Load data
-if os.path.exists(OUTPUT_FILE):
-    df = pd.read_csv(OUTPUT_FILE, encoding="utf-8")
+if os.path.exists(CES_FILE):
+    df = pd.read_csv(CES_FILE, encoding="utf-8")
 else:
-    df = pd.read_csv(INPUT_FILE, encoding="utf-8")
+    print(f"Error: The file {CES_FILE} was not found.")
+    exit()
+
+# Add 'Website' and 'Country' columns if they don't exist
+if "Website" not in df.columns:
     df["Website"] = ""
+if "Country" not in df.columns:
+    df["Country"] = ""
 
-start = df[df["Website"].isnull() | (df["Website"] == "")].index[0] if any(df["Website"].isnull() | (df["Website"] == "")) else len(df)
+# Process companies
+for i in range(len(df)):
+    # Check if the website is already filled
+    if pd.notna(df.loc[i, 'Website']) and df.loc[i, 'Website'] != '':
+        continue
 
-async def main():
-    for i in range(start, len(df)):
-        company = df.loc[i, "Exhibitor"].strip()
-        print(f"\n({i+1}/{len(df)}) → {company}")
+    company = df.loc[i, "Exhibitor"].strip()
+    print(f"\n({i+1}/{len(df)}) → {company}")
 
-        found = False
-        for url in search_urls(company):
-            print(f"   Trying → {url}")
-            if await page_has_company(url, company):
-                df.loc[i, "Website"] = url
-                print(f"   FOUND → {url}")
-                found = True
-                break
+    found = False
+    for url in smart_search(company):
+        print(f"   Checking → {url}")
+        if is_real_website(url, company):
+            df.loc[i, "Website"] = url
+            print(f"   FOUND → {url}")
+            found = True
+            break
 
-        if not found:
-            df.loc[i, "Website"] = ""
-            print("   Not found")
+    if not found:
+        df.loc[i, "Website"] = ""
+        print("   Not found")
 
-        if (i + 1) % 50 == 0:
-            df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
-            print("   Saved progress")
+    # Auto-save
+    if (i + 1) % SAVE_EVERY == 0:
+        df.to_csv(CES_FILE, index=False, encoding="utf-8")
+        print("   Progress saved")
 
-        time.sleep(DELAY)
+    time.sleep(DELAY)
 
-    df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
-    print("\nALL DONE — 100% PERFECT FILE READY!")
-
-if __name__ == "__main__":
-    asyncio.run(main())
+# Final save
+df.to_csv(CES_FILE, index=False, encoding="utf-8")
+print("\nAll finished! Your perfect CSV is ready")
