@@ -32,6 +32,10 @@ def create_master_list():
     if 'Correct_Website' in non_asian_df.columns:
          non_asian_df['Correct_Website'] = non_asian_df['Correct_Website'].astype(str).str.lower() == 'true'
 
+    # Rename 'LinkedIn URL' to 'LinkedIn_URL' if present
+    if 'LinkedIn URL' in non_asian_df.columns:
+        non_asian_df.rename(columns={'LinkedIn URL': 'LinkedIn_URL'}, inplace=True)
+
     workable_non_asian = non_asian_df[
         (non_asian_df['Validation_Status'] == '✅ GOOD') &
         (non_asian_df['Correct_Website'] == True)

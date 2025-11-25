@@ -14,16 +14,16 @@ ASIAN_COUNTRIES = ["china", "taiwan", "hong kong", "vietnam", "korea"]
 
 # Rule 2: City keywords in company name
 CITY_KEYWORDS = {
-    "China": ["shenzhen", "xiamen", "dongguan", "hangzhou", "beijing", "shanghai", "guangzhou", "suzhou", "chengdu", "wuhan", "nanjing", "tianjin", "qingdao", "foshan", "zhongshan"],
-    "Taiwan": ["taipei", "taichung", "kaohsiung", "tainan"],
-    "Hong Kong": ["hong kong", " hk ", "(hk)"],
-    "Vietnam": ["hanoi", "ho chi minh", "hcmc", "saigon", "danang"],
-    "Korea": ["seoul", "busan", "incheon", "daegu"]
+    "China": ["shenzhen", "xiamen", "dongguan", "hangzhou", "beijing", "shanghai", "guangzhou", "suzhou", "chengdu", "wuhan", "nanjing", "tianjin", "qingdao", "foshan", "zhongshan", "ningbo", "hefei", "changsha", "wuxi", "kunshan", "zhuhai", "jinan", "dalian", "fuzhou", "harbin", "shijiazhuang", "zhengzhou", "changchun", "nanchang", "wenzhou"],
+    "Taiwan": ["taipei", "taichung", "kaohsiung", "tainan", "hsinchu", "taoyuan", "new taipei", "keelung", "chiayi"],
+    "Hong Kong": ["hong kong", " hk ", "(hk)", "hongkong"],
+    "Vietnam": ["hanoi", "ho chi minh", "hcmc", "saigon", "danang", "haiphong", "can tho"],
+    "Korea": ["seoul", "busan", "incheon", "daegu", "daejeon", "gwangju", "suwon", "ulsan", "changwon", "goyang", "yongin", "seongnam", "cheongju", "jeonju"]
 }
 ALL_CITY_KEYWORDS = [city for cities in CITY_KEYWORDS.values() for city in cities]
 
 # Rule 3: Common patterns in company name
-COMMON_PATTERNS = ["co., ltd", "technology co.,", "ltd.", "(shenzhen)", "(beijing)"]
+COMMON_PATTERNS = ["co., ltd", "technology co.,", "ltd.", "(shenzhen)", "(beijing)", "electronic co", "industrial co", "intelligent tech", "innovation tech"]
 
 # ───── MAIN SCRIPT ─────
 
