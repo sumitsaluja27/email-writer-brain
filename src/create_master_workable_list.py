@@ -4,7 +4,7 @@ import os
 
 # Define absolute paths for input and output files
 JAPAN_COMPANIES_FILE = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/japanese_companies.csv"
-NON_ASIAN_COMPANIES_FILE = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/CES 2026_non_asian_validated.csv"
+NON_ASIAN_COMPANIES_FILE = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/CES 2026_non_asian.csv"
 OUTPUT_FILE = "/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/data/Companies/master_workable_companies.csv"
 
 def create_master_list():

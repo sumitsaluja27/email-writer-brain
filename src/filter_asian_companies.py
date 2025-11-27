@@ -61,8 +61,29 @@ def filter_companies():
     else:
         rule2_3_mask = pd.Series([False] * len(df), index=df.index)
 
+    # Rule 4: Check Summary for Asian keywords (Countries + Cities)
+    if 'Summary' in df.columns:
+        df['Summary'] = df['Summary'].astype(str)
+        summary_lower = df['Summary'].str.lower()
+        
+        # Create a broader pattern for summary that includes country names
+        summary_keywords = ASIAN_COUNTRIES + ALL_CITY_KEYWORDS
+        summary_regex = '|'.join(map(re.escape, summary_keywords))
+        
+        rule4_mask = summary_lower.str.contains(summary_regex, na=False)
+    else:
+        rule4_mask = pd.Series([False] * len(df), index=df.index)
+
+    # Rule 5: Check Website for Asian keywords
+    if 'Website' in df.columns:
+        df['Website'] = df['Website'].astype(str)
+        website_lower = df['Website'].str.lower()
+        rule5_mask = website_lower.str.contains(summary_regex, na=False)
+    else:
+        rule5_mask = pd.Series([False] * len(df), index=df.index)
+
     # Combine the masks to get all Asian companies
-    is_asian_mask = rule1_mask | rule2_3_mask
+    is_asian_mask = rule1_mask | rule2_3_mask | rule4_mask | rule5_mask
 
     # Split the DataFrame
     asian_companies_df = df[is_asian_mask]

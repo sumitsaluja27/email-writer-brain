@@ -27,4 +27,7 @@ output/
 data/
 
 # Crawl4ai source (too large, install via pip instead)
-crawl4ai-main/
+crawl4ai-main/src/ces_venv/
+
+# Virtual environment in src/
+src/ces_venv/
