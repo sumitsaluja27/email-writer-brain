@@ -24,10 +24,15 @@ results/
 output/
 
 # CRITICAL: Don't upload data folder (has proprietary company info + PDFs)
-data/
+data/*
+!data/Companies/
+data/Companies/*
+!data/Companies/CES_2026_*.csv
+!data/Companies/CES_2026_RAG_MATCHED.csv
 
 # Crawl4ai source (too large, install via pip instead)
 crawl4ai-main/src/ces_venv/
 
 # Virtual environment in src/
 src/ces_venv/
+test_env/

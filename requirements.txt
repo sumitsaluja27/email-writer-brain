@@ -10,6 +10,7 @@ chromadb>=0.4.0
 
 # Ollama
 langchain-ollama>=0.1.0
+ollama>=0.6.0
 
 # Document Processing
 pypdf>=3.0.0
@@ -18,5 +19,15 @@ pypdf>=3.0.0
 crawl4ai>=0.7.0
 playwright>=1.40.0
 
+# Web Requests \u0026 Search
+requests>=2.31.0
+duckduckgo-search>=8.0.0
+
+# Async Support
+aiofiles>=23.0.0
+aiohttp>=3.9.0
+
 # Utilities
 tqdm>=4.65.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
