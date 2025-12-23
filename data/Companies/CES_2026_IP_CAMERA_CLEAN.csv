@@ -1,272 +1,35 @@
 Company Name,Exhibitor,Website,LinkedIn URL,Country,Summary,Matched_Product,Distance_Score,Match_Reason,LinkedIn_Company,Scraped_Country,Scrape_Status
-,Syntiant Corp.,https://www.syntiant.com/,,Unknown,"Syntiant® delivers highly efficient processor, sensor, and software solutions. With more than 100 million purpose-built silicon and ML models deployed, along with billions of MEMS microphones and sens...",ip_camera,115.54,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/syntiant-corp/,,success
-,Visionary.ai,https://www.visionary.ai/,,Unknown,"Listed in the 100 Most Promising AI Startups of 2023, Visionary.ai empowers cameras to capture state-of-the-art video quality in extreme low light and HDR. The software uses edge AI to deliver result...",ip_camera,120.62,"High Computational Capacity 
-The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 
-TOPS NPU capability provides the enormous computational speed required to run 
-demandi...",https://www.linkedin.com/company/visionary-ai/about/,,success
-,Algorized,https://www.algorized.com/,,Unknown,"Algorized software platform leverages proprietary machine learning algorithms and advanced sensor fusion techniques, including ultra-wideband (UWB) and wireless sensors, to enable real-time human pres...",ip_camera,122.84,"• Description: Key features include Fall Detection and Emergency Alert 
-Response, Privacy-Preserving Video Clips, Real-time Vital Capture, Natural 
-Language Understanding (NLU) Based Secondary Check, ...",https://www.linkedin.com/company/algorized,USA,success
-,Telit Cinterion,https://www.telit.com/,,Unknown,"Telit Cinterion is a leading IoT enabler offering end-to-end solutions, from connected devices and wireless modules to MVNO connectivity, edge-cloud software and IoT platforms. As the largest western ...",ip_camera,129.22,"features for video playback, customization, and analytics. 
-• Architecture: The solution uses Amazon Web Services (AWS) for cloud 
-infrastructure, ReactJS for the frontend, NodeJS for the backend, and...",https://www.linkedin.com/company/269797/,,success
-,"Quadric, Inc.",https://quadric.io/about/,,Unknown,Quadric® is a semiconductor IP licensing company offering unified hardware/software architecture for efficient on-device AI and DSP processing. Its Chimera™ GPNPU merges the strengths of NPUs and DSPs...,ip_camera,132.16,"High Computational Capacity 
-The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 
-TOPS NPU capability provides the enormous computational speed required to run 
-demandi...",https://www.linkedin.com/company/quadric.io,330 primrose rd,success
-,Ubicept,https://www.ubicept.com/,,Unknown,Ubicept revolutionizes how machines perceive the world by combining next-generation image sensors with advanced computer vision algorithms.,ip_camera,132.84,"allows for flexible deployment, high-bandwidth video streaming back to the cloud, and 
-reliable data uplink using the MQTT protocol. The ability to support FOTA (Firmware 
-Over the Air) updates via th...",https://www.linkedin.com/company/ubicept,,success
-,Cosito,https://www.zumafreegames.com/,,,"Venture-backed, MIT-founded startup building AI-powered microphones that let frontline teams log data by voice—no physical forms, no typing. Just say it, we log it!",ip_camera,134.52,"Information Technology stack, particularly the Cloud VMS, is like the remote recording 
-studio and distribution platform, collecting the music (video streams/data), analyzing it 
-(Amazon Rekognition),...",,,no_website
-,Hailo,https://hailo.ai/products/ai-vision-processors/hailo-15-ai-vision-processor/,,Unknown,Hailo has developed the world’s most cost-efficient and power-efficient AI Processors designed to run sophisticated deep learning and generative AI applications on edge devices. Our AI accelerators an...,ip_camera,134.86,"High Computational Capacity 
-The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 
-TOPS NPU capability provides the enormous computational speed required to run 
-demandi...",https://www.linkedin.com/company/hailo-ai/,,success
-,Pimic Inc.,https://www.pimic.ai/,,Unknown,"PIMIC is an AI semiconductor and solution company with patent pending processing-in-memory technology. This architecture can dramatically improve Power, Performance, and Area by 10x. Our solution can ...",ip_camera,142.87,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/pimic,,success
-Adaptive Recognition,Adaptive Recognition,https://adaptiverecognition.com/,https://www.linkedin.com/company/adaptive-recognition,Singapore,"Adaptive Recognition is a global leader in recognition technology, specializing in ANPR cameras, speed enforcement systems, ANPR software, and OCR-based ID readers. Our products combine advanced AI an...",ip_camera,147.28,"2. Embedded Security and Protection 
-Differentiation is achieved by incorporating dedicated security components and 
-rigorous design practices. 
-• SE050 Secure Element (Authentication IC): The Smart G...",https://www.linkedin.com/company/adaptive-recognition,,success
-,Puwell Technology Inc.,https://www.puwell.com/,,Unknown,"At Puwell, we're a leading provider of internet camera platform services, offering PaaS, SaaS, and HaaS. We focus on open cloud platforms and OEM collaboration. Our services include comprehensive Andr...",ip_camera,149.42,"• Camera Design: The camera supports a 3-camera design for capturing 
-different angles and wide-angle viewing. 
-• Edge Processing: It is powered by the Qualcomm QCS 6490 SOC and runs on 
-Android 9.0. ...",,,success
-,Kami Vision Inc.,https://kamivision.com/en-us,,Unknown,Kami Vision is an AI services company focused on safety and security solutions that improve the quality of life for people around the world. KamiCare is a Vision AI Fall Management solution for assist...,ip_camera,150.96,"• Description: Key features include Fall Detection and Emergency Alert 
-Response, Privacy-Preserving Video Clips, Real-time Vital Capture, Natural 
-Language Understanding (NLU) Based Secondary Check, ...",https://www.linkedin.com/company/kamivision/,,success
-,iMogul AI,https://imogul.ai/,,Unknown,"iMogul AI is an entertainment-tech startup transforming how films, TV, and streaming projects get made by connecting screenwriters, audiences, and producers through AI-driven insights. Our platform me...",ip_camera,151.1,"• Video Encoding (FFmpeg): Within the cloud portal, FFmpeg is used for Video 
-Encoding, ensuring seamless management and distribution of video content. 
-• Live Streaming (WebRTC): For live streaming, ...",https://www.linkedin.com/company/imogulai/,,success
-,Voltron Technology,https://www.voltrontechnology.com/,,Unknown,"Voltron Technology is redefining what’s possible in compute and simulation. Our advanced hardware powers Edge Data Centers and immersive simulators that bring AI, training, and digital transformation ...",ip_camera,151.79,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/voltron-technology/,these critical needs,success
-,smartmicro,https://www.smartmicro.com/,,Unknown,"At smartmicro, we design, develop, and manufacture sensor solutions for traffic management and automotive industries. For more than 27 years we have been the leading specialist in high performance rad...",ip_camera,152.64,"municipal or smart city traffic management, such as License Plate 
-Recognition, Congestion Detection, Overspeed Detection, Red Light 
-Violation Detection, and Pothole Detection. 
-3. LoRaWAN and Smart ...",https://de.linkedin.com/company/smartmicro,Germany,success
-,MemryX,https://memryx.com/,,Unknown,MemryX CES Palazzo Suite is 50-819. All CES attendees are welcome. MemryX Inc. is a fabless semiconductor company that designs edge AI processing solutions powered by a proprietary compute-at-memory...,ip_camera,153.63,"in related products). 
-Core Components and Performance Metrics 
-Each RISE module integrates sophisticated processing units necessary for running 
-complex AI and multimedia applications, particularly C...",https://www.linkedin.com/company/memryx-inc/,,success
-,Marvell Technology Inc.,https://www.marvell.com/,,Unknown,"Marvell delivers data infrastructure semiconductor solutions that move, process, store and secure the world’s data. Today, we’re at the heart of the AI and cloud revolution, providing the high-perform...",ip_camera,153.92,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/marvell/,,success
-,LifeSmart,http://global.ilifesmart.com/,,Unknown,"Found in 2013, LifeSmart has become the global market's top smart home solution provider, helping more than 4 million users in over 100 countries to achieve smart homes and smart living spaces and liv...",ip_camera,154.21,"Software Development Life Cycle
-SmarTack - Retrofit Smart Switch
-● System Architecture
-● Embedded Hardware Development
-● Embedded Firmware Development
-● Cloud Architecture
-● Mobile App(Android and iOS...",,,success
-,Tribe App Pte Ltd,https://www.tribeapp.sg/,,Singapore,"TribeApp is a Singapore-based technology start-up, dedicated to revolutionising the health and wellness space with innovative, transformative solutions especially for elderly care.",ip_camera,155.42,"rapidise.co
-Unified Fall Detection And Vital Capture System 
-Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to 
-enhan...",,Singapore,success
-,Kwikset,https://www.kwikset.com/,,Unknown,"Kwikset is the leading residential lock manufacturer, making homeowners feel safe since 1946.The company’s unwavering commitment to meeting homeowners’ needs has inspired its innovative lock portfolio...",ip_camera,155.8,"rapidise.co
-Smart Gateway For Access Controller 
-The Smart Controller provides complete access control 
-intelligence in one compact device, making it easier than ever to 
-manage building security with...",https://www.linkedin.com/company/kwikset,,success
-,Weebit Nano Ltd,https://www.weebit-nano.com/,,Unknown,Weebit Nano is a leading developer and licensor of advanced semiconductor memory technology. Its ground-breaking resistive RAM (ReRAM) is a type of Non-Volatile Memory (NVM) that addresses the need fo...,ip_camera,156.19,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/weebit-nano/,,success
-,EM Microelectronic,https://www.emmicroelectronic.com/,,Unknown,"EM Microelectronic is a semiconductor manufacturer specialized in the design and production of ultra-low power, low voltage integrated circuits for battery-operated and field-powered applications acro...",ip_camera,156.22,"rapidise.co
-Simple Access Control Device
-Rapidise engaged in this project for Redesigning the existing device with new updated features with reduction of size, the device is 
-used in power stations wh...",,,"error: Page.goto: Timeout 15000ms exceeded.
-Call log:
-  - navigating to ""https://www.emmicroelectronic.com/"
-,ITON Technology Corp.,https://itoncorp.com/,,Unknown,ITON is a high-tech enterprise specializing in communication technology and application solutions.ITON (stock code: 830982) was founded in 2006 and listed on the NEEQ in 2014.,ip_camera,156.37,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",,,success
-AC Future,AC Future,https://acfuture.com/index.html,https://www.linkedin.com/company/acfuture,Unknown,"AC Future is pioneering flexible, mobile, and sustainable housing solutions, with plans to debut the AI Transformable Home (Ai-TH) at CES 2025. The Ai-TH is a cutting-edge, expandable smart home desig...",ip_camera,156.67,"Software Development Life Cycle
-SmarTack - Retrofit Smart Switch
-● System Architecture
-● Embedded Hardware Development
-● Embedded Firmware Development
-● Cloud Architecture
-● Mobile App(Android and iOS...",https://www.linkedin.com/company/ac-future/,Canada,success
-,Innatera Nanosystems BV,https://innatera.com/,,Unknown,"Innatera’s ultra-efficient neuromorphic processors mimic the brain’s mechanisms for processing sensory data. Based on a proprietary analog-mixed signal computing architecture, Innatera’s processors le...",ip_camera,156.71,"High Computational Capacity 
-The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 
-TOPS NPU capability provides the enormous computational speed required to run 
-demandi...",https://www.linkedin.com/company/innatera,Netherlands,success
-,TIMi,https://timi.org/,,Unknown,"Machine Learning, AI and Big Data is WHAT WE DO! TIMi covers all your advanced analytics needs and far more... 100% LOW CODE, our disruptive solution is 20X more efficient and practical, to extrac...",ip_camera,156.99,"rapidise.co
-Unified Fall Detection And Vital Capture System 
-Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to 
-enhan...",https://www.linkedin.com/company/timi-study-group,,success
-,Efficient Computer,https://www.efficient.computer/,,Unknown,"Efficient Computer builds the world’s most energy-efficient general-purpose processor, combining ultra-efficient hardware with intuitive, developer-friendly software. Our technology scales from “beyon...",ip_camera,157.77,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/efficientcomputer/,,success
-,Swayfish Technology,https://swayfish.com/,,Unknown,"Swayfish Technology develops IoT solutions for smart agriculture. Our flagship product, the Lykyn Smart Mushroom Grow Chamber, uses sensors and automation to create ideal growing conditions, combining...",ip_camera,158.0,"Software Development Life Cycle
-SmarTack - Retrofit Smart Switch
-● System Architecture
-● Embedded Hardware Development
-● Embedded Firmware Development
-● Cloud Architecture
-● Mobile App(Android and iOS...",,,success
-,Flush-Locks USA,https://zhidao.baidu.com/question/567144393.html,,,Creating seamless paid restroom access using integrated smart lock and payment technology. Patent pending (integrated payment and access control system for restroom facilities). This product’s int...,ip_camera,158.58,"rapidise.co
-Smart Gateway For Access Controller 
-The Smart Controller provides complete access control 
-intelligence in one compact device, making it easier than ever to 
-manage building security with...",,,no_website
-,Primech AI,https://primech.ai/,,Unknown,"Primech AI is a leading robotics company dedicated to pushing the boundaries of innovation in technology. With a team of passionate individuals and a commitment to collaboration, Primech AI is poised ...",ip_camera,159.38,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",,,success
-,Intel Corporation,https://www.intel.com/content/www/us/en/download-center/home.html,,Unknown,"Intel creates world-changing technology that enables global progress and enriches lives. Inspired by Moore's Law, we continuously work to advance the design and manufacturing of semiconductors to help...",ip_camera,162.39,"rapidise.co
-Multi-T enant Cloud Video Management Portal 
-Rapidise has a developed Multi-Tenant Custom Cloud Video Management Software to replace the existing third-party Portal. The 
-portal is a compr...",https://www.linkedin.com/company/intel-corporation,,success
-,"LatticeWork, Inc.",https://www.latticework.eu/about-us,,Singapore,"LatticeWork is a provider of Visual-Sensing Edge AI solutions. Its latest development, VAISense, combines the power of Video Analytic Intelligent Sensing combined with AI. Revitalize old security cam...",ip_camera,162.66,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",https://www.linkedin.com/company/latticework-bv/,of latticework b.v. is kennedyplein 200,success
-,Chargemate,https://www.chargemate.ai/,,Unknown,"ChargeMate is an intelligent EV charging marketplace that connects drivers with all charge point operators in one unified platform. With real-time data, seamless payments, and API-driven integrations,...",ip_camera,162.76,"• Vehicle Identification & Tracking: License Plate Recognition, Vehicle in out 
-counting, and Vehicle Classification. 
-• Violation Detection: Overspeed Detection, No helmet Detection, Red Light 
-Viola...",https://www.linkedin.com/company/chargemate-ai/about/,,success
-,LoRa Alliance,https://blog.lora-alliance.org/what-is-lorawan,,Unknown,"The LoRa Alliance® is a global, open, non-profit association dedicated to advancing the LoRaWAN® standard. Since 2015, it has become one of the largest and fastest-growing technology alliances, unitin...",ip_camera,163.38,"Gateway Operated Access Control System 
-This project focused on leveraging LoRaWAN for remote access control. 
-• Connectivity Focus (LoRaWAN Gateway): The solution was developed to open 
-and close the...",https://www.linkedin.com/company/loraalliance,,success
-,KORE Wireless,https://www.korewireless.com/,,Unknown,"KORE is a global leader in IoT solutions and services, helping organizations simplify IoT complexity and achieve better business results. With deep expertise, purpose-built solutions, and agile deploy...",ip_camera,163.94,"Rapidise integrates its access control, video management, and AI capabilities into a 
-cohesive system that uses smart edge devices to communicate actionable intelligence 
-to a centralized, multi-tenan...",https://www.linkedin.com/company/kore-wireless/,,success
-,VMS ELEKTRONIK,https://www.vmselektronik.com/en/,,Unknown,"VMS was founded by Mustafa Dayanıklı, an electronics engineer and the company's founder.Today, VMS, which is on a “technology journey” together with its customers and staff, continues its efforts to d...",ip_camera,164.12,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",https://www.linkedin.com/company/vmselektronik/,,success
-,Teads Holding Co.,https://www.teads.com/,,Unknown,"Teads Holding Co. (“Teads”) (Nasdaq: TEAD) is the omnichannel outcomes platform for the Open Internet, driving full-funnel results for marketers across premium media.",ip_camera,164.43,"rapidise.co
-Multi-T enant Cloud Video Management Portal 
-Rapidise has a developed Multi-Tenant Custom Cloud Video Management Software to replace the existing third-party Portal. The 
-portal is a compr...",https://www.linkedin.com/company/teads/,,success
-,Silicon Labs,https://www.zhihu.com/question/402960515,,,"The leader in silicon, software and solutions for a smarter, more connected world.",ip_camera,164.55,"The differentiation in Rapidise’s security offerings is driven by a powerful combination 
-of high-performance chipsets for edge intelligence, multi-protocol communication 
-for versatile deployment, em...",,,no_website
-,CMI Health Inc.,https://cmihealth-inc.com/,,Unknown,"CMI Health, Inc. is dedicated to providing innovative, convenient, and affordable patient monitoring devices and cloud-based solutions for medical professionals in healthcare facilities and consumers ...",ip_camera,165.49,"rapidise.co
-Unified Fall Detection And Vital Capture System 
-Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to 
-enhan...",,,success
-,floLIVE,https://flolive.net/,,Unknown,"floLIVE provides the best global cellular connectivity for IoT. We own and operate the world’s largest cellular network, for unmatched coverage, performance, and availability. Our platform and multi-I...",ip_camera,166.04,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",https://www.linkedin.com/company/flo-live/,,success
-,ARPA-E,https://www.arpae-summit.com/,,Unknown,The Department of Energy Advanced Research Projects Agency-Energy (ARPA-E) funds and directs the discovery and development of outlier energy technologies to advance American-made energy for all. ARPA-...,ip_camera,166.63,"rapidise.co
-Simple Access Control Device
-Rapidise engaged in this project for Redesigning the existing device with new updated features with reduction of size, the device is 
-used in power stations wh...",,,success
-,Arm Ltd,,,,"Arm is the industry’s most energy-efficient, high-performance compute platform—driving innovation across every connected device. Together with the world’s largest computing ecosystem and 22 million de...",ip_camera,167.1,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",,,no_website
-,AniMed Technology Limited,https://animedtech.com:8888/,,Unknown,"AniMed Technology Limited is a high-tech startup focused on edge intelligence and fiber optic sensing technologies, dedicated to developing next-generation vital sign monitoring systems. Integrating h...",ip_camera,167.47,"rapidise.co
-Unified Fall Detection And Vital Capture System 
-Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to 
-enhan...",,,success
-,RiseLink,,,,"RiseLink is a top global producer of AIoT chipsets, shipping 300M+ units each year. Our ultra-low-power Wi-Fi and Bluetooth LE solutions bring intelligence to everyday products—from toys and robots to...",ip_camera,167.91,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",,,no_website
-,Rolling Square,https://rollingsquare.com/,,Unknown,"Natura Umana creates a natural, voice-first AI ecosystem through NatureOS and HumanPods, liberating users from screen dependency. Rolling Square designs groundbreaking consumer electronics that solve ...",ip_camera,169.03,"Software Development Life Cycle
-SmarTouch – Premium Smart Switch
-● System Architecture
-● Embedded Hardware Development
-● Embedded Firmware Development
-● Cloud Architecture
-● Mobile App(Android and iOS...",,,success
-,NETGEAR,https://www.netgear.com/,,Unknown,"Founded in 1996 and headquartered in the USA, NETGEAR is a global leader in innovative networking technologies for businesses, homes, and service providers. NETGEAR delivers a wide range of award-winn...",ip_camera,169.94,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/netgear/,,success
-AirGemba,AirGemba,https://www.f6s.com/company/airgemba,https://www.linkedin.com/company/airgemba,," AirGemba is an industrial IoT platform providing cloud-based solutions for operational continuity, integrating LoRaWAN devices, MQTT gateways, AI analytics, and predictive maintenance to monitor equipment, minimize downtime, optimize efficiency, and reduce costs across manufacturing and industrial sectors.",ip_camera,170.64,"Gateway Operated Access Control System 
-This project focused on leveraging LoRaWAN for remote access control. 
-• Connectivity Focus (LoRaWAN Gateway): The solution was developed to open 
-and close the...",,,no_website
-,"Ceva, Inc.",https://www.ceva-ip.com/press/cevas-20-billion-device-milestone-paves-the-way-for-a-new-era-in-smart-edge-innovation/,,Unknown,"At Ceva, we are passionate about the smart edge. Providing the technology and market expertise our customers need to be successful is what we do best. With the industry’s only portfolio of comprehensi...",ip_camera,172.18,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/ceva/,are in rockville,success
-,F-Secure,https://www.f-secure.com/en,,Unknown,"F-Secure makes every digital moment more secure, for everyone. We deliver brilliantly simple, frictionless security experiences that make life easier for the tens of millions of people we protect an...",ip_camera,173.45,"2. Embedded Security and Protection 
-Differentiation is achieved by incorporating dedicated security components and 
-rigorous design practices. 
-• SE050 Secure Element (Authentication IC): The Smart G...",https://www.linkedin.com/company/f-secure-corporation,USA,success
-,Samba TV,https://www.samba.tv/,,Unknown,"Samba TV is the global leader in television technology powering real-time insights and audience targeting. We provide advertisers and media companies a unified view of the entire consumer journey, de...",ip_camera,173.53,"• Camera Design: The camera supports a 3-camera design for capturing 
-different angles and wide-angle viewing. 
-• Edge Processing: It is powered by the Qualcomm QCS 6490 SOC and runs on 
-Android 9.0. ...",https://www.linkedin.com/company/free-stream-media-corp-/,,success
-,EDGE Sound Research,https://www.edgesoundresearch.com/,,Unknown,"EDGE Sound Research is the leading multimodal audio research organization building an intelligent audio infrastructure isolating sound objects in real time—enabling personalized, immersive, and embodi...",ip_camera,174.77,"A. AI on Edge for Real-Time Insights 
-• High-performance edge devices, such as the Surveillance AI Camera and Edge 
-AI Box powered by the Qualcomm QCS 6490 SOC (12 TOPS NPU), perform real-
-time proces...",https://www.linkedin.com/company/edge-sound-research,,success
-,SEVENPOINTONE,https://en.wikipedia.org/wiki/List_of_Indian_records_in_athletics,,,"We are developing solutions for aging society including AlzWIN, an FDA-registered AI dementia screener using 1-minute voice data. The AI solution uses semantic and lexical speech analysis for early, a...",ip_camera,174.92,"• Description: Key features include Fall Detection and Emergency Alert 
-Response, Privacy-Preserving Video Clips, Real-time Vital Capture, Natural 
-Language Understanding (NLU) Based Secondary Check, ...",,,no_website
-,"Emnify, Inc.",https://www.emnify.com/,,Unknown,"emnify is the leading IoT connectivity partner to the innovators building our connected world. Founded in 2014 in Germany, emnify developed the industry’s first cloud-native, global connectivity – the...",ip_camera,175.02,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",https://www.linkedin.com/company/emnify/,,success
-,"Emnify, Inc.",https://www.emnify.com/,,Unknown,"emnify is the leading IoT connectivity partner to the innovators building our connected world. Founded in 2014 in Germany, emnify developed the industry’s first cloud-native, global connectivity – the...",ip_camera,175.02,"Tenant Access Control System and the Smart Gateway For Access 
-Controller) act as the physical intelligence points. 
-• These devices leverage various communication protocols, including Cellular, 
-Ethe...",https://www.linkedin.com/company/emnify/,,success
-,PayPal,https://www.paypal.com/tf/webapps/mpp/home?locale.x=en_US,,Unknown,"PayPal has remained at the forefront of the digital payment revolution for more than 20 years. By leveraging technology to make financial services and commerce more convenient, affordable and secure, ...",ip_camera,175.52,"rapidise.co
-Billing/Subscription Management on Cloud 
-Payment Gateway Options
-● Stripe
-● Apple Pay
-● PayPal
-● Authorize.Net
-● Braintree
-● 2Checkout
-● Amazon Pay",,,success
-,Efficient Computer,https://www.zhihu.com/question/30777853,,,"Efficient Computer builds the world’s most energy-efficient general-purpose processor, combining ultra-efficient hardware with intuitive, developer-friendly software. Our technology scales from “beyon...",ip_camera,175.99,"High Computational Capacity 
-The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 
-TOPS NPU capability provides the enormous computational speed required to run 
-demandi...",,,no_website
-,Human Security for All (HS4A),https://humanornot.so/start-search,,, ,ip_camera,176.86,"rapidise.co
-T elep An AI Model Library – Security & Surveillance – Safety Application 
-Leakage
-Detection
-Tailgating
-Warning
-Facial Recognition 
-System
-Sign Language 
-Detection
-Word
-Spotting
-Gesture
-Co...",,,success
-AiDot Inc.,AiDot Inc.,https://aidotapp.com/,https://www.linkedin.com/company/aidot-smart-home,Unknown,"AiDot improves quality of life through technological development, and delivers tomorrow's smart home today. AiDot utilizes smart home technology to address the real needs of today’s busy world and del...",ip_camera,176.87,"Software Development Life Cycle
-SmarTouch – Premium Smart Switch
-● System Architecture
-● Embedded Hardware Development
-● Embedded Firmware Development
-● Cloud Architecture
-● Mobile App(Android and iOS...",,,success
-,CheckIn-Alarm.com,https://www.alarm.com/login.aspx,,Unknown,"Specialists in AI & IoT, Checkin-Alarm.com by Artifeel develops security products adaptable to any environment. Our Check'In range is an all-in-one alarm and monitoring system, uniquely featuring bu...",ip_camera,177.09,"2. Embedded Security and Protection 
-Differentiation is achieved by incorporating dedicated security components and 
-rigorous design practices. 
-• SE050 Secure Element (Authentication IC): The Smart G...",https://www.linkedin.com/company/alarm-com,United States,success
-ACCESS BRAIN,ACCESS BRAIN,https://www.zhihu.com/question/329637605,Not found on website,,AI solutions to assist salespeople and managers during their interviews. The user knows what to say and what posture to hold in order to create a feeling of proximity to the customer or employee. Allo...,ip_camera,177.09,"competencies include: 
-• Computer Vision 
-• Edge Computing & AI 
-• Algorithm Development 
-• Natural Language Processing (NLP) 
-• Specific Detection: Object Detection and Face Detection. 
-• Advanced Ap...",,,no_website
-,"Mobilint, Inc.",https://tracxn.com/d/companies/mobilint/__hckUK_xFTYfAksk2tp5tlscOVyP7GJmefjCAWzTeZ_U,,,"Mobilint brings AI closer to everyday life with power-efficient, high-performance AI chip solutions. Its flagship NPUs, ARIES and REGULUS, are advanced AI chips capable of handling heavy-duty deep le...",ip_camera,177.16,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",,,no_website
-,"Synopsys, Inc.",https://www.synopsys.com/,,Unknown,Synopsys delivers leading silicon to systems design solutions that maximize our customers’ R&D capability and productivity. Companies trust Synopsys to pioneer new technologies getting them to market ...,ip_camera,177.5,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This 
-extreme processing power enables sophisticated AI on Edge for 
-immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/synopsys,,success
-,PERCIVAI,https://khiladi11.net/,,,"Expensive sensors like LiDAR drive up costs for automated vehicles and robots. At Perciv AI, we cut these expenses by replacing LiDAR with our AI-driven perception, which uses radars or radar-camera f...",ip_camera,178.14,"• Vehicle Identification & Tracking: License Plate Recognition, Vehicle in out 
-counting, and Vehicle Classification. 
-• Violation Detection: Overspeed Detection, No helmet Detection, Red Light 
-Viola...",,,no_website
-,Wyebot,https://wyebot.com/,,Unknown,"Wyebot is the leader in AI-Driven WiFi automation, leveraging AI technology to end the time-consuming, manual process of network optimization; restoring time, money, and energy to IT teams and their c...",ip_camera,178.35,"allows for flexible deployment, high-bandwidth video streaming back to the cloud, and 
-reliable data uplink using the MQTT protocol. The ability to support FOTA (Firmware 
-Over the Air) updates via th...",https://www.linkedin.com/company/wyebot-inc/,,success
+,Syntiant Corp.,https://www.syntiant.com/,,Unknown,"Syntiant® delivers highly efficient processor, sensor, and software solutions. With more than 100 million purpose-built silicon and ML models deployed, along with billions of MEMS microphones and sens...",ip_camera,115.54,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/syntiant-corp/,,success
+,Visionary.ai,https://www.visionary.ai/,,Unknown,"Listed in the 100 Most Promising AI Startups of 2023, Visionary.ai empowers cameras to capture state-of-the-art video quality in extreme low light and HDR. The software uses edge AI to deliver result...",ip_camera,120.62,"High Computational Capacity The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 TOPS NPU capability provides the enormous computational speed required to run demandi...",https://www.linkedin.com/company/visionary-ai/about/,,success
+,Algorized,https://www.algorized.com/,,Unknown,"Algorized software platform leverages proprietary machine learning algorithms and advanced sensor fusion techniques, including ultra-wideband (UWB) and wireless sensors, to enable real-time human pres...",ip_camera,122.84,"• Description: Key features include Fall Detection and Emergency Alert Response, Privacy-Preserving Video Clips, Real-time Vital Capture, Natural Language Understanding (NLU) Based Secondary Check, ...",https://www.linkedin.com/company/algorized,USA,success
+,Telit Cinterion,https://www.telit.com/,,Unknown,"Telit Cinterion is a leading IoT enabler offering end-to-end solutions, from connected devices and wireless modules to MVNO connectivity, edge-cloud software and IoT platforms. As the largest western ...",ip_camera,129.22,"features for video playback, customization, and analytics. • Architecture: The solution uses Amazon Web Services (AWS) for cloud infrastructure, ReactJS for the frontend, NodeJS for the backend, and...",https://www.linkedin.com/company/269797/,,success
+,"Quadric, Inc.",https://quadric.io/about/,,Unknown,Quadric® is a semiconductor IP licensing company offering unified hardware/software architecture for efficient on-device AI and DSP processing. Its Chimera™ GPNPU merges the strengths of NPUs and DSPs...,ip_camera,132.16,"High Computational Capacity The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 TOPS NPU capability provides the enormous computational speed required to run demandi...",https://www.linkedin.com/company/quadric.io,330 primrose rd,success
+,Ubicept,https://www.ubicept.com/,,Unknown,Ubicept revolutionizes how machines perceive the world by combining next-generation image sensors with advanced computer vision algorithms.,ip_camera,132.84,"allows for flexible deployment, high-bandwidth video streaming back to the cloud, and reliable data uplink using the MQTT protocol. The ability to support FOTA (Firmware Over the Air) updates via th...",https://www.linkedin.com/company/ubicept,,success
+,Cosito,https://www.zumafreegames.com/,,,"Venture-backed, MIT-founded startup building AI-powered microphones that let frontline teams log data by voice—no physical forms, no typing. Just say it, we log it!",ip_camera,134.52,"Information Technology stack, particularly the Cloud VMS, is like the remote recording studio and distribution platform, collecting the music (video streams/data), analyzing it (Amazon Rekognition),...",,,no_website
+,Hailo,https://hailo.ai/products/ai-vision-processors/hailo-15-ai-vision-processor/,,Unknown,Hailo has developed the world's most cost-efficient and power-efficient AI Processors designed to run sophisticated deep learning and generative AI applications on edge devices. Our AI accelerators an...,ip_camera,134.86,"High Computational Capacity The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 TOPS NPU capability provides the enormous computational speed required to run demandi...",https://www.linkedin.com/company/hailo-ai/,,success
+,Pimic Inc.,https://www.pimic.ai/,,Unknown,"PIMIC is an AI semiconductor and solution company with patent pending processing-in-memory technology. This architecture can dramatically improve Power, Performance, and Area by 10x. Our solution can ...",ip_camera,142.87,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/pimic,,success
+Adaptive Recognition,Adaptive Recognition,https://adaptiverecognition.com/,https://www.linkedin.com/company/adaptive-recognition,Singapore,"Adaptive Recognition is a global leader in recognition technology, specializing in ANPR cameras, speed enforcement systems, ANPR software, and OCR-based ID readers. Our products combine advanced AI an...",ip_camera,147.28,2. Embedded Security and Protection Differentiation is achieved by incorporating dedicated security components and rigorous design practices. • SE050 Secure Element (Authentication IC): The Smart G...,https://www.linkedin.com/company/adaptive-recognition,,success
+,Puwell Technology Inc.,https://www.puwell.com/,,Unknown,"At Puwell, we're a leading provider of internet camera platform services, offering PaaS, SaaS, and HaaS. We focus on open cloud platforms and OEM collaboration. Our services include comprehensive Andr...",ip_camera,149.42,• Camera Design: The camera supports a 3-camera design for capturing different angles and wide-angle viewing. • Edge Processing: It is powered by the Qualcomm QCS 6490 SOC and runs on Android 9.0. ...,,,success
+,Kami Vision Inc.,https://kamivision.com/en-us,,Unknown,Kami Vision is an AI services company focused on safety and security solutions that improve the quality of life for people around the world. KamiCare is a Vision AI Fall Management solution for assist...,ip_camera,150.96,"• Description: Key features include Fall Detection and Emergency Alert Response, Privacy-Preserving Video Clips, Real-time Vital Capture, Natural Language Understanding (NLU) Based Secondary Check, ...",https://www.linkedin.com/company/kamivision/,,success
+,iMogul AI,https://imogul.ai/,,Unknown,"iMogul AI is an entertainment-tech startup transforming how films, TV, and streaming projects get made by connecting screenwriters, audiences, and producers through AI-driven insights. Our platform me...",ip_camera,151.1,"• Video Encoding (FFmpeg): Within the cloud portal, FFmpeg is used for Video Encoding, ensuring seamless management and distribution of video content. • Live Streaming (WebRTC): For live streaming, ...",https://www.linkedin.com/company/imogulai/,,success
+,Voltron Technology,https://www.voltrontechnology.com/,,Unknown,"Voltron Technology is redefining what's possible in compute and simulation. Our advanced hardware powers Edge Data Centers and immersive simulators that bring AI, training, and digital transformation ...",ip_camera,151.79,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/voltron-technology/,these critical needs,success
+,smartmicro,https://www.smartmicro.com/,,Unknown,"At smartmicro, we design, develop, and manufacture sensor solutions for traffic management and automotive industries. For more than 27 years we have been the leading specialist in high performance rad...",ip_camera,152.64,"municipal or smart city traffic management, such as License Plate Recognition, Congestion Detection, Overspeed Detection, Red Light Violation Detection, and Pothole Detection. 3. LoRaWAN and Smart ...",https://de.linkedin.com/company/smartmicro,Germany,success
+,MemryX,https://memryx.com/,,Unknown,MemryX CES Palazzo Suite is 50-819. All CES attendees are welcome. MemryX Inc. is a fabless semiconductor company that designs edge AI processing solutions powered by a proprietary compute-at-memory...,ip_camera,153.63,"in related products). Core Components and Performance Metrics Each RISE module integrates sophisticated processing units necessary for running complex AI and multimedia applications, particularly C...",https://www.linkedin.com/company/memryx-inc/,,success
+,Marvell Technology Inc.,https://www.marvell.com/,,Unknown,"Marvell delivers data infrastructure semiconductor solutions that move, process, store and secure the world's data. Today, we're at the heart of the AI and cloud revolution, providing the high-perform...",ip_camera,153.92,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/marvell/,,success
+,LifeSmart,http://global.ilifesmart.com/,,Unknown,"Found in 2013, LifeSmart has become the global market's top smart home solution provider, helping more than 4 million users in over 100 countries to achieve smart homes and smart living spaces and liv...",ip_camera,154.21,Software Development Life Cycle SmarTack - Retrofit Smart Switch ● System Architecture ● Embedded Hardware Development ● Embedded Firmware Development ● Cloud Architecture ● Mobile App(Android and iOS...,,,success
+,Tribe App Pte Ltd,https://www.tribeapp.sg/,,Singapore,"TribeApp is a Singapore-based technology start-up, dedicated to revolutionising the health and wellness space with innovative, transformative solutions especially for elderly care.",ip_camera,155.42,rapidise.co Unified Fall Detection And Vital Capture System Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to enhan...,,Singapore,success
+,Kwikset,https://www.kwikset.com/,,Unknown,"Kwikset is the leading residential lock manufacturer, making homeowners feel safe since 1946.The company's unwavering commitment to meeting homeowners' needs has inspired its innovative lock portfolio...",ip_camera,155.8,"rapidise.co Smart Gateway For Access Controller The Smart Controller provides complete access control intelligence in one compact device, making it easier than ever to manage building security with...",https://www.linkedin.com/company/kwikset,,success
+,Weebit Nano Ltd,https://www.weebit-nano.com/,,Unknown,Weebit Nano is a leading developer and licensor of advanced semiconductor memory technology. Its ground-breaking resistive RAM (ReRAM) is a type of Non-Volatile Memory (NVM) that addresses the need fo...,ip_camera,156.19,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/weebit-nano/,,success
+,EM Microelectronic,https://www.emmicroelectronic.com/,,Unknown,"EM Microelectronic is a semiconductor manufacturer specialized in the design and production of ultra-low power, low voltage integrated circuits for battery-operated and field-powered applications acro...",ip_camera,156.22,"rapidise.co Simple Access Control Device Rapidise engaged in this project for Redesigning the existing device with new updated features with reduction of size, the device is used in power stations wh...",,,"error: Page.goto: Timeout 15000ms exceeded. Call log: - navigating to ""https://www.emmicroelectronic.com/"
+,ITON Technology Corp.,https://itoncorp.com/,,Unknown,ITON is a high-tech enterprise specializing in communication technology and application solutions.ITON (stock code: 830982) was founded in 2006 and listed on the NEEQ in 2014.,ip_camera,156.37,"Tenant Access Control System and the Smart Gateway For Access Controller) act as the physical intelligence points. • These devices leverage various communication protocols, including Cellular, Ethe...",,,success
+AC Future,AC Future,https://acfuture.com/index.html,https://www.linkedin.com/company/acfuture,Unknown,"AC Future is pioneering flexible, mobile, and sustainable housing solutions, with plans to debut the AI Transformable Home (Ai-TH) at CES 2025. The Ai-TH is a cutting-edge, expandable smart home desig...",ip_camera,156.67,Software Development Life Cycle SmarTack - Retrofit Smart Switch ● System Architecture ● Embedded Hardware Development ● Embedded Firmware Development ● Cloud Architecture ● Mobile App(Android and iOS...,https://www.linkedin.com/company/ac-future/,Canada,success
+,Innatera Nanosystems BV,https://innatera.com/,,Unknown,"Innatera's ultra-efficient neuromorphic processors mimic the brain's mechanisms for processing sensory data. Based on a proprietary analog-mixed signal computing architecture, Innatera's processors le...",ip_camera,156.71,"High Computational Capacity The processing foundation, such as the Qualcomm QCS 6490, is crucial because its 12 TOPS NPU capability provides the enormous computational speed required to run demandi...",https://www.linkedin.com/company/innatera,Netherlands,success
+,TIMi,https://timi.org/,,Unknown,"Machine Learning, AI and Big Data is WHAT WE DO! TIMi covers all your advanced analytics needs and far more... 100% LOW CODE, our disruptive solution is 20X more efficient and practical, to extrac...",ip_camera,156.99,rapidise.co Unified Fall Detection And Vital Capture System Rapidise has developed a groundbreaking unified fall detection and vital capture system that integrates cutting-edge technologies to enhan...,https://www.linkedin.com/company/timi-study-group,,success
+,Human Security for All (HS4A),https://humanornot.so/start-search,,,,ip_camera,176.86,rapidise.co T elep An AI Model Library – Security & Surveillance – Safety Application Leakage Detection Tailgating Warning Facial Recognition System Sign Language Detection Word Spotting Gesture Co...,,,success
+AiDot Inc.,AiDot Inc.,https://aidotapp.com/,https://www.linkedin.com/company/aidot-smart-home,Unknown,"AiDot improves quality of life through technological development, and delivers tomorrow's smart home today. AiDot utilizes smart home technology to address the real needs of today's busy world and del...",ip_camera,176.87,Software Development Life Cycle SmarTouch – Premium Smart Switch ● System Architecture ● Embedded Hardware Development ● Embedded Firmware Development ● Cloud Architecture ● Mobile App(Android and iOS...,,,success
+,CheckIn-Alarm.com,https://www.alarm.com/login.aspx,,Unknown,"Specialists in AI & IoT, Checkin-Alarm.com by Artifeel develops security products adaptable to any environment. Our Check'In range is an all-in-one alarm and monitoring system, uniquely featuring bu...",ip_camera,177.09,2. Embedded Security and Protection Differentiation is achieved by incorporating dedicated security components and rigorous design practices. • SE050 Secure Element (Authentication IC): The Smart G...,https://www.linkedin.com/company/alarm-com,United States,success
+ACCESS BRAIN,ACCESS BRAIN,https://www.zhihu.com/question/329637605,Not found on website,,AI solutions to assist salespeople and managers during their interviews. The user knows what to say and what posture to hold in order to create a feeling of proximity to the customer or employee. Allo...,ip_camera,177.09,competencies include: • Computer Vision • Edge Computing & AI • Algorithm Development • Natural Language Processing (NLP) • Specific Detection: Object Detection and Face Detection. • Advanced Ap...,,,no_website
+,"Mobilint, Inc.",https://tracxn.com/d/companies/mobilint/__hckUK_xFTYfAksk2tp5tlscOVyP7GJmefjCAWzTeZ_U,,,"Mobilint brings AI closer to everyday life with power-efficient, high-performance AI chip solutions. Its flagship NPUs, ARIES and REGULUS, are advanced AI chips capable of handling heavy-duty deep le...",ip_camera,177.16,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",,,no_website
+,"Synopsys, Inc.",https://www.synopsys.com/,,Unknown,Synopsys delivers leading silicon to systems design solutions that maximize our customers' R&D capability and productivity. Companies trust Synopsys to pioneer new technologies getting them to market ...,ip_camera,177.5,"(NPU) capable of 12 TOPS (Trillions of Operations Per Second). This extreme processing power enables sophisticated AI on Edge for immediate analysis of video data, supporting applications like Intru...",https://www.linkedin.com/company/synopsys,,success
+,PERCIVAI,https://khiladi11.net/,,,"Expensive sensors like LiDAR drive up costs for automated vehicles and robots. At Perciv AI, we cut these expenses by replacing LiDAR with our AI-driven perception, which uses radars or radar-camera f...",ip_camera,178.14,"• Vehicle Identification & Tracking: License Plate Recognition, Vehicle in out counting, and Vehicle Classification. • Violation Detection: Overspeed Detection, No helmet Detection, Red Light Viola...",,,no_website
+,Wyebot,https://wyebot.com/,,Unknown,"Wyebot is the leader in AI-Driven WiFi automation, leveraging AI technology to end the time-consuming, manual process of network optimization; restoring time, money, and energy to IT teams and their c...",ip_camera,178.35,"allows for flexible deployment, high-bandwidth video streaming back to the cloud, and reliable data uplink using the MQTT protocol. The ability to support FOTA (Firmware Over the Air) updates via th...",https://www.linkedin.com/company/wyebot-inc/,,success

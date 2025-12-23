@@ -29,6 +29,7 @@ data/*
 data/Companies/*
 !data/Companies/CES_2026_*.csv
 !data/Companies/CES_2026_RAG_MATCHED.csv
+!data/Rapidise_capabilities_deck/
 
 # Crawl4ai source (too large, install via pip instead)
 crawl4ai-main/src/ces_venv/

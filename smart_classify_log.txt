@@ -1,0 +1,58 @@
+/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/test_env/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+ENHANCED SMART CLASSIFICATION WITH HUMAN REVIEW TIER
+Time: 2025-12-19 07:46:52.785092
+============================================================
+Total: 394 companies
+Resuming: 350 already processed
+[351/394] Videx Security Limited... → NEEDS_REVIEW
+[352/394] Recharge (Charge Point Operator)... → NEEDS_REVIEW
+[353/394] Wirtek A/S... → NEEDS_REVIEW
+[354/394] Zaptec... → NEEDS_REVIEW
+[355/394] ABAX... → NEEDS_REVIEW
+[356/394] ams OSRAM... → NEEDS_REVIEW
+[357/394] Autoneum... → NEEDS_REVIEW
+[358/394] FleetGO? Telematics... → NEEDS_REVIEW
+[359/394] Fleets International Enterprises... → NEEDS_REVIEW
+[360/394] Gurtam... → NEEDS_REVIEW
+[361/394] LeasePlan Italia... → NEEDS_REVIEW
+[362/394] Nextbase... → RELEVANT
+[363/394] Octo Telematics... → NEEDS_REVIEW
+[364/394] OSRAM... → NEEDS_REVIEW
+[365/394] VisionTrack... → RELEVANT
+[366/394] ARS ALTMANN AG... → NEEDS_REVIEW
+[367/394] Alfred Schuon Group... → NEEDS_REVIEW
+[368/394] Barth + Co. Spedition GmbH & Co.KG... → NEEDS_REVIEW
+[369/394] BURSPED... → NEEDS_REVIEW
+[370/394] Chapman Freeborn OBC... → NEEDS_REVIEW
+[371/394] CYCLE... → NOT_RELEVANT
+[372/394] FERNRIDE... → RELEVANT
+[373/394] GEORGI GROUP... → NEEDS_REVIEW
+[374/394] HGK HÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NOT_RELEVANT
+[375/394] KLN Freight... → NEEDS_REVIEW
+[376/394] LPR Group... → NEEDS_REVIEW
+[377/394] Night Star Express GmbH Logistik... → NEEDS_REVIEW
+[378/394] ONLOGIST GmbH... → NEEDS_REVIEW
+[379/394] Telekom MobilitySolutions... → NEEDS_REVIEW
+[380/394] Urban-Transporte GmbH... → NEEDS_REVIEW
+[381/394] WLC WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[382/394] B&G Entrance Control... → NEEDS_REVIEW
+[383/394] Bticino... → NEEDS_REVIEW
+[384/394] CERTEGO Group... → NEEDS_REVIEW
+[385/394] Cosmo Connected... → RELEVANT
+[386/394] Gira Giersiepen GmbH & Co KG... → NEEDS_REVIEW
+[387/394] HB Hekwerk Oost... → RELEVANT
+[388/394] Heda Security AB... → NEEDS_REVIEW
+[389/394] Netatmo... → NEEDS_REVIEW
+[390/394] Resideo... → RELEVANT
+[391/394] RISCO Group... → NEEDS_REVIEW
+
+============================================================
+SUMMARY
+Category
+NEEDS_REVIEW    315
+RELEVANT         43
+NOT_RELEVANT     33
+Name: count, dtype: int64
+============================================================

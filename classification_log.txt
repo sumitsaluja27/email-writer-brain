@@ -1,0 +1,1470 @@
+/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/test_env/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+COMPANY CLASSIFICATION - STARTED
+Time: 2025-12-13 10:55:40
+============================================================
+
+============================================================
+Processing: data/Companies/complete_list.csv
+Output: data/Companies/complete_list_CLASSIFIED.csv
+============================================================
+Total rows: 7203
+Unique companies: 2790
+[1/2790] CoinMarketCap → access_control
+[2/2790] Fuse → access_control
+[3/2790] Jari Solutions → access_control
+[4/2790] SmartStay → ip_camera
+[5/2790] SWATX → access_control
+[6/2790] arabot → not_relevant
+[7/2790] ViaLink.tech → access_control
+[8/2790] Orion Innovation → access_control
+[9/2790] Alex Digital Products → beacon
+[10/2790] KMT → access_control
+  [Saved progress: 10 companies]
+[11/2790] Metadata Solutions → access_control
+[12/2790] Iman For Education and Vocational Traini → access_control
+[13/2790] Media3Labs → access_control
+[14/2790] Techless → access_control
+[15/2790] Jingle App → ip_camera
+[16/2790] Samreen's Vanity → access_control
+[17/2790] Pedul → access_control
+[18/2790] Redline Safety → access_control
+[19/2790] Respace → ip_camera
+[20/2790] Orokii → bodycam_enduser
+  [Saved progress: 20 companies]
+[21/2790] Nectar Hard Seltzer → access_control
+[22/2790] TeamSports AI → not_relevant
+[23/2790] AlphaOmega Agency → access_control
+[24/2790] Civic Champs → access_control
+[25/2790] SnapEDA → access_control
+[26/2790] DecisionNext → access_control
+[27/2790] Influur → access_control
+[28/2790] Kalepa → bodycam_enduser
+[29/2790] Passage Labs → access_control
+[30/2790] Sail AI → access_control
+  [Saved progress: 30 companies]
+[31/2790] SECONDSENSE → access_control
+[32/2790] Splash Inc. → access_control
+[33/2790] Streamlane → access_control
+[34/2790] Thyme Care → access_control
+[35/2790] TRM Labs → access_control
+[36/2790] Vontive → access_control
+[37/2790] WeGive → access_control
+[38/2790] Consensus → access_control
+[39/2790] Sekai → access_control
+[40/2790] OrdinalsBot → access_control
+  [Saved progress: 40 companies]
+[41/2790] AvidCare → access_control
+[42/2790] CEF.AI → access_control
+[43/2790] ON1, Inc. → access_control
+[44/2790] Shotstack → access_control
+[45/2790] Readyset | Scaling Postgres and MySQL Da → access_control
+[46/2790] Ground Signal → access_control
+[47/2790] MealMe → access_control
+[48/2790] RepVue → ip_camera
+[49/2790] PayRecs → access_control
+[50/2790] Pubgenius Inc. → access_control
+  [Saved progress: 50 companies]
+[51/2790] Gabb Global → access_control
+[52/2790] CoachIQ → access_control
+[53/2790] Readyset  → access_control
+[54/2790] Autotalks → ip_camera
+[55/2790] H2Pro → bodycam_enduser
+[56/2790] Pliops → bodycam_enduser
+[57/2790] Vayyar Imaging Ltd. → ip_camera
+[58/2790] TriEye → ip_camera
+[59/2790] Volta Solar → access_control
+[60/2790] ZES AB → in_cabin
+  [Saved progress: 60 companies]
+[61/2790] InfiniLink → bodycam_enduser
+[62/2790] Hydrogen Systems → access_control
+[63/2790] Altair Semiconductor → access_control
+[64/2790] NAREVA HOLDING → access_control
+[65/2790] Polat Enerji → access_control
+[66/2790] Pearl Semiconductor → access_control
+[67/2790] Xsight Labs LTD → in_cabin
+[68/2790] Phanes Group → access_control
+[69/2790] Corephotonics Ltd → not_relevant
+[70/2790] Bright Machines → access_control
+  [Saved progress: 70 companies]
+[71/2790] Sunergy Solar LLC → access_control
+[72/2790] Si-Ware Systems → access_control
+[73/2790] EDF Renewables Israel → access_control
+[74/2790] KarmSolar → access_control
+[75/2790] Tek Solar → ip_camera
+[76/2790] Sony Semicon (IL) → access_control
+[77/2790] Ryse Energy → access_control
+[78/2790] localize corp → access_control
+[79/2790] Consensys → access_control
+[80/2790] breeze way → access_control
+  [Saved progress: 80 companies]
+[81/2790] sintra → access_control
+[82/2790] Alesig → access_control
+[83/2790] Data concept → access_control
+[84/2790] Simis Inc → access_control
+[85/2790] Sweat Works → access_control
+[86/2790] Segue Tech → access_control
+[87/2790] myOCV → access_control
+[88/2790] interweave.technologies → access_control
+[89/2790] teamairship → access_control
+[90/2790] SigaoStudios → access_control
+  [Saved progress: 90 companies]
+[91/2790] Tek Five → access_control
+[92/2790] ASKBIS → access_control
+[93/2790] metova → access_control
+[94/2790] work with few → access_control
+[95/2790] iCodice → access_control
+[96/2790] Rockstar Coders → access_control
+[97/2790] Carminati Consulting, Inc. → access_control
+[98/2790] Lextech → access_control
+[99/2790] Adage Technologies → access_control
+[100/2790] Electric Air → in_cabin
+  [Saved progress: 100 companies]
+[101/2790] AAK TELE-SCIENCE, INC. → access_control
+[102/2790] REM Waste Management → access_control
+[103/2790] infoteam Software AG → access_control
+[104/2790] Infoteam software Ag → not_relevant
+[105/2790] Goodnotes → access_control
+[106/2790] SimSpace → access_control
+[107/2790] Send → ip_camera
+[108/2790] Pimcore → access_control
+[109/2790] gicom → access_control
+[110/2790] Inclusively → access_control
+  [Saved progress: 110 companies]
+[111/2790] Azurreo → not_relevant
+[112/2790] Acria Network → access_control
+[113/2790] SEMRON GmbH → access_control
+[114/2790] QuantumDiamonds → not_relevant
+[115/2790] AMS Technologies AG → access_control
+[116/2790] RCT Power → access_control
+[117/2790] ILOS Projects → access_control
+[118/2790] FaradaIC Sensors → access_control
+[119/2790] INURU GmbH → bodycam_enduser
+[120/2790] H2APEX → ip_camera
+  [Saved progress: 120 companies]
+[121/2790] BORDA-Africa → access_control
+[122/2790] vilisto GmbH → ip_camera
+[123/2790] CropEnergies AG → access_control
+[124/2790] AMPEERS ENERGY GmbH → access_control
+[125/2790] WATTKRAFT Group → access_control
+[126/2790] GLOBE Fuel Cell Systems → access_control
+[127/2790] aream group → access_control
+[128/2790] elexon → access_control
+[129/2790] ENOVA Power → access_control
+[130/2790] HH2E → access_control
+  [Saved progress: 130 companies]
+[131/2790] SCHOENERGIE → access_control
+[132/2790] Ambibox GmbH → ip_camera
+[133/2790] Dryad Networks → bodycam_enduser
+[134/2790] Shire Oak International → access_control
+[135/2790] Orcan Energy → access_control
+[136/2790] Amperecloud → access_control
+[137/2790] Racyics → bodycam_enduser
+[138/2790] INTILION → bodycam_enduser
+[139/2790] WEHRLE → access_control
+[140/2790] WEHRLE-WERK AG → access_control
+  [Saved progress: 140 companies]
+[141/2790] PowerOneForOne Foundation gGmbH → access_control
+[142/2790] PIONIERKRAFT → not_relevant
+[143/2790] EINHUNDERT → not_relevant
+[144/2790] Diotec Semiconductor AG → access_control
+[145/2790] Soventix Caribbean → access_control
+[146/2790] Bragi → access_control
+[147/2790] Synapticon → ip_camera
+[148/2790] RheinBrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼c → access_control
+[149/2790] Cumulocity → access_control
+[150/2790] Lorch SchweiÃÂÃÂÃÂÃÂÃÂÃÂÃÂ → access_control
+  [Saved progress: 150 companies]
+[151/2790] DAP  → not_relevant
+[152/2790] Fraunhofer ENAS → not_relevant
+[153/2790] FORCAM → dashcam
+[154/2790] Fraunhofer IST → not_relevant
+[155/2790] TVARIT → access_control
+[156/2790] Fraunhofer  → access_control
+[157/2790] Lorch SchweiÃÂÃÂÃÂÃÂÃÂÃÂÃÂ → access_control
+[158/2790] NOFFZ Technologies → access_control
+[159/2790] DN Solutions Europe → access_control
+[160/2790] Fraunhofer ISST → access_control
+  [Saved progress: 160 companies]
+[161/2790] Cybus → access_control
+[162/2790] DIA Digital Consulting → access_control
+[163/2790] SYSTEMA → access_control
+[164/2790] AGT International Investments → beacon
+[165/2790] Mitutoyo Europe GmbH → not_relevant
+[166/2790] ENAS  → access_control
+[167/2790] Next Big Thing AG → access_control
+[168/2790] Rapid Robotics, inc → access_control
+[169/2790] INTERLLIGENT - RF & Microwave Solutions → bodycam_enduser
+[170/2790] ThreatX → access_control
+  [Saved progress: 170 companies]
+[171/2790] KINZ CO JEWELRY PTE. LTD → access_control
+[172/2790] Tactile Mobility → access_control
+[173/2790] SAMENA Council → access_control
+[174/2790] Comtinu → ip_camera
+[175/2790] CoreTigo → ip_camera
+[176/2790] RMZ International → access_control
+[177/2790] Onvego → access_control
+[178/2790] INGECYS Telecom → access_control
+[179/2790] Advatec Group → ip_camera
+[180/2790] Terrific → access_control
+  [Saved progress: 180 companies]
+[181/2790] DVCOM Technology → ip_camera
+[182/2790] GitLab → access_control
+[183/2790] Gabb Wireless → access_control
+[184/2790] Kinz For Information Technology Co → access_control
+[185/2790] INTELLISOLUTIONS → access_control
+[186/2790] Wi-Charge → ip_camera
+[187/2790] Nahj Technology → access_control
+[188/2790] Tabbara Electronics LLC → access_control
+[189/2790] Alkan Arabia for Communications → access_control
+[190/2790] MultiNet Communications → access_control
+  [Saved progress: 190 companies]
+[191/2790] Amwal Tech → access_control
+[192/2790] EGBS Ste → access_control
+[193/2790] Maple Telecommunications → access_control
+[194/2790] Space Communication Technologies → not_relevant
+[195/2790] NETIX Global BV → access_control
+[196/2790] APPRAID → access_control
+[197/2790] TeO - Telecom Oman → in_cabin
+[198/2790] Aplimedia → ip_camera
+[199/2790] Green Bridge Corporation → access_control
+[200/2790] Odyssey Semiconductor Technologies, Inc → access_control
+  [Saved progress: 200 companies]
+[201/2790] Fountain Baptist Church → access_control
+[202/2790] NYC Resistor → access_control
+[203/2790] Energy Materials Corporation → access_control
+[204/2790] Chapul Farms → access_control
+[205/2790] Just Energy LLC → access_control
+[206/2790] NY State Solar → access_control
+[207/2790] Innovation Semiconductor → access_control
+[208/2790] GDAC Photonics, Inc. → ip_camera
+[209/2790] SoLeGen LLC → access_control
+[210/2790] GreenShift Corporation → access_control
+  [Saved progress: 210 companies]
+[211/2790] AccuStrata → beacon
+[212/2790] Daisychain Energy → access_control
+[213/2790] GreenLogic, LLC → access_control
+[214/2790] Soltage LLC → access_control
+[215/2790] Raptor Maps, Inc. → access_control
+[216/2790] Sustainable Business Accelerator → access_control
+[217/2790] Lightshift Energy → bodycam_enduser
+[218/2790] Calibrant Energy → access_control
+[219/2790] Nubis Communications → access_control
+[220/2790] renewable energy international → access_control
+  [Saved progress: 220 companies]
+[221/2790] Amplification Technologies Inc. → access_control
+[222/2790] Calient.AI → ip_camera
+[223/2790] BGA Technology LLC → ip_camera
+[224/2790] Ash Improvement Technology, Inc. → access_control
+[225/2790] Polaris Semiconductor → bodycam_enduser
+[226/2790] Intelligis Technologies → access_control
+[227/2790] Prism Solar → access_control
+[228/2790] WD Advanced Materials → access_control
+[229/2790] eXistential AI → access_control
+[230/2790] Petra Systems, Inc. → access_control
+  [Saved progress: 230 companies]
+[231/2790] Menlo Micro → access_control
+[232/2790] Big Shine Energy → access_control
+[233/2790] Availink → ip_camera
+[234/2790] QXP Technologies Inc → ip_camera
+[235/2790] Sol Green Energy LLC → access_control
+[236/2790] Industrial Ecosystems Partners → beacon
+[237/2790] Oculi → ip_camera
+[238/2790] Empowering Technologies → access_control
+[239/2790] Lawrence Semiconductor Research Laborato → access_control
+[240/2790] Syncarpha Capital → access_control
+  [Saved progress: 240 companies]
+[241/2790] New Project Media → access_control
+[242/2790] Duet Microelectronics → access_control
+[243/2790] alpha-En Corporation (ALPE) → access_control
+[244/2790] Mzansi Clean Energy Capital → access_control
+[245/2790] epiray USA → bodycam_enduser
+[246/2790] Arch Systems → access_control
+[247/2790] Bubble Goods → access_control
+[248/2790] Drafted → access_control
+[249/2790] FlashMock → access_control
+[250/2790] Flox → access_control
+  [Saved progress: 250 companies]
+[251/2790] Huckleberry Labs → access_control
+[252/2790] Leapcure → bodycam_enduser
+[253/2790] Molten Cloud → access_control
+[254/2790] Mosaic → access_control
+[255/2790] Pave → access_control
+[256/2790] Plantbid → access_control
+[257/2790] Radimal → bodycam_enduser
+[258/2790] Squadformers → access_control
+[259/2790] ZioSec → access_control
+[260/2790] Elevet → access_control
+  [Saved progress: 260 companies]
+[261/2790] Encoura → bodycam_enduser
+[262/2790] Lighthouse → access_control
+[263/2790] Mastery Logistics Systems → beacon
+[264/2790] Metronome → access_control
+[265/2790] Optomi → access_control
+[266/2790] Parsley Health → access_control
+[267/2790] PublicSquare → access_control
+[268/2790] Remarque Systems → access_control
+[269/2790] USRA → access_control
+[270/2790] Phonecoop → beacon
+  [Saved progress: 270 companies]
+[271/2790] Tijhof → access_control
+[272/2790] Blendio → dashcam
+[273/2790] New Gen surgical → access_control
+[274/2790] Asensei → access_control
+[275/2790] Finlabs → access_control
+[276/2790] Software Research Associates, Inc. → access_control
+[277/2790] Modern Meadow → access_control
+[278/2790] HubSpire → access_control
+[279/2790] The BP Group → access_control
+[280/2790] Upward → access_control
+  [Saved progress: 280 companies]
+[281/2790] Crestview Partners → access_control
+[282/2790] JN White → dashcam
+[283/2790] EverPass Media → access_control
+[284/2790] Northeast → access_control
+[285/2790] Uniroyal Engineered Products, LLC → not_relevant
+[286/2790] Kiwi Partners → access_control
+[287/2790] OPT → in_cabin
+[288/2790] Haug Partners LLP → access_control
+[289/2790] RDAlabs LLC → access_control
+[290/2790] HENRI → access_control
+  [Saved progress: 290 companies]
+[291/2790] TVision → access_control
+[292/2790] TZ Limited → access_control
+[293/2790] Argosy International Inc. → dashcam
+[294/2790] SCSK USA Inc. → access_control
+[295/2790] Preferred Warranties Inc. → access_control
+[296/2790] T.M. Bier & Associates, Inc. (TMBA) → access_control
+[297/2790] Eventyr → access_control
+[298/2790] Emergence AI → access_control
+[299/2790] Subaru Distributors Corp. → bodycam_enduser
+[300/2790] ShowFab → access_control
+  [Saved progress: 300 companies]
+[301/2790] Metallix Refining Inc. → access_control
+[302/2790] Nordon, Inc. → access_control
+[303/2790] Specialists Marketing Services, Inc. → access_control
+[304/2790] Virtual Technologies Group → access_control
+[305/2790] Mitsui Chemicals America, Inc. → access_control
+[306/2790] Sightly → access_control
+[307/2790] Ambee → access_control
+[308/2790] Kitchen Brains → access_control
+[309/2790] Pepe Auto Group → access_control
+[310/2790] Oxford Airport Technical Services → access_control
+  [Saved progress: 310 companies]
+[311/2790] Harper International Corporation → access_control
+[312/2790] Digital Concepts, Inc. → dashcam
+[313/2790] SoftBank Group International → access_control
+[314/2790] Axispoint → access_control
+[315/2790] ComSource → access_control
+[316/2790] Dstillery → access_control
+[317/2790] Ezlo Innovation → access_control
+[318/2790] Simulmedia → access_control
+[319/2790] Tracker → in_cabin
+[320/2790] Coda Resources Ltd. → access_control
+  [Saved progress: 320 companies]
+[321/2790] Nu10 → access_control
+[322/2790] RE Partners → access_control
+[323/2790] Document Solutions LLC → access_control
+[324/2790] ZCG → access_control
+[325/2790] Qualibar → ip_camera
+[326/2790] Perry Health → access_control
+[327/2790] Check-Mate Industries, Inc. → access_control
+[328/2790] Set Creative - A WPP Experiential Agency → access_control
+[329/2790] GiGstreem → ip_camera
+[330/2790] Shapeways → access_control
+  [Saved progress: 330 companies]
+[331/2790] Uneeda → access_control
+[332/2790] Raycon → access_control
+[333/2790] Amogy → ip_camera
+[334/2790] Key Capture Energy → access_control
+[335/2790] Master & Dynamic → access_control
+[336/2790] Vuzix Corporation → ip_camera
+[337/2790] Eight → access_control
+[338/2790] Longroad Energy Partners → access_control
+[339/2790] Ion Storage Systems → access_control
+[340/2790] Hearth → ip_camera
+  [Saved progress: 340 companies]
+[341/2790] Pure Lithium Corporation → access_control
+[342/2790] Neurable → access_control
+[343/2790] Quantum Computing, Inc. → ip_camera
+[344/2790] Convergent Energy + Power → access_control
+[345/2790] Energix North America → access_control
+[346/2790] BlueWave → access_control
+[347/2790] Ammonia Energy Association → access_control
+[348/2790] Motivair Corporation → access_control
+[349/2790] Madison Energy Infrastructure → access_control
+[350/2790] Coalition for Community Solar Access → access_control
+  [Saved progress: 350 companies]
+[351/2790] Nanit → ip_camera
+[352/2790] The Head Start Initiative → access_control
+[353/2790] Eight Sleep → ip_camera
+[354/2790] AllSpice → access_control
+[355/2790] August → access_control
+[356/2790] Bask Health → access_control
+[357/2790] ConductorAI → access_control
+[358/2790] Gain Life → access_control
+[359/2790] Give Lively → access_control
+[360/2790] Humanic AI → access_control
+  [Saved progress: 360 companies]
+[361/2790] Muck Rack → access_control
+[362/2790] Rentable → access_control
+[363/2790] Ressio Software → access_control
+[364/2790] RushLuxe → access_control
+[365/2790] Textlayer → access_control
+[366/2790] Turnstile → access_control
+[367/2790] Venusgeo Solutions → access_control
+[368/2790] PSX → access_control
+[369/2790] Knowmadics → access_control
+[370/2790] FAIRWAYiQ, Inc. → access_control
+  [Saved progress: 370 companies]
+[371/2790] Litterati → access_control
+[372/2790] Medical Automation Systems → access_control
+[373/2790] Acelerex → in_cabin
+[374/2790] Carlyn and Company Interiors + Design → access_control
+[375/2790] Serve Professionals → access_control
+[376/2790] ecoCFO → access_control
+[377/2790] Privafy → access_control
+[378/2790] Unified Office, Inc. → access_control
+[379/2790] SID Global Solutions → access_control
+[380/2790] BMRS → ip_camera
+  [Saved progress: 380 companies]
+[381/2790] NetBeez, Inc. → access_control
+[382/2790] Rappahannock Electric Cooperative → access_control
+[383/2790] Blue Ridge Mountain Rentals → access_control
+[384/2790] Foxx Life Sciences → access_control
+[385/2790] Noble Biomaterials, Inc. → access_control
+[386/2790] Rugged Logic → ip_camera
+[387/2790] ComputerVault → access_control
+[388/2790] Gnosis Freight → access_control
+[389/2790] Aero Energy Inc. → access_control
+[390/2790] NC Association of REALTORSÃÂÃÂÃÂÃ → access_control
+  [Saved progress: 390 companies]
+[391/2790] Geographic Technologies Group → access_control
+[392/2790] BYLD Better → access_control
+[393/2790] Connected Communities → not_relevant
+[394/2790] Carrot-Top Industries, Inc. → access_control
+[395/2790] Guttmacher Institute → access_control
+[396/2790] Owl Autonomous Imaging → access_control
+[397/2790] AveriStar → dashcam
+[398/2790] WellAware → in_cabin
+[399/2790] ITCS-WebClock → access_control
+[400/2790] Beacon Community Bank → access_control
+  [Saved progress: 400 companies]
+[401/2790] Senscio Systems → access_control
+[402/2790] Leading2Lean LLC → access_control
+[403/2790] Cynamics → access_control
+[404/2790] Gaston Electrical → access_control
+[405/2790] KANE → access_control
+[406/2790] Psionic → access_control
+[407/2790] The Beacon Group → beacon
+[408/2790] Arraya Solutions → access_control
+[409/2790] Prospeed.net Inc → ip_camera
+[410/2790] AgZen → access_control
+  [Saved progress: 410 companies]
+[411/2790] OneLayer → access_control
+[412/2790] Nest Realty → access_control
+[413/2790] SVT Robotics → access_control
+[414/2790] First Analytics → access_control
+[415/2790] Clocktower Engineering → access_control
+[416/2790] Maven Machines → dashcam
+[417/2790] Savant Systems → ip_camera
+[418/2790] Aspect → access_control
+[419/2790] Cybrella → access_control
+[420/2790] Truss Engineering Corp → access_control
+  [Saved progress: 420 companies]
+[421/2790] Lackey Clinic → access_control
+[422/2790] Spectrum Effect → not_relevant
+[423/2790] TechWish → access_control
+[424/2790] Folium AI → access_control
+[425/2790] Solutions ITW → access_control
+[426/2790] LOOKOUT → bodycam_enduser
+[427/2790] Symphony Enterprises LLC → access_control
+[428/2790] Lion Power → access_control
+[429/2790] Pleasant Valley Homes, Inc. → access_control
+[430/2790] KaylaTekÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ® → access_control
+  [Saved progress: 430 companies]
+[431/2790] LeafLabs LLC → access_control
+[432/2790] MFP Technology Services → access_control
+[433/2790] Flax Advisors LLC → access_control
+[434/2790] Data General → access_control
+[435/2790] XanderPay → access_control
+[436/2790] Cornelis Networks → in_cabin
+[437/2790] MMK Consulting → beacon
+[438/2790] WSP, Inc. → bodycam_enduser
+[439/2790] Computer Specialists Inc. → access_control
+[440/2790] EqualLogic → access_control
+  [Saved progress: 440 companies]
+[441/2790] Acumentrics, Inc. → ip_camera
+[442/2790] ArgonFDS → access_control
+[443/2790] Integrated Media Technologies Inc. → access_control
+[444/2790] VT iDirect → ip_camera
+[445/2790] Citadel NY → access_control
+[446/2790] ForwardEdge ASIC → access_control
+[447/2790] Annapolis Micro Systems, Inc. → bodycam_enduser
+[448/2790] Human Active Technology → access_control
+[449/2790] HIPER Global US (formerly Network Allies → access_control
+[450/2790] Technology Trading Partners, LLC → access_control
+  [Saved progress: 450 companies]
+[451/2790] Comark LLC → access_control
+[452/2790] Inforcecomputing → beacon
+[453/2790] Marshall Resources → beacon
+[454/2790] Silver Palm Technologies → access_control
+[455/2790] Orion Printers & Parts → access_control
+[456/2790] RAID Incorporated → dashcam
+[457/2790] Dynamic Display Solutions → access_control
+[458/2790] faytech North America → ip_camera
+[459/2790] Real Intent → access_control
+[460/2790] North East Data → access_control
+  [Saved progress: 460 companies]
+[461/2790] The Ergonomic Group → access_control
+[462/2790] Patton Electronics Co. → ip_camera
+[463/2790] Interpower Induction → access_control
+[464/2790] Victory Sales → access_control
+[465/2790] IMRA America, Inc. → access_control
+[466/2790] MemryX Inc. → bodycam_enduser
+[467/2790] Murray Percival Co. → dashcam
+[468/2790] ADCO Circuits → access_control
+[469/2790] Compact Power, Inc → ip_camera
+[470/2790] Pilz Automation Safety L.P. → ip_camera
+  [Saved progress: 470 companies]
+[471/2790] eldec LLC → access_control
+[472/2790] Lumecon LLC → access_control
+[473/2790] XALT Energy → access_control
+[474/2790] Enpower Greentech Inc. → bodycam_enduser
+[475/2790] Pro-Vision Video Systems → dashcam
+[476/2790] Harvest Solar → access_control
+[477/2790] Terminal Supply Company → access_control
+[478/2790] NETA - InterNational Electrical Testing  → access_control
+[479/2790] Fluxtrol → ip_camera
+[480/2790] Navitas Systems, LLC → bodycam_enduser
+  [Saved progress: 480 companies]
+[481/2790] PGF Technology Group → access_control
+[482/2790] R.M. Young Company → access_control
+[483/2790] Apollo America → ip_camera
+[484/2790] MAKS Incorporated → dashcam
+[485/2790] L.Hollingworth School for Talented and G → access_control
+[486/2790] Great Lakes Recycling → access_control
+[487/2790] Safety Track → dashcam
+[488/2790] Great Lakes Electronics Corporation → access_control
+[489/2790] Acclaro Medical → access_control
+[490/2790] Advanced Powder Products, Inc. → access_control
+  [Saved progress: 490 companies]
+[491/2790] Airwavz Solutions, Inc. → ip_camera
+[492/2790] Applied Plastics → access_control
+[493/2790] Aster Insights → access_control
+[494/2790] AVAVA, Inc. → access_control
+[495/2790] Baim Institute for Clinical Research → access_control
+[496/2790] Beaufort CRO → access_control
+[497/2790] Boston Centerless → access_control
+[498/2790] Cardinal Point Homeland Security Group → bodycam_enduser
+[499/2790] Carlton National Resources → access_control
+[500/2790] Cybba → access_control
+  [Saved progress: 500 companies]
+[501/2790] Dynamic Business Solutions → access_control
+[502/2790] Edwards Business Systems → access_control
+[503/2790] Elite Contracting Group → access_control
+[504/2790] enkompas Technology Solutions → access_control
+[505/2790] Federated Wireless → access_control
+[506/2790] Guerrilla RF → access_control
+[507/2790] Heritage Medical Group → access_control
+[508/2790] ICsense → bodycam_enduser
+[509/2790] ifm electronic France → access_control
+[510/2790] Invinity Energy Systems plc → in_cabin
+  [Saved progress: 510 companies]
+[511/2790] Kigen → access_control
+[512/2790] KMM Group → access_control
+[513/2790] Lifeward → access_control
+[514/2790] Liquid AI → access_control
+[515/2790] M Booth Health → access_control
+[516/2790] Management Recruiters Inc. ÃÂÃÂÃÂÃ → access_control
+[517/2790] Mech-Mind Robotics → access_control
+[518/2790] Medical Modalities, Inc → access_control
+[519/2790] micropsi industries → access_control
+[520/2790] Midlands Honda → bodycam_enduser
+  [Saved progress: 520 companies]
+[521/2790] Multiverse Computing → access_control
+[522/2790] myenergi → access_control
+[523/2790] Nanoscience Instruments → access_control
+[524/2790] Neuroelectrics → access_control
+[525/2790] NSV Inc → access_control
+[526/2790] Onera Health → access_control
+[527/2790] OnRobot → access_control
+[528/2790] Onspire Health Marketing → access_control
+[529/2790] PNY Technologies Europe → access_control
+[530/2790] Precision Optics Corporation → ip_camera
+  [Saved progress: 530 companies]
+[531/2790] Premium Power Ltd. → access_control
+[532/2790] Progent → access_control
+[533/2790] PROPHESEE → ip_camera
+[534/2790] Protean Electric → dashcam
+[535/2790] Quantron AG → in_cabin
+[536/2790] Raspberry Pi Trading → not_relevant
+[537/2790] RECOM TECHNOLOGIES → not_relevant
+[538/2790] Red8 → not_relevant
+[539/2790] Roboze → access_control
+[540/2790] RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶chling  → access_control
+  [Saved progress: 540 companies]
+[541/2790] SIGFOX → access_control
+[542/2790] Skyports → ip_camera
+[543/2790] SpectraWAVE, Inc. → access_control
+[544/2790] Speedgoat → ip_camera
+[545/2790] Springboard Manufacturing → access_control
+[546/2790] Toradex → access_control
+[547/2790] Ultraleap → access_control
+[548/2790] Waev → ip_camera
+[549/2790] Wandelbots → access_control
+[550/2790] Wingcopter → in_cabin
+  [Saved progress: 550 companies]
+[551/2790] Yokogawa UK Ltd → access_control
+[552/2790] Zaptec → ip_camera
+[553/2790] Skytron → access_control
+[554/2790] BioPro, Inc. → access_control
+[555/2790] Skytron Aviation, Inc. → access_control
+[556/2790] Garrison Dental Solutions → access_control
+[557/2790] a & d medical billing → access_control
+[558/2790] Shoulder Innovations → access_control
+[559/2790] Xoran Technologies → access_control
+[560/2790] FlexDex Surgical → bodycam_enduser
+  [Saved progress: 560 companies]
+[561/2790] Packaging Compliance Labs → access_control
+[562/2790] Boeing → access_control
+[563/2790] Orbit Medical Group → access_control
+[564/2790] NeuroNexus → access_control
+[565/2790] Mopec → access_control
+[566/2790] Thompson Retractor → access_control
+[567/2790] College Park Industries → access_control
+[568/2790] Korle-Bu Teaching Hospital → access_control
+[569/2790] Amigo Mobility International, Inc → access_control
+[570/2790] MicroDental Laboratories → access_control
+  [Saved progress: 570 companies]
+[571/2790] Medbio, LLC → access_control
+[572/2790] DiaMedical USA → access_control
+[573/2790] Precision Edge Surgical Products Company → not_relevant
+[574/2790] agentsify → access_control
+[575/2790] Aloware → access_control
+[576/2790] ATLAAS → access_control
+[577/2790] Bitfinex → access_control
+[578/2790] Centroid Solutions → access_control
+[579/2790] Chronicle Creations Inc → access_control
+[580/2790] Cymph → access_control
+  [Saved progress: 580 companies]
+[581/2790] Decentralized Masters → access_control
+[582/2790] Eneba Games → access_control
+[583/2790] Fairw.AI → access_control
+[584/2790] GitRoll → access_control
+[585/2790] Helpline Software → access_control
+[586/2790] Koyfin → access_control
+[587/2790] Mercanis → access_control
+[588/2790] Metabase → access_control
+[589/2790] Neybox Digital → access_control
+[590/2790] Plato Data Intelligence → access_control
+  [Saved progress: 590 companies]
+[591/2790] Popcorn → access_control
+[592/2790] Primer → access_control
+[593/2790] Replika → access_control
+[594/2790] Sensay → access_control
+[595/2790] Smart Apartment Data → access_control
+[596/2790] Smile ID → access_control
+[597/2790] Sweat Economy → access_control
+[598/2790] Xverse → access_control
+[599/2790] Actemium Douvrin Manufacturing → access_control
+[600/2790] AE SOLAR → access_control
+  [Saved progress: 600 companies]
+[601/2790] Ai Build → access_control
+[602/2790] AMFG → access_control
+[603/2790] AUTEL Energy - Europe → dashcam
+[604/2790] Automobili Pininfarina → bodycam_enduser
+[605/2790] BALYO → access_control
+[606/2790] beyerdynamic → access_control
+[607/2790] BigRep GmbH - Large-Scale 3D Printers → access_control
+[608/2790] Blue Ocean Robotics → access_control
+[609/2790] Bramble Energy Limited → access_control
+[610/2790] BWT → access_control
+  [Saved progress: 610 companies]
+[611/2790] Charge Amps → ip_camera
+[612/2790] CHARGE CARS → ip_camera
+[613/2790] Cimcorp North America → bodycam_enduser
+[614/2790] Dallmeier electronic → access_control
+[615/2790] Deep Sea Electronics Ltd → dashcam
+[616/2790] Dexory → access_control
+[617/2790] Digitaltest GmbH → access_control
+[618/2790] DPA Microphones A/S → dashcam
+[619/2790] Easee → access_control
+[620/2790] Hines Industries, Inc. → access_control
+  [Saved progress: 620 companies]
+[621/2790] Holbrook Auto Parts → access_control
+[622/2790] Huizenga Group → access_control
+[623/2790] Independent Business Owner at Amway Glob → access_control
+[624/2790] INRAD → bodycam_enduser
+[625/2790] InterClean Equipment → access_control
+[626/2790] Kalamazoo Long Term Care Pharmacy → access_control
+[627/2790] K-Line Industries, Inc. → access_control
+[628/2790] Kubica Corp → access_control
+[629/2790] Landscape Structures → access_control
+[630/2790] Laser Mechanisms → access_control
+  [Saved progress: 630 companies]
+[631/2790] Logical Advantage, LLC → access_control
+[632/2790] LSPedia → access_control
+[633/2790] Lucerne International → access_control
+[634/2790] Midwest Air Filter, Inc. → access_control
+[635/2790] Midwest Pharmaceuticals Inc → access_control
+[636/2790] Midwest Recycling → access_control
+[637/2790] Miller Canfield → access_control
+[638/2790] Minerva ?R/SR → access_control
+[639/2790] Moeller Precision Tool → access_control
+[640/2790] Motor City Stamping Inc. → access_control
+  [Saved progress: 640 companies]
+[641/2790] Nucraft Furniture → access_control
+[642/2790] Orbion Space Technology → access_control
+[643/2790] Peak Performance → access_control
+[644/2790] Perceptive Controls → bodycam_enduser
+[645/2790] Premier Tooling Systems → access_control
+[646/2790] PREMIUM DESIGN GROUP & CO → access_control
+[647/2790] PTI Engineered Plastics → access_control
+[648/2790] Pyramid Solutions, Inc. → access_control
+[649/2790] RAMPF Group → access_control
+[650/2790] Ray → access_control
+  [Saved progress: 650 companies]
+[651/2790] Resolute Building Intelligence → access_control
+[652/2790] RxWare → access_control
+[653/2790] Schmitt Electric → access_control
+[654/2790] Smarter Furnishings → access_control
+[655/2790] Southeast Michigan Community Alliance → access_control
+[656/2790] Stathakis → access_control
+[657/2790] Suburban Tool, Inc → access_control
+[658/2790] SVS Vision → in_cabin
+[659/2790] Synergycom → access_control
+[660/2790] TechBA → access_control
+  [Saved progress: 660 companies]
+[661/2790] TH Plastics, Inc → access_control
+[662/2790] The KR Group, Inc. → access_control
+[663/2790] The Peterson Company → access_control
+[664/2790] Trenton Forging Company → access_control
+[665/2790] Unified Business Technologies (UBT), Inc → access_control
+[666/2790] UNITED METAL PRODUCTS, Detroit Michigan → access_control
+[667/2790] Wall Colmonoy → access_control
+[668/2790] Webb Chemical Service Corporation → access_control
+[669/2790] Wolverine Metal Stamping → access_control
+[670/2790] Woodland Paper, Inc. → access_control
+  [Saved progress: 670 companies]
+[671/2790] Detroit Chassis LLC → dashcam
+[672/2790] Akervall Technologies, Inc. → access_control
+[673/2790] Guidepoint Systems → dashcam
+[674/2790] Mr. Chain → access_control
+[675/2790] Precitec USA → access_control
+[676/2790] 730 Eddy Studios → access_control
+[677/2790] Cadillac Area YMCA → access_control
+[678/2790] Oxus America, Inc. → access_control
+[679/2790] Tiara Yachts → access_control
+[680/2790] Moncur → access_control
+  [Saved progress: 680 companies]
+[681/2790] Virtus Solis Technologies → ip_camera
+[682/2790] Lytle Medical Technologies → ip_camera
+[683/2790] Entellus Industries → access_control
+[684/2790] NuWave Technology Partners → access_control
+[685/2790] Brazeway → ip_camera
+[686/2790] Canoo → bodycam_enduser
+[687/2790] Control System Integrators → access_control
+[688/2790] Delta Electronics, Inc. → access_control
+[689/2790] DESTACO → dashcam
+[690/2790] Edgewater Automation → access_control
+  [Saved progress: 690 companies]
+[691/2790] General Motors → access_control
+[692/2790] Gonzalez → access_control
+[693/2790] Guardhat Inc. → access_control
+[694/2790] Heller Machine Tool → access_control
+[695/2790] ICR → access_control
+[696/2790] ICR Services → access_control
+[697/2790] Kawasaki Robotics → in_cabin
+[698/2790] KawasakiRobotics → ip_camera
+[699/2790] Key Safety Systems → dashcam
+[700/2790] Koops Automation Systems → access_control
+  [Saved progress: 700 companies]
+[701/2790] Mapal Italia → access_control
+[702/2790] Motor City Spindle Repair → access_control
+[703/2790] Munro & Associates → access_control
+[704/2790] Oilgear → access_control
+[705/2790] Our Next Energy, Inc. → access_control
+[706/2790] PASLIN → bodycam_enduser
+[707/2790] RoboSense LiDAR → in_cabin
+[708/2790] Talos Automation → access_control
+[709/2790] LuxWall, Inc. → access_control
+[710/2790] Intermode → access_control
+  [Saved progress: 710 companies]
+[711/2790] Lyons Manufacturing Group → access_control
+[712/2790] Die Therm Engineering → access_control
+[713/2790] Neumo → ip_camera
+[714/2790] Teleoperation Consortium → access_control
+[715/2790] Cybernet Systems Corporation → access_control
+[716/2790] ROPIX LLC → in_cabin
+[717/2790] German Machine Tools of America (GMTA) → access_control
+[718/2790] MWV Consulting → access_control
+[719/2790] Future Technologies, Inc. → access_control
+[720/2790] The Pivot Group Network → access_control
+  [Saved progress: 720 companies]
+[721/2790] Test Equipment Distributors, LLC → ip_camera
+[722/2790] Jadex Strategic Group → access_control
+[723/2790] SMTAutomation → access_control
+[724/2790] Advanced Vehicle Assemblies LLC → access_control
+[725/2790] M22 Tactical LLC → access_control
+[726/2790] L.E. Jones Company → access_control
+[727/2790] Quest Custom → dashcam
+[728/2790] North Coast Imagineering and Manufacture → access_control
+[729/2790] Generalety, LLC → access_control
+[730/2790] Meknology → access_control
+  [Saved progress: 730 companies]
+[731/2790] Midwest Metrology → access_control
+[732/2790] AH- American Hydrostatics → access_control
+[733/2790] OPATIK DEFENSE → access_control
+[734/2790] Intellicosting, LLC → access_control
+[735/2790] 464 Enterprises LLC → access_control
+[736/2790] Pioneer Systems Group → access_control
+[737/2790] Retail Consulting Group, Inc → access_control
+[738/2790] LINK Marketing Group → access_control
+[739/2790] Standard Components LLC → access_control
+[740/2790] NETFORM → bodycam_enduser
+  [Saved progress: 740 companies]
+[741/2790] Jolt Energy Storage Technologies → access_control
+[742/2790] Ekso Bionics → access_control
+[743/2790] ENERCON Western Europe → not_relevant
+[744/2790] Exor America → access_control
+[745/2790] Fairphone → access_control
+[746/2790] Flyability SA → ip_camera
+[747/2790] Free2move eSolutions → access_control
+[748/2790] Frenetic → ip_camera
+[749/2790] GivEnergy → ip_camera
+[750/2790] Gizelis Robotics SA → access_control
+  [Saved progress: 750 companies]
+[751/2790] Gordon Murray Automotive → in_cabin
+[752/2790] Harwin → access_control
+[753/2790] HiveMQ → access_control
+[754/2790] HOLON → bodycam_enduser
+[755/2790] Bizwise → access_control
+[756/2790] Bounce Imaging → dashcam
+[757/2790] Brain Racers → not_relevant
+[758/2790] Candylabs → access_control
+[759/2790] Ellipsis Health → access_control
+[760/2790] flycore → in_cabin
+  [Saved progress: 760 companies]
+[761/2790] Humanitru → access_control
+[762/2790] MiraDx, Inc. → access_control
+[763/2790] Moonchild → access_control
+[764/2790] Pinetree → access_control
+[765/2790] Poppy AI → access_control
+[766/2790] River → bodycam_enduser
+[767/2790] Sidekick → access_control
+[768/2790] Supercast → ip_camera
+[769/2790] Superfluent → access_control
+[770/2790] Invinity Energy Systems → access_control
+  [Saved progress: 770 companies]
+[771/2790] bepay → access_control
+[772/2790] Bitscopic → access_control
+[773/2790] Develop for Good → access_control
+[774/2790] DOWN Dating & Social Apps → access_control
+[775/2790] dresslife → access_control
+[776/2790] Edventures → access_control
+[777/2790] FusionHit → access_control
+[778/2790] MARA → access_control
+[779/2790] Marketer Real Estate Technologies → access_control
+[780/2790] MoodMe → access_control
+  [Saved progress: 780 companies]
+[781/2790] Parley Labs Inc. → access_control
+[782/2790] PrettyData Co. → access_control
+[783/2790] Somebody Digital → access_control
+[784/2790] Synquote → access_control
+[785/2790] TopDevs Corp. → access_control
+[786/2790] Travelle → access_control
+[787/2790] Valur → access_control
+[788/2790] Vital Block Security → access_control
+[789/2790] VS Edventures → beacon
+[790/2790] Acme Manufacturing Company → access_control
+  [Saved progress: 790 companies]
+[791/2790] Altron Automation Inc. → access_control
+[792/2790] Applied Manufacturing Technologies → access_control
+[793/2790] Arch → access_control
+[794/2790] ARCH Global Precision → access_control
+[795/2790] Associated Spring → access_control
+[796/2790] Atom Technology → access_control
+[797/2790] Axis Automation → access_control
+[798/2790] Balance Technology Inc → access_control
+[799/2790] Besser → access_control
+[800/2790] BMG → access_control
+  [Saved progress: 800 companies]
+[801/2790] CMS North America, Inc. → in_cabin
+[802/2790] Coherix,Inc. → ip_camera
+[803/2790] Cone Drive Operations, Inc. → access_control
+[804/2790] Dearborn Mid-West Company, LLC → access_control
+[805/2790] Dimensional Control Systems → access_control
+[806/2790] Dimplex Thermal Solutions → access_control
+[807/2790] DSS Valves → access_control
+[808/2790] Exotic Automation & Supply → access_control
+[809/2790] Extol, Inc. → ip_camera
+[810/2790] Fives DyAG Corp. → access_control
+  [Saved progress: 810 companies]
+[811/2790] Flexfab → access_control
+[812/2790] FOAMit → access_control
+[813/2790] Franklin Electric → access_control
+[814/2790] Fraza → access_control
+[815/2790] Galco Industrial Electronics → access_control
+[816/2790] Gallagher-Kaiser → access_control
+[817/2790] Garr Tool → access_control
+[818/2790] Gast Manufacturing, Inc. → access_control
+[819/2790] GLOBAL Automation Technologies, LLC → access_control
+[820/2790] HECO, INC → access_control
+  [Saved progress: 820 companies]
+[821/2790] Hougen Manufacturing, Inc → access_control
+[822/2790] Hydraulex Global → access_control
+[823/2790] Ilmor Engineering, Inc. → bodycam_enduser
+[824/2790] Invio Automation → access_control
+[825/2790] Kadant Johnson LLC → access_control
+[826/2790] KAISER PREMIER → access_control
+[827/2790] Legacy Industries → access_control
+[828/2790] Magnetic Products Inc → access_control
+[829/2790] Maxx Tooling → access_control
+[830/2790] Miller Industries, LLC → access_control
+  [Saved progress: 830 companies]
+[831/2790] Mission Design & Automation → access_control
+[832/2790] ND Industries → access_control
+[833/2790] NLB Corp. → access_control
+[834/2790] Perceptron → access_control
+[835/2790] Pettibone/Traverse Lift, LLC → access_control
+[836/2790] PIA Automation US Inc. → access_control
+[837/2790] Progressive Surface, Inc. → ip_camera
+[838/2790] Promess → bodycam_enduser
+[839/2790] Proos Manufacturing, Inc. → access_control
+[840/2790] RedViking → not_relevant
+  [Saved progress: 840 companies]
+[841/2790] Rolls-Royce Solutions America → access_control
+[842/2790] Shape Technologies Group → access_control
+[843/2790] Sinto → access_control
+[844/2790] SISE → access_control
+[845/2790] Steelhead Technologies → ip_camera
+[846/2790] SurfacePrep → access_control
+[847/2790] SW North America, Inc. → access_control
+[848/2790] TARUS → bodycam_enduser
+[849/2790] Tommy Car Wash Systems → access_control
+[850/2790] Tommy's Express? Car Wash → access_control
+  [Saved progress: 850 companies]
+[851/2790] Tooling Systems Group, Inc. → access_control
+[852/2790] Uniloy → access_control
+[853/2790] UTEC - Universal Tool Equipment + Contro → access_control
+[854/2790] Weiss Technik North America, Inc. → access_control
+[855/2790] Wirtz Manufacturing Company → access_control
+[856/2790] ZOLLER Inc. → access_control
+[857/2790] AceTex Group → access_control
+[858/2790] ShipTime → dashcam
+[859/2790] Die Cad Group → access_control
+[860/2790] Jedco Inc. → ip_camera
+  [Saved progress: 860 companies]
+[861/2790] Hercules Electric Mobility → access_control
+[862/2790] Joint, Clutch & Gear Service, Inc. → access_control
+[863/2790] Grounded → bodycam_enduser
+[864/2790] Opus IVS - US → dashcam
+[865/2790] LUXIT Group → dashcam
+[866/2790] BOSS SNOWPLOW → in_cabin
+[867/2790] Digital Check Corp. → access_control
+[868/2790] JOST International → not_relevant
+[869/2790] Automotive Technical Services Inc. → not_relevant
+[870/2790] Sigma PowerTrain → bodycam_enduser
+  [Saved progress: 870 companies]
+[871/2790] Infinity Engineered Products → dashcam
+[872/2790] Barron Industries → access_control
+[873/2790] BGM Engineering Inc. → dashcam
+[874/2790] FORVIA → access_control
+[875/2790] EDJY → dashcam
+[876/2790] RainIons → in_cabin
+[877/2790] Tooling Tech Group → access_control
+[878/2790] Production Spring llc → access_control
+[879/2790] SignaKey LLC → access_control
+[880/2790] AIAG - Automotive Industry Action Group → access_control
+  [Saved progress: 880 companies]
+[881/2790] Nichols Portland Inc. → access_control
+[882/2790] L&W Engineering → access_control
+[883/2790] Bmax → dashcam
+[884/2790] Spectrum Industries, Inc. → bodycam_enduser
+[885/2790] Synergia Automotive LLC → access_control
+[886/2790] DUMBARTON TOOL,INC → access_control
+[887/2790] Beverlin Manufacturing → ip_camera
+[888/2790] Magnuson Superchargers → dashcam
+[889/2790] Gabriel North America → dashcam
+[890/2790] HI-LEX Serbia → dashcam
+  [Saved progress: 890 companies]
+[891/2790] Epsilon Advanced Materials Pvt Ltd → access_control
+[892/2790] DSA Systems, Inc. → dashcam
+[893/2790] Modal Motors → bodycam_enduser
+[894/2790] Blue ArcÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ → dashcam
+[895/2790] Michigan Wheel → access_control
+[896/2790] Attentive Industries Inc → access_control
+[897/2790] Mitsubishi Motors R&D of America → access_control
+[898/2790] Transnav → access_control
+[899/2790] EOTECH → access_control
+[900/2790] Cloyes Gear and Products → access_control
+  [Saved progress: 900 companies]
+[901/2790] ActioGlobal → access_control
+[902/2790] Audacia Innovations → access_control
+[903/2790] bravetto → access_control
+[904/2790] Exelab s.r.l. → access_control
+[905/2790] Ezurio → access_control
+[906/2790] Nikola Labs, Inc → access_control
+[907/2790] Notarify → access_control
+[908/2790] Passporter → access_control
+[909/2790] WebOrigo → access_control
+[910/2790] Elvie → access_control
+  [Saved progress: 910 companies]
+[911/2790] LEIA Inc. → access_control
+[912/2790] Loci Orthopaedics → access_control
+[913/2790] MicroEJ → access_control
+[914/2790] Neuraspace → ip_camera
+[915/2790] Rokoko → ip_camera
+[916/2790] Shift GmbH → access_control
+[917/2790] Varjo → not_relevant
+[918/2790] Withings → access_control
+[919/2790] Wunder Mobility → access_control
+[920/2790] BHOUT → access_control
+  [Saved progress: 920 companies]
+[921/2790] Bitmovin → access_control
+[922/2790] BTRY → ip_camera
+[923/2790] Control4 → access_control
+[924/2790] Dapper Labs → access_control
+[925/2790] Heliatek GmbH → access_control
+[926/2790] Manolya Electronics → ip_camera
+[927/2790] refurbed → access_control
+[928/2790] SonoSuite → access_control
+[929/2790] tado → ip_camera
+[930/2790] Azcom Technology → dashcam
+  [Saved progress: 930 companies]
+[931/2790] Biamp Systems → access_control
+[932/2790] Britten-Norman → access_control
+[933/2790] Cambridge Audio → access_control
+[934/2790] Coriolis Composites → access_control
+[935/2790] Cremer Speciaalmachines B.V. → access_control
+[936/2790] Croom Medical → access_control
+[937/2790] DHV Technology → access_control
+[938/2790] ewo srl/GmbH → access_control
+[939/2790] Factbird → access_control
+[940/2790] ROHM Semiconductor Europe → access_control
+  [Saved progress: 940 companies]
+[941/2790] Scolmore International Limited → access_control
+[942/2790] Silence l Leader in Urban Eco Mobility → access_control
+[943/2790] Simucube → dashcam
+[944/2790] Sorama B.V. → ip_camera
+[945/2790] Sormac BV → access_control
+[946/2790] Synecco → ip_camera
+[947/2790] TPV AUTOMOTIVE → error
+[948/2790] VDL Agrotech → access_control
+[949/2790] Bellevue and Burien Nissan → access_control
+[950/2790] Salus Scientific Corp. → access_control
+  [Saved progress: 950 companies]
+[951/2790] Enbio Group AG → access_control
+[952/2790] Access Optics → access_control
+[953/2790] Laser Light Communications → ip_camera
+[954/2790] Electronic Sensor Technology Inc → access_control
+[955/2790] The Patriot Group, Inc. (TPGI) → access_control
+[956/2790] ARES Tool → access_control
+[957/2790] Senergy → access_control
+[958/2790] Gateway Bronco → bodycam_enduser
+[959/2790] Canary Speech → access_control
+[960/2790] Thuro Metal Products, Inc. → access_control
+  [Saved progress: 960 companies]
+[961/2790] Dynamic Science, Inc. → in_cabin
+[962/2790] RV WheelatorÃÂÃÂÃÂÃÂÃÂÃÂÃÂ → access_control
+[963/2790] Rx Bandz → access_control
+[964/2790] KADAN Consultants, Inc. → access_control
+[965/2790] Troika Solutions, LLC → access_control
+[966/2790] Setna iO → in_cabin
+[967/2790] HOP Munitions → access_control
+[968/2790] Gold Coast Auto Body, Inc → access_control
+[969/2790] Source Surgical → access_control
+[970/2790] ANSOL, Inc. → bodycam_enduser
+  [Saved progress: 970 companies]
+[971/2790] Radwave Technologies Inc. → access_control
+[972/2790] True Anomaly → access_control
+[973/2790] Sol Millennium Medical Group → access_control
+[974/2790] Bioventus → access_control
+[975/2790] Vive Health → access_control
+[976/2790] Varda Space Industries → access_control
+[977/2790] Synchron, Inc. → bodycam_enduser
+[978/2790] Dufour Aerospace → access_control
+[979/2790] FANTIC MOTOR S.P.A. → dashcam
+[980/2790] KACO new energy → access_control
+  [Saved progress: 980 companies]
+[981/2790] Oxford Space Systems → access_control
+[982/2790] Pinarello → access_control
+[983/2790] Radical Motorsport Ltd. → bodycam_enduser
+[984/2790] Sunamp → access_control
+[985/2790] Teenage Engineering → access_control
+[986/2790] Triscan a/s → in_cabin
+[987/2790] Channel Products → ip_camera
+[988/2790] Tomar Electronics → ip_camera
+[989/2790] Westak → dashcam
+[990/2790] Peco InspX → dashcam
+  [Saved progress: 990 companies]
+[991/2790] Solarcraft → ip_camera
+[992/2790] ALAMO Transformer → access_control
+[993/2790] Scott Manufacturing Solutions → access_control
+[994/2790] Power Grid Components → access_control
+[995/2790] BTX → dashcam
+[996/2790] Deako Lighting → ip_camera
+[997/2790] Powerside → dashcam
+[998/2790] Crown International → access_control
+[999/2790] Voltserver → dashcam
+[1000/2790] Remtec → ip_camera
+  [Saved progress: 1000 companies]
+[1001/2790] EMT Engineering Sales → access_control
+[1002/2790] Canfield Industries → dashcam
+[1003/2790] Pacific Power Source → access_control
+[1004/2790] Westinghouse Outdoor Power Equipment → dashcam
+[1005/2790] Digilock → access_control
+[1006/2790] Electra Sales → ip_camera
+[1007/2790] United Electrical Sales → access_control
+[1008/2790] EMSI → access_control
+[1009/2790] South Bay Circuits → access_control
+[1010/2790] Leon Speakers → ip_camera
+  [Saved progress: 1010 companies]
+[1011/2790] Sal Electric → dashcam
+[1012/2790] Addionics → ip_camera
+[1013/2790] Bentek → ip_camera
+[1014/2790] A&D Precision → ip_camera
+[1015/2790] ProClip USA → dashcam
+[1016/2790] Virtuix → dashcam
+[1017/2790] RCD Components → access_control
+[1018/2790] Fair-Play → ip_camera
+[1019/2790] VPI Technology Group → ip_camera
+[1020/2790] SOUNDBOKS → access_control
+  [Saved progress: 1020 companies]
+[1021/2790] Key Digital → dashcam
+[1022/2790] Warshaw → ip_camera
+[1023/2790] Copper Mountain → ip_camera
+[1024/2790] American Power Solutions → access_control
+[1025/2790] Aico Limited → ip_camera
+[1026/2790] Allen & Heath Ltd → access_control
+[1027/2790] AME (Applied Micro Electronics) → ip_camera
+[1028/2790] Analog Way → access_control
+[1029/2790] AP Sensing → ip_camera
+[1030/2790] basalte → dashcam
+  [Saved progress: 1030 companies]
+[1031/2790] BAUR GmbH → ip_camera
+[1032/2790] CAME Spa → dashcam
+[1033/2790] Crowcon Detection Instruments Ltd. → access_control
+[1034/2790] Easy-Laser → ip_camera
+[1035/2790] ePower → dashcam
+[1036/2790] FRAMOS → access_control
+[1037/2790] Gasmet Technologies Oy → access_control
+[1038/2790] GEUTEBRUCK GmbH → in_cabin
+[1039/2790] go-e → ip_camera
+[1040/2790] Haefely AG → ip_camera
+  [Saved progress: 1040 companies]
+[1041/2790] HAEFELY HIPOTRONICS → dashcam
+[1042/2790] HomeLINK → access_control
+[1043/2790] i-charging → ip_camera
+[1044/2790] IDS Imaging Development Systems GmbH → ip_camera
+[1045/2790] Inxpect → ip_camera
+[1046/2790] Loxone → access_control
+[1047/2790] Menlo Systems → access_control
+[1048/2790] Morrow Batteries → access_control
+[1049/2790] Olympia Electronics → access_control
+[1050/2790] PicoQuant GmbH → access_control
+  [Saved progress: 1050 companies]
+[1051/2790] Rointe calefacci?n → access_control
+[1052/2790] Septentrio → access_control
+[1053/2790] Televic GSP → ip_camera
+[1054/2790] Vega Chargers → access_control
+[1055/2790] Victron Energy → access_control
+[1056/2790] Yale Home Global → access_control
+[1057/2790] Zurich Instruments → access_control
+[1058/2790] Storage Engine → access_control
+[1059/2790] Roanwell Corporation → access_control
+[1060/2790] Aspen Power → access_control
+  [Saved progress: 1060 companies]
+[1061/2790] BC Engineered Products → access_control
+[1062/2790] Pfister Energy → access_control
+[1063/2790] CS Energy → access_control
+[1064/2790] Xscape Photonics Inc → bodycam_enduser
+[1065/2790] Princeton Infrared Technologies, Inc. → access_control
+[1066/2790] Emerald Energy → access_control
+[1067/2790] Soltech Solutions → access_control
+[1068/2790] Lite Coms LLC → access_control
+[1069/2790] CEP Renewables → access_control
+[1070/2790] USL Technology → access_control
+  [Saved progress: 1070 companies]
+[1071/2790] EV Solar → access_control
+[1072/2790] Buckingham Manufacturing Co Inc. → access_control
+[1073/2790] d&b audiotechnik → in_cabin
+[1074/2790] Hughes Fire & Secruity Systems, Inc. → access_control
+[1075/2790] Inim Electronics → ip_camera
+[1076/2790] Minicam → dashcam
+[1077/2790] NEXO → access_control
+[1078/2790] NKT Photonics → access_control
+[1079/2790] Nortek → access_control
+[1080/2790] Ohme → ip_camera
+  [Saved progress: 1080 companies]
+[1081/2790] Pektron → access_control
+[1082/2790] Profoto AB → dashcam
+[1083/2790] PST / Rotronic AG → access_control
+[1084/2790] Pyronix → access_control
+[1085/2790] Rolec Services Ltd → access_control
+[1086/2790] Solid State Logic → access_control
+[1087/2790] SoundCraft → dashcam
+[1088/2790] WB GROUP → access_control
+[1089/2790] DHYBRID Power Systems GmbH → access_control
+[1090/2790] Status Pro Maschinenmesstechnik GmbH → access_control
+  [Saved progress: 1090 companies]
+[1091/2790] OakTree Power → access_control
+[1092/2790] MAXX SOLAR & ENERGIE GmbH & Co. KG → access_control
+[1093/2790] nuuEnergy → access_control
+[1094/2790] P2i → access_control
+[1095/2790] GRIPS Energy → access_control
+[1096/2790] Electrogenos → access_control
+[1097/2790] Airhive → access_control
+[1098/2790] ion Ventures → access_control
+[1099/2790] Lightspace Technologies → access_control
+[1100/2790] Pager Power Ltd → access_control
+  [Saved progress: 1100 companies]
+[1101/2790] Renewable Strategy Limited → access_control
+[1102/2790] Nala Renewables → access_control
+[1103/2790] Critical Power Supplies Ltd → ip_camera
+[1104/2790] skarper → ip_camera
+[1105/2790] VOLTARO → ip_camera
+[1106/2790] CYCLE → beacon
+[1107/2790] Konrad Technologies - US → access_control
+[1108/2790] ILS-Integrated Lab Solutions GmbH → access_control
+[1109/2790] PowTechnology Digital Transformation Sol → access_control
+[1110/2790] Brill Power → dashcam
+  [Saved progress: 1110 companies]
+[1111/2790] SynchroStor → access_control
+[1112/2790] ERS electronic GmbH → access_control
+[1113/2790] IMM electronics GmbH → access_control
+[1114/2790] Chipflow → access_control
+[1115/2790] Green Fusion GmbH → access_control
+[1116/2790] Magnomatics Limited → access_control
+[1117/2790] Siliconally → access_control
+[1118/2790] Mill-Max Mfg. Corp. → access_control
+[1119/2790] Power Edison → access_control
+[1120/2790] Adaptive → access_control
+  [Saved progress: 1120 companies]
+[1121/2790] Safran Federal Systems → access_control
+[1122/2790] Mode:Green, Inc. → access_control
+[1123/2790] Windmill → access_control
+[1124/2790] Harvest Power LLC → access_control
+[1125/2790] Thea Energy → access_control
+[1126/2790] Distributed Spectrum → access_control
+[1127/2790] Ravin Electronics → bodycam_enduser
+[1128/2790] Triad RF Systems, Inc. → access_control
+[1129/2790] Analytical Science and Technologies, llc → access_control
+[1130/2790] Accord Power Inc. → access_control
+  [Saved progress: 1130 companies]
+[1131/2790] Wright Energy Storage Technologies → access_control
+[1132/2790] Patriot Energy Solutions corp → access_control
+[1133/2790] Conax Technologies → access_control
+[1134/2790] RCD Components, Inc → access_control
+[1135/2790] Schneider Optics, Inc. → access_control
+[1136/2790] NewTech Energy Inc → access_control
+[1137/2790] Intelligent Product Solutions → ip_camera
+[1138/2790] AccuVein Inc. → access_control
+[1139/2790] Anderson-Negele → dashcam
+[1140/2790] Bosch USA → in_cabin
+  [Saved progress: 1140 companies]
+[1141/2790] Clarapath,Inc. → ip_camera
+[1142/2790] Cutting Edge Laser Technologies → access_control
+[1143/2790] eMagin Corporation → ip_camera
+[1144/2790] Environment One Corporation → access_control
+[1145/2790] IoT Right? → access_control
+[1146/2790] Jetson Electric Bikes → ip_camera
+[1147/2790] Lemco → dashcam
+[1148/2790] McIntosh Laboratory, Inc. → access_control
+[1149/2790] Morphle Labs Inc. → access_control
+[1150/2790] OLEDWorks → dashcam
+  [Saved progress: 1150 companies]
+[1151/2790] Photonics Industries Inc → ip_camera
+[1152/2790] Quadlogic Controls Corp. → access_control
+[1153/2790] Rosco Vision → dashcam
+[1154/2790] Six15 Technologies → access_control
+[648/2450] Tomar Electronics → ip_camera
+[649/2450] Westak → dashcam
+[650/2450] Peco InspX → dashcam
+  [Saved progress: 990 companies]
+[651/2450] Solarcraft → dashcam
+[652/2450] ALAMO Transformer → access_control
+[653/2450] Scott Manufacturing Solutions → access_control
+[654/2450] Power Grid Components → access_control
+[655/2450] BTX → dashcam
+[656/2450] Deako Lighting → ip_camera
+[657/2450] Powerside → dashcam
+[658/2450] Crown International → access_control
+[659/2450] Voltserver → dashcam
+[660/2450] Remtec → ip_camera
+  [Saved progress: 1000 companies]
+[661/2450] EMT Engineering Sales → access_control
+[662/2450] Canfield Industries → ip_camera
+[663/2450] Pacific Power Source → access_control
+[664/2450] Westinghouse Outdoor Power Equipment → dashcam
+[665/2450] Digilock → access_control
+[666/2450] Electra Sales → ip_camera
+[667/2450] United Electrical Sales → access_control
+[668/2450] EMSI → ip_camera
+[669/2450] South Bay Circuits → access_control
+[670/2450] Leon Speakers → ip_camera
+  [Saved progress: 1010 companies]
+[671/2450] Sal Electric → ip_camera
+[672/2450] Addionics → ip_camera
+[673/2450] Bentek → ip_camera
+[674/2450] A&D Precision → ip_camera
+[675/2450] ProClip USA → dashcam
+[676/2450] Virtuix → dashcam
+[677/2450] RCD Components → access_control
+[678/2450] Fair-Play → ip_camera
+[679/2450] VPI Technology Group → access_control
+[680/2450] SOUNDBOKS → access_control
+  [Saved progress: 1020 companies]
+[681/2450] Key Digital → ip_camera
+[682/2450] Warshaw → ip_camera
+[683/2450] Copper Mountain → ip_camera
+[684/2450] American Power Solutions → access_control
+[685/2450] Aico Limited → ip_camera
+[686/2450] Allen & Heath Ltd → dashcam
+[687/2450] AME (Applied Micro Electronics) → ip_camera
+[688/2450] Analog Way → access_control
+[689/2450] AP Sensing → ip_camera
+[690/2450] basalte → dashcam
+  [Saved progress: 1030 companies]
+[691/2450] BAUR GmbH → ip_camera
+[692/2450] CAME Spa → dashcam
+[693/2450] Crowcon Detection Instruments Ltd. → access_control
+[694/2450] Easy-Laser → ip_camera
+[695/2450] ePower → dashcam
+[696/2450] FRAMOS → access_control
+[697/2450] Gasmet Technologies Oy → access_control
+[698/2450] GEUTEBRUCK GmbH → in_cabin
+[699/2450] go-e → ip_camera
+[700/2450] Haefely AG → ip_camera
+  [Saved progress: 1040 companies]
+[701/2450] HAEFELY HIPOTRONICS → dashcam
+[702/2450] HomeLINK → access_control
+[703/2450] i-charging → ip_camera
+[704/2450] IDS Imaging Development Systems GmbH → ip_camera
+[705/2450] Inxpect → ip_camera
+[706/2450] Loxone → access_control
+[707/2450] Menlo Systems → access_control
+[708/2450] Morrow Batteries → access_control
+[709/2450] Olympia Electronics → access_control
+[710/2450] PicoQuant GmbH → access_control
+  [Saved progress: 1050 companies]
+[711/2450] Rointe calefacci?n → access_control
+[712/2450] Septentrio → access_control
+[713/2450] Televic GSP → ip_camera
+[714/2450] Vega Chargers → access_control
+[715/2450] Victron Energy → access_control
+[716/2450] Yale Home Global → access_control
+[717/2450] Zurich Instruments → access_control
+[718/2450] Storage Engine → access_control
+[719/2450] Roanwell Corporation → access_control
+[720/2450] Aspen Power → access_control
+  [Saved progress: 1060 companies]
+[721/2450] BC Engineered Products → access_control
+[722/2450] Pfister Energy → access_control
+[723/2450] CS Energy → access_control
+[724/2450] Xscape Photonics Inc → not_relevant
+[725/2450] Princeton Infrared Technologies, Inc. → access_control
+[726/2450] Emerald Energy → access_control
+[727/2450] Soltech Solutions → access_control
+[728/2450] Lite Coms LLC → access_control
+[729/2450] CEP Renewables → access_control
+[730/2450] USL Technology → access_control
+  [Saved progress: 1070 companies]
+[731/2450] EV Solar → access_control
+[732/2450] Buckingham Manufacturing Co Inc. → access_control
+[733/2450] d&b audiotechnik → access_control
+[734/2450] Hughes Fire & Secruity Systems, Inc. → access_control
+[735/2450] Inim Electronics → ip_camera
+[736/2450] Minicam → dashcam
+[737/2450] NEXO → access_control
+[738/2450] NKT Photonics → access_control
+[739/2450] Nortek → access_control
+[740/2450] Ohme → ip_camera
+  [Saved progress: 1080 companies]
+[741/2450] Pektron → access_control
+[742/2450] Profoto AB → dashcam
+[743/2450] PST / Rotronic AG → access_control
+[744/2450] Pyronix → access_control
+[745/2450] Rolec Services Ltd → access_control
+[746/2450] Solid State Logic → access_control
+[747/2450] SoundCraft → dashcam
+[748/2450] WB GROUP → access_control
+[749/2450] DHYBRID Power Systems GmbH → access_control
+[750/2450] Status Pro Maschinenmesstechnik GmbH → access_control
+  [Saved progress: 1090 companies]
+[751/2450] OakTree Power → access_control
+[752/2450] MAXX SOLAR & ENERGIE GmbH & Co. KG → access_control
+[753/2450] nuuEnergy → access_control
+[754/2450] P2i → access_control
+[755/2450] GRIPS Energy → access_control
+[756/2450] Electrogenos → access_control
+[757/2450] Airhive → access_control
+[758/2450] ion Ventures → access_control
+[759/2450] Lightspace Technologies → access_control
+[760/2450] Pager Power Ltd → access_control
+  [Saved progress: 1100 companies]
+[761/2450] Renewable Strategy Limited → access_control
+[762/2450] Nala Renewables → access_control
+[763/2450] Critical Power Supplies Ltd → dashcam
+[764/2450] skarper → ip_camera
+[765/2450] VOLTARO → ip_camera
+[766/2450] CYCLE → beacon
+[767/2450] Konrad Technologies - US → access_control
+[768/2450] ILS-Integrated Lab Solutions GmbH → access_control
+[769/2450] PowTechnology Digital Transformation Sol → ip_camera
+[770/2450] Brill Power → dashcam
+  [Saved progress: 1110 companies]
+[771/2450] SynchroStor → access_control
+[772/2450] ERS electronic GmbH → access_control
+[773/2450] IMM electronics GmbH → access_control
+[774/2450] Chipflow → access_control
+[775/2450] Green Fusion GmbH → access_control
+[776/2450] Magnomatics Limited → access_control
+[777/2450] Siliconally → access_control
+[778/2450] Mill-Max Mfg. Corp. → access_control
+[779/2450] Power Edison → access_control
+[780/2450] Adaptive → access_control
+  [Saved progress: 1120 companies]
+[781/2450] Safran Federal Systems → access_control
+[782/2450] Mode:Green, Inc. → access_control
+[783/2450] Windmill → access_control
+[784/2450] Harvest Power LLC → access_control
+[785/2450] Thea Energy → access_control
+[786/2450] Distributed Spectrum → beacon
+[787/2450] Ravin Electronics → bodycam_enduser
+[788/2450] Triad RF Systems, Inc. → access_control
+[789/2450] Analytical Science and Technologies, llc → access_control
+[790/2450] Accord Power Inc. → access_control
+  [Saved progress: 1130 companies]
+[791/2450] Wright Energy Storage Technologies → access_control
+[792/2450] Patriot Energy Solutions corp → access_control
+[793/2450] Conax Technologies → access_control
+[794/2450] RCD Components, Inc → access_control
+[795/2450] Schneider Optics, Inc. → not_relevant
+[796/2450] NewTech Energy Inc → access_control
+[797/2450] Intelligent Product Solutions → ip_camera
+[798/2450] AccuVein Inc. → access_control
+[799/2450] Anderson-Negele → dashcam
+[800/2450] Bosch USA → access_control
+  [Saved progress: 1140 companies]
+[801/2450] Clarapath,Inc. → ip_camera
+[802/2450] Cutting Edge Laser Technologies → access_control
+[803/2450] eMagin Corporation → ip_camera
+[804/2450] Environment One Corporation → access_control
+[805/2450] IoT Right? → access_control
+[806/2450] Jetson Electric Bikes → ip_camera
+[807/2450] Lemco → dashcam
+[808/2450] McIntosh Laboratory, Inc. → access_control
+[809/2450] Morphle Labs Inc. → access_control
+[810/2450] OLEDWorks → dashcam
+  [Saved progress: 1150 companies]
+[811/2450] Photonics Industries Inc → ip_camera
+[812/2450] Quadlogic Controls Corp. → access_control
+[813/2450] Rosco Vision → dashcam
+[814/2450] Six15 Technologies → access_control
+[815/2450] SNA Displays → ip_camera
+[816/2450] WyreStorm Technologies → ip_camera
+[817/2450] SpiNNcloud Systems GmbH → in_cabin
+[818/2450] IMPULSE EMBEDDED 

@@ -1,0 +1,2688 @@
+/Users/apple/Downloads/Automation projects/AI agent/Dashcam AI agent/email_writer/test_env/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+============================================================
+ENHANCED SMART CLASSIFICATION WITH HUMAN REVIEW TIER
+Time: 2025-12-19 07:46:55.596303
+============================================================
+Total: 2793 companies
+Resuming: 110 already processed
+[111/2793] nan... → RELEVANT
+[112/2793] Azurreo... → RELEVANT
+[113/2793] Acria Network... → RELEVANT
+[114/2793] SEMRON GmbH... → RELEVANT
+[115/2793] QuantumDiamonds... → NEEDS_REVIEW
+[116/2793] AMS Technologies AG... → NEEDS_REVIEW
+[117/2793] RCT Power... → NEEDS_REVIEW
+[118/2793] ILOS Projects... → RELEVANT
+[119/2793] FaradaIC Sensors... → NEEDS_REVIEW
+[120/2793] INURU GmbH... → RELEVANT
+[121/2793] H2APEX... → NEEDS_REVIEW
+[122/2793] BORDA-Africa... → NOT_RELEVANT
+[123/2793] vilisto GmbH... → RELEVANT
+[124/2793] CropEnergies AG... → NOT_RELEVANT
+[125/2793] AMPEERS ENERGY GmbH... → NEEDS_REVIEW
+[126/2793] WATTKRAFT Group... → NOT_RELEVANT
+[127/2793] GLOBE Fuel Cell Systems... → NOT_RELEVANT
+[128/2793] aream group... → NEEDS_REVIEW
+[129/2793] elexon... → NEEDS_REVIEW
+[130/2793] ENOVA Power... → NOT_RELEVANT
+[131/2793] HH2E... → RELEVANT
+[132/2793] SCHOENERGIE... → NOT_RELEVANT
+[133/2793] Ambibox GmbH... → NEEDS_REVIEW
+[134/2793] Dryad Networks... → NEEDS_REVIEW
+[135/2793] Shire Oak International... → NEEDS_REVIEW
+[136/2793] Orcan Energy... → NEEDS_REVIEW
+[137/2793] Amperecloud... → RELEVANT
+[138/2793] Racyics... → RELEVANT
+[139/2793] INTILION... → RELEVANT
+[140/2793] WEHRLE... → RELEVANT
+[141/2793] WEHRLE-WERK AG... → RELEVANT
+[142/2793] PowerOneForOne Foundation gGmbH... → NEEDS_REVIEW
+[143/2793] PIONIERKRAFT... → NOT_RELEVANT
+[144/2793] EINHUNDERT... → NEEDS_REVIEW
+[145/2793] Diotec Semiconductor AG... → NEEDS_REVIEW
+[146/2793] Soventix Caribbean... → NOT_RELEVANT
+[147/2793] Bragi... → NEEDS_REVIEW
+[148/2793] Synapticon... → NEEDS_REVIEW
+[149/2793] RheinBrÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → RELEVANT
+[150/2793] Cumulocity... → NEEDS_REVIEW
+[151/2793] Lorch SchweiÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[152/2793] DAP... → RELEVANT
+[153/2793] Fraunhofer ENAS... → RELEVANT
+[154/2793] FORCAM... → RELEVANT
+[155/2793] Fraunhofer IST... → RELEVANT
+[156/2793] TVARIT... → RELEVANT
+[157/2793] Fraunhofer... → RELEVANT
+[158/2793] Lorch SchweiÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[159/2793] NOFFZ Technologies... → NEEDS_REVIEW
+[160/2793] DN Solutions Europe... → RELEVANT
+[161/2793] Fraunhofer ISST... → RELEVANT
+[162/2793] Cybus... → RELEVANT
+[163/2793] DIA Digital Consulting... → RELEVANT
+[164/2793] SYSTEMA... → RELEVANT
+[165/2793] AGT International Investments... → RELEVANT
+[166/2793] Mitutoyo Europe GmbH... → RELEVANT
+[167/2793] ENAS... → RELEVANT
+[168/2793] Next Big Thing AG... → NEEDS_REVIEW
+[169/2793] Rapid Robotics, inc... → NEEDS_REVIEW
+[170/2793] INTERLLIGENT - RF & Microwave Solut... → RELEVANT
+[171/2793] ThreatX... → NEEDS_REVIEW
+[172/2793] KINZ CO JEWELRY PTE. LTD... → NEEDS_REVIEW
+[173/2793] Tactile Mobility... → RELEVANT
+[174/2793] SAMENA Council... → NEEDS_REVIEW
+[175/2793] Comtinu... → RELEVANT
+[176/2793] CoreTigo... → NEEDS_REVIEW
+[177/2793] RMZ International... → RELEVANT
+[178/2793] Onvego... → RELEVANT
+[179/2793] INGECYS Telecom... → RELEVANT
+[180/2793] Advatec Group... → NEEDS_REVIEW
+[181/2793] Terrific... → RELEVANT
+[182/2793] DVCOM Technology... → RELEVANT
+[183/2793] GitLab... → NEEDS_REVIEW
+[184/2793] Gabb Wireless... → RELEVANT
+[185/2793] Kinz For Information Technology Co... → RELEVANT
+[186/2793] INTELLISOLUTIONS... → RELEVANT
+[187/2793] Wi-Charge... → RELEVANT
+[188/2793] Nahj Technology... → RELEVANT
+[189/2793] Tabbara Electronics LLC... → RELEVANT
+[190/2793] Alkan Arabia for Communications... → NEEDS_REVIEW
+[191/2793] MultiNet Communications... → NEEDS_REVIEW
+[192/2793] Amwal Tech... → RELEVANT
+[193/2793] EGBS Ste... → RELEVANT
+[194/2793] Maple Telecommunications... → RELEVANT
+[195/2793] Space Communication Technologies... → NEEDS_REVIEW
+[196/2793] NETIX Global BV... → RELEVANT
+[197/2793] APPRAID... → RELEVANT
+[198/2793] TeO - Telecom Oman... → NEEDS_REVIEW
+[199/2793] Aplimedia... → NEEDS_REVIEW
+[200/2793] Green Bridge Corporation... → NEEDS_REVIEW
+[201/2793] Odyssey Semiconductor Technologies,... → NEEDS_REVIEW
+[202/2793] Fountain Baptist Church... → NEEDS_REVIEW
+[203/2793] NYC Resistor... → RELEVANT
+[204/2793] Energy Materials Corporation... → NEEDS_REVIEW
+[205/2793] Chapul Farms... → NOT_RELEVANT
+[206/2793] Just Energy LLC... → NEEDS_REVIEW
+[207/2793] NY State Solar... → NOT_RELEVANT
+[208/2793] Innovation Semiconductor... → RELEVANT
+[209/2793] GDAC Photonics, Inc.... → NEEDS_REVIEW
+[210/2793] SoLeGen LLC... → NEEDS_REVIEW
+[211/2793] GreenShift Corporation... → NEEDS_REVIEW
+[212/2793] AccuStrata... → RELEVANT
+[213/2793] Daisychain Energy... → NEEDS_REVIEW
+[214/2793] GreenLogic, LLC... → NOT_RELEVANT
+[215/2793] Soltage LLC... → NOT_RELEVANT
+[216/2793] Raptor Maps, Inc.... → NEEDS_REVIEW
+[217/2793] Sustainable Business Accelerator... → NEEDS_REVIEW
+[218/2793] Lightshift Energy... → NOT_RELEVANT
+[219/2793] Calibrant Energy... → NEEDS_REVIEW
+[220/2793] Nubis Communications... → RELEVANT
+[221/2793] renewable energy international... → NOT_RELEVANT
+[222/2793] Amplification Technologies Inc.... → NEEDS_REVIEW
+[223/2793] Calient.AI... → NOT_RELEVANT
+[224/2793] BGA Technology LLC... → RELEVANT
+[225/2793] Ash Improvement Technology, Inc.... → NEEDS_REVIEW
+[226/2793] Polaris Semiconductor... → RELEVANT
+[227/2793] Intelligis Technologies... → NEEDS_REVIEW
+[228/2793] Prism Solar... → NOT_RELEVANT
+[229/2793] WD Advanced Materials... → RELEVANT
+[230/2793] eXistential AI... → RELEVANT
+[231/2793] Petra Systems, Inc.... → NEEDS_REVIEW
+[232/2793] Menlo Micro... → RELEVANT
+[233/2793] Big Shine Energy... → NEEDS_REVIEW
+[234/2793] Availink... → RELEVANT
+[235/2793] QXP Technologies Inc... → RELEVANT
+[236/2793] Sol Green Energy LLC... → NOT_RELEVANT
+[237/2793] Industrial Ecosystems Partners... → RELEVANT
+[238/2793] Oculi... → NEEDS_REVIEW
+[239/2793] Empowering Technologies... → RELEVANT
+[240/2793] Lawrence Semiconductor Research Lab... → NEEDS_REVIEW
+[241/2793] Syncarpha Capital... → NEEDS_REVIEW
+[242/2793] New Project Media... → NEEDS_REVIEW
+[243/2793] Duet Microelectronics... → NOT_RELEVANT
+[244/2793] alpha-En Corporation (ALPE)... → RELEVANT
+[245/2793] Mzansi Clean Energy Capital... → NOT_RELEVANT
+[246/2793] epiray USA... → NOT_RELEVANT
+[247/2793] Arch Systems... → NEEDS_REVIEW
+[248/2793] Bubble Goods... → RELEVANT
+[249/2793] Drafted... → RELEVANT
+[250/2793] FlashMock... → NEEDS_REVIEW
+[251/2793] Flox... → NEEDS_REVIEW
+[252/2793] Huckleberry Labs... → NEEDS_REVIEW
+[253/2793] Leapcure... → NOT_RELEVANT
+[254/2793] Molten Cloud... → NOT_RELEVANT
+[255/2793] Mosaic... → RELEVANT
+[256/2793] Pave... → NEEDS_REVIEW
+[257/2793] Plantbid... → RELEVANT
+[258/2793] Radimal... → NEEDS_REVIEW
+[259/2793] Squadformers... → RELEVANT
+[260/2793] ZioSec... → NEEDS_REVIEW
+[261/2793] Elevet... → NEEDS_REVIEW
+[262/2793] Encoura... → NEEDS_REVIEW
+[263/2793] Lighthouse... → RELEVANT
+[264/2793] Mastery Logistics Systems... → NEEDS_REVIEW
+[265/2793] Metronome... → RELEVANT
+[266/2793] Optomi... → NEEDS_REVIEW
+[267/2793] Parsley Health... → NOT_RELEVANT
+[268/2793] PublicSquare... → RELEVANT
+[269/2793] Remarque Systems... → RELEVANT
+[270/2793] USRA... → NEEDS_REVIEW
+[271/2793] Phonecoop... → RELEVANT
+[272/2793] Tijhof... → NEEDS_REVIEW
+[273/2793] Blendio... → NEEDS_REVIEW
+[274/2793] New Gen surgical... → NOT_RELEVANT
+[275/2793] Asensei... → RELEVANT
+[276/2793] Finlabs... → RELEVANT
+[277/2793] Software Research Associates, Inc.... → RELEVANT
+[278/2793] Modern Meadow... → NEEDS_REVIEW
+[279/2793] HubSpire... → NEEDS_REVIEW
+[280/2793] The BP Group... → RELEVANT
+[281/2793] Upward... → NOT_RELEVANT
+[282/2793] Crestview Partners... → NOT_RELEVANT
+[283/2793] JN White... → NEEDS_REVIEW
+[284/2793] EverPass Media... → NEEDS_REVIEW
+[285/2793] Northeast... → NEEDS_REVIEW
+[286/2793] Uniroyal Engineered Products, LLC... → NOT_RELEVANT
+[287/2793] Kiwi Partners... → NOT_RELEVANT
+[288/2793] OPT... → NEEDS_REVIEW
+[289/2793] Haug Partners LLP... → NOT_RELEVANT
+[290/2793] RDAlabs LLC... → RELEVANT
+[291/2793] HENRI... → RELEVANT
+[292/2793] TVision... → NEEDS_REVIEW
+[293/2793] TZ Limited... → NEEDS_REVIEW
+[294/2793] Argosy International Inc.... → NOT_RELEVANT
+[295/2793] SCSK USA Inc.... → RELEVANT
+[296/2793] Preferred Warranties Inc.... → NEEDS_REVIEW
+[297/2793] T.M. Bier & Associates, Inc. (TMBA)... → NEEDS_REVIEW
+[298/2793] Eventyr... → RELEVANT
+[299/2793] Emergence AI... → RELEVANT
+[300/2793] Subaru Distributors Corp.... → NEEDS_REVIEW
+[301/2793] ShowFab... → RELEVANT
+[302/2793] Metallix Refining Inc.... → NEEDS_REVIEW
+[303/2793] Nordon, Inc.... → NEEDS_REVIEW
+[304/2793] Specialists Marketing Services, Inc... → NEEDS_REVIEW
+[305/2793] Virtual Technologies Group... → NEEDS_REVIEW
+[306/2793] Mitsui Chemicals America, Inc.... → NOT_RELEVANT
+[307/2793] Sightly... → RELEVANT
+[308/2793] Ambee... → NEEDS_REVIEW
+[309/2793] Kitchen Brains... → NEEDS_REVIEW
+[310/2793] Pepe Auto Group... → NEEDS_REVIEW
+[311/2793] Oxford Airport Technical Services... → RELEVANT
+[312/2793] Harper International Corporation... → NEEDS_REVIEW
+[313/2793] Digital Concepts, Inc.... → NEEDS_REVIEW
+[314/2793] SoftBank Group International... → NEEDS_REVIEW
+[315/2793] Axispoint... → NEEDS_REVIEW
+[316/2793] ComSource... → NEEDS_REVIEW
+[317/2793] Dstillery... → NOT_RELEVANT
+[318/2793] Ezlo Innovation... → RELEVANT
+[319/2793] Simulmedia... → NEEDS_REVIEW
+[320/2793] Tracker... → NEEDS_REVIEW
+[321/2793] Coda Resources Ltd.... → NEEDS_REVIEW
+[322/2793] Nu10... → RELEVANT
+[323/2793] RE Partners... → RELEVANT
+[324/2793] Document Solutions LLC... → RELEVANT
+[325/2793] ZCG... → NEEDS_REVIEW
+[326/2793] Qualibar... → RELEVANT
+[327/2793] Perry Health... → NOT_RELEVANT
+[328/2793] Check-Mate Industries, Inc.... → RELEVANT
+[329/2793] Set Creative - A WPP Experiential A... → NOT_RELEVANT
+[330/2793] GiGstreem... → NEEDS_REVIEW
+[331/2793] Shapeways... → NOT_RELEVANT
+[332/2793] Uneeda... → NEEDS_REVIEW
+[333/2793] Raycon... → NEEDS_REVIEW
+[334/2793] Amogy... → NOT_RELEVANT
+[335/2793] Key Capture Energy... → NEEDS_REVIEW
+[336/2793] Master & Dynamic... → NOT_RELEVANT
+[337/2793] Vuzix Corporation... → RELEVANT
+[338/2793] Eight... → RELEVANT
+[339/2793] Longroad Energy Partners... → NOT_RELEVANT
+[340/2793] Ion Storage Systems... → NEEDS_REVIEW
+[341/2793] Hearth... → NEEDS_REVIEW
+[342/2793] Pure Lithium Corporation... → NOT_RELEVANT
+[343/2793] Neurable... → NEEDS_REVIEW
+[344/2793] Quantum Computing, Inc.... → NOT_RELEVANT
+[345/2793] Convergent Energy + Power... → NOT_RELEVANT
+[346/2793] Energix North America... → NEEDS_REVIEW
+[347/2793] BlueWave... → NOT_RELEVANT
+[348/2793] Ammonia Energy Association... → NOT_RELEVANT
+[349/2793] Motivair Corporation... → NOT_RELEVANT
+[350/2793] Madison Energy Infrastructure... → NOT_RELEVANT
+[351/2793] Coalition for Community Solar Acces... → NEEDS_REVIEW
+[352/2793] Nanit... → NEEDS_REVIEW
+[353/2793] The Head Start Initiative... → NEEDS_REVIEW
+[354/2793] Eight Sleep... → NOT_RELEVANT
+[355/2793] AllSpice... → RELEVANT
+[356/2793] August... → RELEVANT
+[357/2793] Bask Health... → NEEDS_REVIEW
+[358/2793] ConductorAI... → RELEVANT
+[359/2793] Gain Life... → RELEVANT
+[360/2793] Give Lively... → NEEDS_REVIEW
+[361/2793] Humanic AI... → RELEVANT
+[362/2793] Muck Rack... → NEEDS_REVIEW
+[363/2793] Rentable... → RELEVANT
+[364/2793] Ressio Software... → NEEDS_REVIEW
+[365/2793] RushLuxe... → NEEDS_REVIEW
+[366/2793] Textlayer... → NEEDS_REVIEW
+[367/2793] Turnstile... → RELEVANT
+[368/2793] Venusgeo Solutions... → RELEVANT
+[369/2793] PSX... → RELEVANT
+[370/2793] Knowmadics... → NEEDS_REVIEW
+[371/2793] FAIRWAYiQ, Inc.... → NEEDS_REVIEW
+[372/2793] Litterati... → RELEVANT
+[373/2793] Medical Automation Systems... → NEEDS_REVIEW
+[374/2793] Acelerex... → NEEDS_REVIEW
+[375/2793] Carlyn and Company Interiors + Desi... → NOT_RELEVANT
+[376/2793] Serve Professionals... → NEEDS_REVIEW
+[377/2793] ecoCFO... → NEEDS_REVIEW
+[378/2793] Privafy... → NEEDS_REVIEW
+[379/2793] Unified Office, Inc.... → RELEVANT
+[380/2793] SID Global Solutions... → RELEVANT
+[381/2793] BMRS... → NEEDS_REVIEW
+[382/2793] NetBeez, Inc.... → NEEDS_REVIEW
+[383/2793] Rappahannock Electric Cooperative... → NOT_RELEVANT
+[384/2793] Blue Ridge Mountain Rentals... → NEEDS_REVIEW
+[385/2793] Foxx Life Sciences... → RELEVANT
+[386/2793] Noble Biomaterials, Inc.... → NEEDS_REVIEW
+[387/2793] Rugged Logic... → NEEDS_REVIEW
+[388/2793] ComputerVault... → NEEDS_REVIEW
+[389/2793] Gnosis Freight... → NEEDS_REVIEW
+[390/2793] Aero Energy Inc.... → NEEDS_REVIEW
+[391/2793] NC Association of REALTORSÃÂÃÂÃ... → NEEDS_REVIEW
+[392/2793] Geographic Technologies Group... → RELEVANT
+[393/2793] BYLD Better... → RELEVANT
+[394/2793] Connected Communities... → RELEVANT
+[395/2793] Carrot-Top Industries, Inc.... → NEEDS_REVIEW
+[396/2793] Guttmacher Institute... → NEEDS_REVIEW
+[397/2793] Owl Autonomous Imaging... → NEEDS_REVIEW
+[398/2793] AveriStar... → NEEDS_REVIEW
+[399/2793] WellAware... → NEEDS_REVIEW
+[400/2793] ITCS-WebClock... → NEEDS_REVIEW
+[401/2793] Beacon Community Bank... → NEEDS_REVIEW
+[402/2793] Senscio Systems... → NEEDS_REVIEW
+[403/2793] Leading2Lean LLC... → RELEVANT
+[404/2793] Cynamics... → NEEDS_REVIEW
+[405/2793] Gaston Electrical... → NEEDS_REVIEW
+[406/2793] KANE... → RELEVANT
+[407/2793] Psionic... → NEEDS_REVIEW
+[408/2793] The Beacon Group... → NEEDS_REVIEW
+[409/2793] Arraya Solutions... → RELEVANT
+[410/2793] Prospeed.net Inc... → NEEDS_REVIEW
+[411/2793] AgZen... → NEEDS_REVIEW
+[412/2793] OneLayer... → NEEDS_REVIEW
+[413/2793] Nest Realty... → RELEVANT
+[414/2793] SVT Robotics... → NEEDS_REVIEW
+[415/2793] First Analytics... → RELEVANT
+[416/2793] Clocktower Engineering... → RELEVANT
+[417/2793] Maven Machines... → NEEDS_REVIEW
+[418/2793] Savant Systems... → NEEDS_REVIEW
+[419/2793] Aspect... → NEEDS_REVIEW
+[420/2793] Cybrella... → NEEDS_REVIEW
+[421/2793] Truss Engineering Corp... → NOT_RELEVANT
+[422/2793] Lackey Clinic... → NOT_RELEVANT
+[423/2793] Spectrum Effect... → RELEVANT
+[424/2793] TechWish... → NEEDS_REVIEW
+[425/2793] Folium AI... → RELEVANT
+[426/2793] Solutions ITW... → RELEVANT
+[427/2793] LOOKOUT... → RELEVANT
+[428/2793] Symphony Enterprises LLC... → NEEDS_REVIEW
+[429/2793] Lion Power... → NEEDS_REVIEW
+[430/2793] Pleasant Valley Homes, Inc.... → NEEDS_REVIEW
+[431/2793] KaylaTekÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[432/2793] LeafLabs LLC... → RELEVANT
+[433/2793] MFP Technology Services... → RELEVANT
+[434/2793] Flax Advisors LLC... → RELEVANT
+[435/2793] Data General... → NEEDS_REVIEW
+[436/2793] XanderPay... → NEEDS_REVIEW
+[437/2793] Cornelis Networks... → RELEVANT
+[438/2793] MMK Consulting... → NEEDS_REVIEW
+[439/2793] WSP, Inc.... → RELEVANT
+[440/2793] Computer Specialists Inc.... → NEEDS_REVIEW
+[441/2793] EqualLogic... → NEEDS_REVIEW
+[442/2793] Acumentrics, Inc.... → NEEDS_REVIEW
+[443/2793] ArgonFDS... → NOT_RELEVANT
+[444/2793] Integrated Media Technologies Inc.... → NEEDS_REVIEW
+[445/2793] VT iDirect... → NEEDS_REVIEW
+[446/2793] Citadel NY... → NEEDS_REVIEW
+[447/2793] ForwardEdge ASIC... → NEEDS_REVIEW
+[448/2793] Annapolis Micro Systems, Inc.... → RELEVANT
+[449/2793] Human Active Technology... → NEEDS_REVIEW
+[450/2793] HIPER Global US (formerly Network A... → RELEVANT
+[451/2793] Technology Trading Partners, LLC... → NEEDS_REVIEW
+[452/2793] Comark LLC... → RELEVANT
+[453/2793] Inforcecomputing... → RELEVANT
+[454/2793] Marshall Resources... → RELEVANT
+[455/2793] Silver Palm Technologies... → NEEDS_REVIEW
+[456/2793] Orion Printers & Parts... → RELEVANT
+[457/2793] RAID Incorporated... → NEEDS_REVIEW
+[458/2793] Dynamic Display Solutions... → NEEDS_REVIEW
+[459/2793] faytech North America... → NOT_RELEVANT
+[460/2793] Real Intent... → NEEDS_REVIEW
+[461/2793] North East Data... → RELEVANT
+[462/2793] The Ergonomic Group... → NEEDS_REVIEW
+[463/2793] Patton Electronics Co.... → RELEVANT
+[464/2793] Interpower Induction... → NEEDS_REVIEW
+[465/2793] Victory Sales... → NEEDS_REVIEW
+[466/2793] IMRA America, Inc.... → NEEDS_REVIEW
+[467/2793] MemryX Inc.... → NEEDS_REVIEW
+[468/2793] Murray Percival Co.... → NEEDS_REVIEW
+[469/2793] ADCO Circuits... → NEEDS_REVIEW
+[470/2793] Compact Power, Inc... → NEEDS_REVIEW
+[471/2793] Pilz Automation Safety L.P.... → NEEDS_REVIEW
+[472/2793] eldec LLC... → NEEDS_REVIEW
+[473/2793] Lumecon LLC... → NEEDS_REVIEW
+[474/2793] XALT Energy... → NEEDS_REVIEW
+[475/2793] Enpower Greentech Inc.... → NEEDS_REVIEW
+[476/2793] Pro-Vision Video Systems... → RELEVANT
+[477/2793] Harvest Solar... → NEEDS_REVIEW
+[478/2793] Terminal Supply Company... → NEEDS_REVIEW
+[479/2793] NETA - InterNational Electrical Tes... → NEEDS_REVIEW
+[480/2793] Fluxtrol... → NEEDS_REVIEW
+[481/2793] Navitas Systems, LLC... → NEEDS_REVIEW
+[482/2793] PGF Technology Group... → NEEDS_REVIEW
+[483/2793] R.M. Young Company... → NEEDS_REVIEW
+[484/2793] Apollo America... → NEEDS_REVIEW
+[485/2793] MAKS Incorporated... → NEEDS_REVIEW
+[486/2793] L.Hollingworth School for Talented ... → NEEDS_REVIEW
+[487/2793] Great Lakes Recycling... → RELEVANT
+[488/2793] Safety Track... → NEEDS_REVIEW
+[489/2793] Great Lakes Electronics Corporation... → NEEDS_REVIEW
+[490/2793] Acclaro Medical... → NEEDS_REVIEW
+[491/2793] Advanced Powder Products, Inc.... → NOT_RELEVANT
+[492/2793] Airwavz Solutions, Inc.... → RELEVANT
+[493/2793] Applied Plastics... → NOT_RELEVANT
+[494/2793] Aster Insights... → NOT_RELEVANT
+[495/2793] AVAVA, Inc.... → NEEDS_REVIEW
+[496/2793] Baim Institute for Clinical Researc... → NOT_RELEVANT
+[497/2793] Beaufort CRO... → NOT_RELEVANT
+[498/2793] Boston Centerless... → NOT_RELEVANT
+[499/2793] Cardinal Point Homeland Security Gr... → NEEDS_REVIEW
+[500/2793] Carlton National Resources... → NOT_RELEVANT
+[501/2793] Cybba... → NEEDS_REVIEW
+[502/2793] Dynamic Business Solutions... → NEEDS_REVIEW
+[503/2793] Edwards Business Systems... → NEEDS_REVIEW
+[504/2793] Elite Contracting Group... → NEEDS_REVIEW
+[505/2793] enkompas Technology Solutions... → NEEDS_REVIEW
+[506/2793] Federated Wireless... → NOT_RELEVANT
+[507/2793] Guerrilla RF... → NEEDS_REVIEW
+[508/2793] Heritage Medical Group... → NEEDS_REVIEW
+[509/2793] ICsense... → NEEDS_REVIEW
+[510/2793] ifm electronic France... → RELEVANT
+[511/2793] Invinity Energy Systems plc... → NEEDS_REVIEW
+[512/2793] Kigen... → NEEDS_REVIEW
+[513/2793] KMM Group... → NEEDS_REVIEW
+[514/2793] Lifeward... → NEEDS_REVIEW
+[515/2793] Liquid AI... → NEEDS_REVIEW
+[516/2793] M Booth Health... → NEEDS_REVIEW
+[517/2793] Management Recruiters Inc. ÃÂÃÂ... → NEEDS_REVIEW
+[518/2793] Mech-Mind Robotics... → NEEDS_REVIEW
+[519/2793] Medical Modalities, Inc... → NEEDS_REVIEW
+[520/2793] micropsi industries... → RELEVANT
+[521/2793] Midlands Honda... → NEEDS_REVIEW
+[522/2793] Multiverse Computing... → NEEDS_REVIEW
+[523/2793] myenergi... → NEEDS_REVIEW
+[524/2793] Nanoscience Instruments... → NEEDS_REVIEW
+[525/2793] Neuroelectrics... → NEEDS_REVIEW
+[526/2793] NSV Inc... → NEEDS_REVIEW
+[527/2793] Onera Health... → NEEDS_REVIEW
+[528/2793] OnRobot... → NEEDS_REVIEW
+[529/2793] Onspire Health Marketing... → NEEDS_REVIEW
+[530/2793] PNY Technologies Europe... → NEEDS_REVIEW
+[531/2793] Precision Optics Corporation... → NEEDS_REVIEW
+[532/2793] Premium Power Ltd.... → NEEDS_REVIEW
+[533/2793] Progent... → RELEVANT
+[534/2793] PROPHESEE... → RELEVANT
+[535/2793] Protean Electric... → NEEDS_REVIEW
+[536/2793] Quantron AG... → NEEDS_REVIEW
+[537/2793] Raspberry Pi Trading... → NEEDS_REVIEW
+[538/2793] RECOM TECHNOLOGIES... → NEEDS_REVIEW
+[539/2793] Red8... → RELEVANT
+[540/2793] Roboze... → NEEDS_REVIEW
+[541/2793] RÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶ch... → NEEDS_REVIEW
+[542/2793] SIGFOX... → NEEDS_REVIEW
+[543/2793] Skyports... → NEEDS_REVIEW
+[544/2793] SpectraWAVE, Inc.... → NEEDS_REVIEW
+[545/2793] Speedgoat... → NEEDS_REVIEW
+[546/2793] Springboard Manufacturing... → NEEDS_REVIEW
+[547/2793] Toradex... → NEEDS_REVIEW
+[548/2793] Ultraleap... → NEEDS_REVIEW
+[549/2793] Waev... → NEEDS_REVIEW
+[550/2793] Wandelbots... → NEEDS_REVIEW
+[551/2793] Wingcopter... → NEEDS_REVIEW
+[552/2793] Yokogawa UK Ltd... → NEEDS_REVIEW
+[553/2793] Zaptec... → NEEDS_REVIEW
+[554/2793] Skytron... → NEEDS_REVIEW
+[555/2793] BioPro, Inc.... → NEEDS_REVIEW
+[556/2793] Skytron Aviation, Inc.... → NEEDS_REVIEW
+[557/2793] Garrison Dental Solutions... → NEEDS_REVIEW
+[558/2793] a & d medical billing... → NEEDS_REVIEW
+[559/2793] Shoulder Innovations... → NEEDS_REVIEW
+[560/2793] Xoran Technologies... → NEEDS_REVIEW
+[561/2793] FlexDex Surgical... → NEEDS_REVIEW
+[562/2793] Packaging Compliance Labs... → NEEDS_REVIEW
+[563/2793] Boeing... → NEEDS_REVIEW
+[564/2793] Orbit Medical Group... → NEEDS_REVIEW
+[565/2793] NeuroNexus... → NEEDS_REVIEW
+[566/2793] Mopec... → NEEDS_REVIEW
+[567/2793] Thompson Retractor... → NOT_RELEVANT
+[568/2793] College Park Industries... → NEEDS_REVIEW
+[569/2793] Korle-Bu Teaching Hospital... → NEEDS_REVIEW
+[570/2793] Amigo Mobility International, Inc... → NEEDS_REVIEW
+[571/2793] MicroDental Laboratories... → NEEDS_REVIEW
+[572/2793] Medbio, LLC... → NEEDS_REVIEW
+[573/2793] DiaMedical USA... → NEEDS_REVIEW
+[574/2793] Precision Edge Surgical Products Co... → NEEDS_REVIEW
+[575/2793] agentsify... → RELEVANT
+[576/2793] Aloware... → RELEVANT
+[577/2793] ATLAAS... → NEEDS_REVIEW
+[578/2793] Bitfinex... → NOT_RELEVANT
+[579/2793] Centroid Solutions... → RELEVANT
+[580/2793] Chronicle Creations Inc... → NEEDS_REVIEW
+[581/2793] Cymph... → NEEDS_REVIEW
+[582/2793] Decentralized Masters... → RELEVANT
+[583/2793] Eneba Games... → NEEDS_REVIEW
+[584/2793] Fairw.AI... → RELEVANT
+[585/2793] GitRoll... → RELEVANT
+[586/2793] Helpline Software... → NEEDS_REVIEW
+[587/2793] Koyfin... → RELEVANT
+[588/2793] Mercanis... → RELEVANT
+[589/2793] Metabase... → NEEDS_REVIEW
+[590/2793] Neybox Digital... → NEEDS_REVIEW
+[591/2793] Plato Data Intelligence... → NEEDS_REVIEW
+[592/2793] Popcorn... → RELEVANT
+[593/2793] Primer... → NEEDS_REVIEW
+[594/2793] Replika... → NOT_RELEVANT
+[595/2793] Sensay... → RELEVANT
+[596/2793] Smart Apartment Data... → RELEVANT
+[597/2793] Smile ID... → NEEDS_REVIEW
+[598/2793] Sweat Economy... → NOT_RELEVANT
+[599/2793] Xverse... → NEEDS_REVIEW
+[600/2793] Actemium Douvrin Manufacturing... → NEEDS_REVIEW
+[601/2793] AE SOLAR... → NOT_RELEVANT
+[602/2793] Ai Build... → NEEDS_REVIEW
+[603/2793] AMFG... → RELEVANT
+[604/2793] AUTEL Energy - Europe... → NEEDS_REVIEW
+[605/2793] Automobili Pininfarina... → NOT_RELEVANT
+[606/2793] BALYO... → NEEDS_REVIEW
+[607/2793] beyerdynamic... → NOT_RELEVANT
+[608/2793] BigRep GmbH - Large-Scale 3D Printe... → NEEDS_REVIEW
+[609/2793] Blue Ocean Robotics... → NEEDS_REVIEW
+[610/2793] Bramble Energy Limited... → NEEDS_REVIEW
+[611/2793] BWT... → NEEDS_REVIEW
+[612/2793] Charge Amps... → NEEDS_REVIEW
+[613/2793] CHARGE CARS... → NEEDS_REVIEW
+[614/2793] Cimcorp North America... → NEEDS_REVIEW
+[615/2793] Dallmeier electronic... → NEEDS_REVIEW
+[616/2793] Deep Sea Electronics Ltd... → NEEDS_REVIEW
+[617/2793] Dexory... → NEEDS_REVIEW
+[618/2793] Digitaltest GmbH... → NEEDS_REVIEW
+[619/2793] DPA Microphones A/S... → NEEDS_REVIEW
+[620/2793] Easee... → NEEDS_REVIEW
+[621/2793] Hines Industries, Inc.... → NOT_RELEVANT
+[622/2793] Holbrook Auto Parts... → NOT_RELEVANT
+[623/2793] Huizenga Group... → NEEDS_REVIEW
+[624/2793] Independent Business Owner at Amway... → NEEDS_REVIEW
+[625/2793] INRAD... → NOT_RELEVANT
+[626/2793] InterClean Equipment... → NEEDS_REVIEW
+[627/2793] Kalamazoo Long Term Care Pharmacy... → NOT_RELEVANT
+[628/2793] K-Line Industries, Inc.... → NOT_RELEVANT
+[629/2793] Kubica Corp... → NEEDS_REVIEW
+[630/2793] Landscape Structures... → NOT_RELEVANT
+[631/2793] Laser Mechanisms... → NEEDS_REVIEW
+[632/2793] Logical Advantage, LLC... → NEEDS_REVIEW
+[633/2793] LSPedia... → RELEVANT
+[634/2793] Lucerne International... → NEEDS_REVIEW
+[635/2793] Midwest Air Filter, Inc.... → NOT_RELEVANT
+[636/2793] Midwest Pharmaceuticals Inc... → NOT_RELEVANT
+[637/2793] Midwest Recycling... → NEEDS_REVIEW
+[638/2793] Miller Canfield... → NEEDS_REVIEW
+[639/2793] Minerva ?R/SR... → RELEVANT
+[640/2793] Moeller Precision Tool... → NEEDS_REVIEW
+[641/2793] Motor City Stamping Inc.... → NEEDS_REVIEW
+[642/2793] Nucraft Furniture... → NOT_RELEVANT
+[643/2793] Orbion Space Technology... → NOT_RELEVANT
+[644/2793] Peak Performance... → NOT_RELEVANT
+[645/2793] Perceptive Controls... → NEEDS_REVIEW
+[646/2793] Premier Tooling Systems... → NOT_RELEVANT
+[647/2793] PREMIUM DESIGN GROUP & CO... → NEEDS_REVIEW
+[648/2793] PTI Engineered Plastics... → NEEDS_REVIEW
+[649/2793] Pyramid Solutions, Inc.... → RELEVANT
+[650/2793] RAMPF Group... → NEEDS_REVIEW
+[651/2793] Ray... → NEEDS_REVIEW
+[652/2793] Resolute Building Intelligence... → RELEVANT
+[653/2793] RxWare... → NEEDS_REVIEW
+[654/2793] Schmitt Electric... → NEEDS_REVIEW
+[655/2793] Smarter Furnishings... → NOT_RELEVANT
+[656/2793] Southeast Michigan Community Allian... → NOT_RELEVANT
+[657/2793] Stathakis... → NEEDS_REVIEW
+[658/2793] Suburban Tool, Inc... → NOT_RELEVANT
+[659/2793] SVS Vision... → NEEDS_REVIEW
+[660/2793] Synergycom... → RELEVANT
+[661/2793] TechBA... → NEEDS_REVIEW
+[662/2793] TH Plastics, Inc... → NEEDS_REVIEW
+[663/2793] The KR Group, Inc.... → NEEDS_REVIEW
+[664/2793] The Peterson Company... → NOT_RELEVANT
+[665/2793] Trenton Forging Company... → NEEDS_REVIEW
+[666/2793] Unified Business Technologies (UBT)... → NEEDS_REVIEW
+[667/2793] UNITED METAL PRODUCTS, Detroit Mich... → NEEDS_REVIEW
+[668/2793] Wall Colmonoy... → NOT_RELEVANT
+[669/2793] Webb Chemical Service Corporation... → NOT_RELEVANT
+[670/2793] Wolverine Metal Stamping... → NEEDS_REVIEW
+[671/2793] Woodland Paper, Inc.... → NEEDS_REVIEW
+[672/2793] Detroit Chassis LLC... → NOT_RELEVANT
+[673/2793] Akervall Technologies, Inc.... → NOT_RELEVANT
+[674/2793] Guidepoint Systems... → NEEDS_REVIEW
+[675/2793] Mr. Chain... → NOT_RELEVANT
+[676/2793] Precitec USA... → NEEDS_REVIEW
+[677/2793] 730 Eddy Studios... → NEEDS_REVIEW
+[678/2793] Cadillac Area YMCA... → NOT_RELEVANT
+[679/2793] Oxus America, Inc.... → NEEDS_REVIEW
+[680/2793] Tiara Yachts... → NOT_RELEVANT
+[681/2793] Moncur... → NEEDS_REVIEW
+[682/2793] Virtus Solis Technologies... → NEEDS_REVIEW
+[683/2793] Lytle Medical Technologies... → NEEDS_REVIEW
+[684/2793] Entellus Industries... → RELEVANT
+[685/2793] NuWave Technology Partners... → NEEDS_REVIEW
+[686/2793] Brazeway... → NEEDS_REVIEW
+[687/2793] Canoo... → NEEDS_REVIEW
+[688/2793] Control System Integrators... → RELEVANT
+[689/2793] Delta Electronics, Inc.... → NEEDS_REVIEW
+[690/2793] DESTACO... → NEEDS_REVIEW
+[691/2793] Edgewater Automation... → NEEDS_REVIEW
+[692/2793] General Motors... → NOT_RELEVANT
+[693/2793] Gonzalez... → NEEDS_REVIEW
+[694/2793] Guardhat Inc.... → NEEDS_REVIEW
+[695/2793] Heller Machine Tool... → NOT_RELEVANT
+[696/2793] ICR... → NEEDS_REVIEW
+[697/2793] ICR Services... → NEEDS_REVIEW
+[698/2793] Kawasaki Robotics... → NOT_RELEVANT
+[699/2793] KawasakiRobotics... → NEEDS_REVIEW
+[700/2793] Key Safety Systems... → NEEDS_REVIEW
+[701/2793] Koops Automation Systems... → NEEDS_REVIEW
+[702/2793] Mapal Italia... → NOT_RELEVANT
+[703/2793] Motor City Spindle Repair... → NEEDS_REVIEW
+[704/2793] Munro & Associates... → NEEDS_REVIEW
+[705/2793] Oilgear... → NOT_RELEVANT
+[706/2793] Our Next Energy, Inc.... → NEEDS_REVIEW
+[707/2793] PASLIN... → NEEDS_REVIEW
+[708/2793] RoboSense LiDAR... → NEEDS_REVIEW
+[709/2793] Talos Automation... → NEEDS_REVIEW
+[710/2793] LuxWall, Inc.... → NEEDS_REVIEW
+[711/2793] Intermode... → NEEDS_REVIEW
+[712/2793] Lyons Manufacturing Group... → NEEDS_REVIEW
+[713/2793] Die Therm Engineering... → NOT_RELEVANT
+[714/2793] Neumo... → NEEDS_REVIEW
+[715/2793] Teleoperation Consortium... → NEEDS_REVIEW
+[716/2793] Cybernet Systems Corporation... → NEEDS_REVIEW
+[717/2793] ROPIX LLC... → NEEDS_REVIEW
+[718/2793] German Machine Tools of America (GM... → NEEDS_REVIEW
+[719/2793] MWV Consulting... → RELEVANT
+[720/2793] Future Technologies, Inc.... → NEEDS_REVIEW
+[721/2793] The Pivot Group Network... → RELEVANT
+[722/2793] Test Equipment Distributors, LLC... → NEEDS_REVIEW
+[723/2793] Jadex Strategic Group... → NEEDS_REVIEW
+[724/2793] SMTAutomation... → NEEDS_REVIEW
+[725/2793] Advanced Vehicle Assemblies LLC... → NEEDS_REVIEW
+[726/2793] M22 Tactical LLC... → RELEVANT
+[727/2793] L.E. Jones Company... → NEEDS_REVIEW
+[728/2793] Quest Custom... → NOT_RELEVANT
+[729/2793] North Coast Imagineering and Manufa... → NEEDS_REVIEW
+[730/2793] Generalety, LLC... → NEEDS_REVIEW
+[731/2793] Meknology... → RELEVANT
+[732/2793] Midwest Metrology... → NEEDS_REVIEW
+[733/2793] AH- American Hydrostatics... → NOT_RELEVANT
+[734/2793] OPATIK DEFENSE... → NEEDS_REVIEW
+[735/2793] Intellicosting, LLC... → RELEVANT
+[736/2793] 464 Enterprises LLC... → NEEDS_REVIEW
+[737/2793] Pioneer Systems Group... → NEEDS_REVIEW
+[738/2793] Retail Consulting Group, Inc... → NEEDS_REVIEW
+[739/2793] LINK Marketing Group... → NOT_RELEVANT
+[740/2793] Standard Components LLC... → NEEDS_REVIEW
+[741/2793] NETFORM... → NEEDS_REVIEW
+[742/2793] Jolt Energy Storage Technologies... → NEEDS_REVIEW
+[743/2793] Ekso Bionics... → NOT_RELEVANT
+[744/2793] ENERCON Western Europe... → NEEDS_REVIEW
+[745/2793] Exor America... → NEEDS_REVIEW
+[746/2793] Fairphone... → NEEDS_REVIEW
+[747/2793] Flyability SA... → NEEDS_REVIEW
+[748/2793] Free2move eSolutions... → NEEDS_REVIEW
+[749/2793] Frenetic... → NEEDS_REVIEW
+[750/2793] GivEnergy... → NEEDS_REVIEW
+[751/2793] Gizelis Robotics SA... → RELEVANT
+[752/2793] Gordon Murray Automotive... → NEEDS_REVIEW
+[753/2793] Harwin... → NEEDS_REVIEW
+[754/2793] HiveMQ... → NEEDS_REVIEW
+[755/2793] HOLON... → NEEDS_REVIEW
+[756/2793] Bizwise... → RELEVANT
+[757/2793] Bounce Imaging... → NEEDS_REVIEW
+[758/2793] Brain Racers... → NOT_RELEVANT
+[759/2793] Candylabs... → NEEDS_REVIEW
+[760/2793] Ellipsis Health... → RELEVANT
+[761/2793] flycore... → NEEDS_REVIEW
+[762/2793] Humanitru... → NOT_RELEVANT
+[763/2793] MiraDx, Inc.... → NEEDS_REVIEW
+[764/2793] Moonchild... → NOT_RELEVANT
+[765/2793] Pinetree... → NEEDS_REVIEW
+[766/2793] Poppy AI... → RELEVANT
+[767/2793] River... → NEEDS_REVIEW
+[768/2793] Sidekick... → NOT_RELEVANT
+[769/2793] Supercast... → NOT_RELEVANT
+[770/2793] Superfluent... → NOT_RELEVANT
+[771/2793] Invinity Energy Systems... → NOT_RELEVANT
+[772/2793] bepay... → NEEDS_REVIEW
+[773/2793] Bitscopic... → NOT_RELEVANT
+[774/2793] Develop for Good... → NOT_RELEVANT
+[775/2793] DOWN Dating & Social Apps... → NOT_RELEVANT
+[776/2793] dresslife... → RELEVANT
+[777/2793] Edventures... → NOT_RELEVANT
+[778/2793] FusionHit... → RELEVANT
+[779/2793] MARA... → RELEVANT
+[780/2793] Marketer Real Estate Technologies... → NOT_RELEVANT
+[781/2793] MoodMe... → NEEDS_REVIEW
+[782/2793] Parley Labs Inc.... → NEEDS_REVIEW
+[783/2793] PrettyData Co.... → RELEVANT
+[784/2793] Somebody Digital... → NOT_RELEVANT
+[785/2793] Synquote... → NEEDS_REVIEW
+[786/2793] TopDevs Corp.... → NEEDS_REVIEW
+[787/2793] Travelle... → NOT_RELEVANT
+[788/2793] Valur... → NOT_RELEVANT
+[789/2793] Vital Block Security... → NEEDS_REVIEW
+[790/2793] VS Edventures... → NEEDS_REVIEW
+[791/2793] Acme Manufacturing Company... → NEEDS_REVIEW
+[792/2793] Altron Automation Inc.... → NEEDS_REVIEW
+[793/2793] Applied Manufacturing Technologies... → NEEDS_REVIEW
+[794/2793] Arch... → NOT_RELEVANT
+[795/2793] ARCH Global Precision... → NEEDS_REVIEW
+[796/2793] Associated Spring... → NEEDS_REVIEW
+[797/2793] Atom Technology... → NEEDS_REVIEW
+[798/2793] Axis Automation... → NEEDS_REVIEW
+[799/2793] Balance Technology Inc... → NOT_RELEVANT
+[800/2793] Besser... → NOT_RELEVANT
+[801/2793] BMG... → NOT_RELEVANT
+[802/2793] CMS North America, Inc.... → RELEVANT
+[803/2793] Coherix,Inc.... → NEEDS_REVIEW
+[804/2793] Cone Drive Operations, Inc.... → NOT_RELEVANT
+[805/2793] Dearborn Mid-West Company, LLC... → NOT_RELEVANT
+[806/2793] Dimensional Control Systems... → RELEVANT
+[807/2793] Dimplex Thermal Solutions... → NEEDS_REVIEW
+[808/2793] DSS Valves... → NOT_RELEVANT
+[809/2793] Exotic Automation & Supply... → NEEDS_REVIEW
+[810/2793] Extol, Inc.... → NEEDS_REVIEW
+[811/2793] Fives DyAG Corp.... → NEEDS_REVIEW
+[812/2793] Flexfab... → NEEDS_REVIEW
+[813/2793] FOAMit... → NEEDS_REVIEW
+[814/2793] Franklin Electric... → NEEDS_REVIEW
+[815/2793] Fraza... → NEEDS_REVIEW
+[816/2793] Galco Industrial Electronics... → NEEDS_REVIEW
+[817/2793] Gallagher-Kaiser... → NEEDS_REVIEW
+[818/2793] Garr Tool... → NEEDS_REVIEW
+[819/2793] Gast Manufacturing, Inc.... → NOT_RELEVANT
+[820/2793] GLOBAL Automation Technologies, LLC... → RELEVANT
+[821/2793] HECO, INC... → NOT_RELEVANT
+[822/2793] Hougen Manufacturing, Inc... → RELEVANT
+[823/2793] Hydraulex Global... → NEEDS_REVIEW
+[824/2793] Ilmor Engineering, Inc.... → NOT_RELEVANT
+[825/2793] Invio Automation... → NEEDS_REVIEW
+[826/2793] Kadant Johnson LLC... → NEEDS_REVIEW
+[827/2793] KAISER PREMIER... → NOT_RELEVANT
+[828/2793] Legacy Industries... → NEEDS_REVIEW
+[829/2793] Magnetic Products Inc... → NOT_RELEVANT
+[830/2793] Maxx Tooling... → NOT_RELEVANT
+[831/2793] Miller Industries, LLC... → NEEDS_REVIEW
+[832/2793] Mission Design & Automation... → NEEDS_REVIEW
+[833/2793] ND Industries... → NOT_RELEVANT
+[834/2793] NLB Corp.... → NOT_RELEVANT
+[835/2793] Perceptron... → NEEDS_REVIEW
+[836/2793] Pettibone/Traverse Lift, LLC... → NEEDS_REVIEW
+[837/2793] PIA Automation US Inc.... → NEEDS_REVIEW
+[838/2793] Progressive Surface, Inc.... → NEEDS_REVIEW
+[839/2793] Promess... → NEEDS_REVIEW
+[840/2793] Proos Manufacturing, Inc.... → NEEDS_REVIEW
+[841/2793] RedViking... → NEEDS_REVIEW
+[842/2793] Rolls-Royce Solutions America... → NOT_RELEVANT
+[843/2793] Shape Technologies Group... → NEEDS_REVIEW
+[844/2793] Sinto... → NOT_RELEVANT
+[845/2793] SISE... → RELEVANT
+[846/2793] Steelhead Technologies... → NOT_RELEVANT
+[847/2793] SurfacePrep... → NEEDS_REVIEW
+[848/2793] SW North America, Inc.... → NEEDS_REVIEW
+[849/2793] TARUS... → NEEDS_REVIEW
+[850/2793] Tommy Car Wash Systems... → NEEDS_REVIEW
+[851/2793] Tommy's Express? Car Wash... → NEEDS_REVIEW
+[852/2793] Tooling Systems Group, Inc.... → RELEVANT
+[853/2793] Uniloy... → NEEDS_REVIEW
+[854/2793] UTEC - Universal Tool Equipment + C... → NEEDS_REVIEW
+[855/2793] Weiss Technik North America, Inc.... → NOT_RELEVANT
+[856/2793] Wirtz Manufacturing Company... → NEEDS_REVIEW
+[857/2793] ZOLLER Inc.... → NEEDS_REVIEW
+[858/2793] AceTex Group... → NEEDS_REVIEW
+[859/2793] ShipTime... → NEEDS_REVIEW
+[860/2793] Die Cad Group... → NEEDS_REVIEW
+[861/2793] Jedco Inc.... → NEEDS_REVIEW
+[862/2793] Hercules Electric Mobility... → NEEDS_REVIEW
+[863/2793] Joint, Clutch & Gear Service, Inc.... → NEEDS_REVIEW
+[864/2793] Grounded... → NEEDS_REVIEW
+[865/2793] Opus IVS - US... → NEEDS_REVIEW
+[866/2793] LUXIT Group... → NEEDS_REVIEW
+[867/2793] BOSS SNOWPLOW... → NEEDS_REVIEW
+[868/2793] Digital Check Corp.... → RELEVANT
+[869/2793] JOST International... → NEEDS_REVIEW
+[870/2793] Automotive Technical Services Inc.... → NEEDS_REVIEW
+[871/2793] Sigma PowerTrain... → NEEDS_REVIEW
+[872/2793] Infinity Engineered Products... → NEEDS_REVIEW
+[873/2793] Barron Industries... → NEEDS_REVIEW
+[874/2793] BGM Engineering Inc.... → NEEDS_REVIEW
+[875/2793] FORVIA... → NEEDS_REVIEW
+[876/2793] EDJY... → NOT_RELEVANT
+[877/2793] RainIons... → NEEDS_REVIEW
+[878/2793] Tooling Tech Group... → NEEDS_REVIEW
+[879/2793] Production Spring llc... → NEEDS_REVIEW
+[880/2793] SignaKey LLC... → NEEDS_REVIEW
+[881/2793] AIAG - Automotive Industry Action G... → NEEDS_REVIEW
+[882/2793] Nichols Portland Inc.... → NEEDS_REVIEW
+[883/2793] L&W Engineering... → NEEDS_REVIEW
+[884/2793] Bmax... → RELEVANT
+[885/2793] Spectrum Industries, Inc.... → NEEDS_REVIEW
+[886/2793] Synergia Automotive LLC... → NEEDS_REVIEW
+[887/2793] DUMBARTON TOOL,INC... → NEEDS_REVIEW
+[888/2793] Beverlin Manufacturing... → NEEDS_REVIEW
+[889/2793] Magnuson Superchargers... → NEEDS_REVIEW
+[890/2793] Gabriel North America... → NEEDS_REVIEW
+[891/2793] HI-LEX Serbia... → NEEDS_REVIEW
+[892/2793] Epsilon Advanced Materials Pvt Ltd... → NEEDS_REVIEW
+[893/2793] DSA Systems, Inc.... → NEEDS_REVIEW
+[894/2793] Modal Motors... → NEEDS_REVIEW
+[895/2793] Blue ArcÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[896/2793] Michigan Wheel... → NEEDS_REVIEW
+[897/2793] Attentive Industries Inc... → RELEVANT
+[898/2793] Mitsubishi Motors R&D of America... → NEEDS_REVIEW
+[899/2793] Transnav... → NEEDS_REVIEW
+[900/2793] EOTECH... → NEEDS_REVIEW
+[901/2793] Cloyes Gear and Products... → NEEDS_REVIEW
+[902/2793] ActioGlobal... → NEEDS_REVIEW
+[903/2793] Audacia Innovations... → RELEVANT
+[904/2793] bravetto... → RELEVANT
+[905/2793] Exelab s.r.l.... → RELEVANT
+[906/2793] Ezurio... → NEEDS_REVIEW
+[907/2793] Nikola Labs, Inc... → NEEDS_REVIEW
+[908/2793] Notarify... → RELEVANT
+[909/2793] Passporter... → NEEDS_REVIEW
+[910/2793] WebOrigo... → RELEVANT
+[911/2793] Elvie... → NEEDS_REVIEW
+[912/2793] LEIA Inc.... → RELEVANT
+[913/2793] Loci Orthopaedics... → NEEDS_REVIEW
+[914/2793] MicroEJ... → RELEVANT
+[915/2793] Neuraspace... → RELEVANT
+[916/2793] Rokoko... → RELEVANT
+[917/2793] Shift GmbH... → NEEDS_REVIEW
+[918/2793] Varjo... → RELEVANT
+[919/2793] Withings... → NEEDS_REVIEW
+[920/2793] Wunder Mobility... → NEEDS_REVIEW
+[921/2793] BHOUT... → NEEDS_REVIEW
+[922/2793] Bitmovin... → NEEDS_REVIEW
+[923/2793] BTRY... → RELEVANT
+[924/2793] Control4... → NEEDS_REVIEW
+[925/2793] Dapper Labs... → NEEDS_REVIEW
+[926/2793] Heliatek GmbH... → NEEDS_REVIEW
+[927/2793] Manolya Electronics... → RELEVANT
+[928/2793] refurbed... → RELEVANT
+[929/2793] SonoSuite... → NEEDS_REVIEW
+[930/2793] tado... → NEEDS_REVIEW
+[931/2793] Azcom Technology... → RELEVANT
+[932/2793] Biamp Systems... → NEEDS_REVIEW
+[933/2793] Britten-Norman... → NEEDS_REVIEW
+[934/2793] Cambridge Audio... → NEEDS_REVIEW
+[935/2793] Coriolis Composites... → NEEDS_REVIEW
+[936/2793] Cremer Speciaalmachines B.V.... → NEEDS_REVIEW
+[937/2793] Croom Medical... → NOT_RELEVANT
+[938/2793] DHV Technology... → NEEDS_REVIEW
+[939/2793] ewo srl/GmbH... → NEEDS_REVIEW
+[940/2793] Factbird... → RELEVANT
+[941/2793] ROHM Semiconductor Europe... → NEEDS_REVIEW
+[942/2793] Scolmore International Limited... → NEEDS_REVIEW
+[943/2793] Silence l Leader in Urban Eco Mobil... → NEEDS_REVIEW
+[944/2793] Simucube... → NEEDS_REVIEW
+[945/2793] Sorama B.V.... → NEEDS_REVIEW
+[946/2793] Sormac BV... → NEEDS_REVIEW
+[947/2793] Synecco... → NEEDS_REVIEW
+[948/2793] TPV AUTOMOTIVE... → NEEDS_REVIEW
+[949/2793] VDL Agrotech... → NEEDS_REVIEW
+[950/2793] Bellevue and Burien Nissan... → NEEDS_REVIEW
+[951/2793] Salus Scientific Corp.... → NEEDS_REVIEW
+[952/2793] Enbio Group AG... → NEEDS_REVIEW
+[953/2793] Access Optics... → NEEDS_REVIEW
+[954/2793] Laser Light Communications... → NEEDS_REVIEW
+[955/2793] Electronic Sensor Technology Inc... → NEEDS_REVIEW
+[956/2793] The Patriot Group, Inc. (TPGI)... → NEEDS_REVIEW
+[957/2793] ARES Tool... → NEEDS_REVIEW
+[958/2793] Senergy... → NEEDS_REVIEW
+[959/2793] Gateway Bronco... → NEEDS_REVIEW
+[960/2793] Canary Speech... → RELEVANT
+[961/2793] Thuro Metal Products, Inc.... → NEEDS_REVIEW
+[962/2793] Dynamic Science, Inc.... → NEEDS_REVIEW
+[963/2793] RV WheelatorÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[964/2793] Rx Bandz... → NEEDS_REVIEW
+[965/2793] KADAN Consultants, Inc.... → NEEDS_REVIEW
+[966/2793] Troika Solutions, LLC... → NEEDS_REVIEW
+[967/2793] Setna iO... → RELEVANT
+[968/2793] HOP Munitions... → NEEDS_REVIEW
+[969/2793] Gold Coast Auto Body, Inc... → NEEDS_REVIEW
+[970/2793] Source Surgical... → NEEDS_REVIEW
+[971/2793] ANSOL, Inc.... → NEEDS_REVIEW
+[972/2793] Radwave Technologies Inc.... → NEEDS_REVIEW
+[973/2793] True Anomaly... → NEEDS_REVIEW
+[974/2793] Sol Millennium Medical Group... → NEEDS_REVIEW
+[975/2793] Bioventus... → NEEDS_REVIEW
+[976/2793] Vive Health... → NOT_RELEVANT
+[977/2793] Varda Space Industries... → NEEDS_REVIEW
+[978/2793] Synchron, Inc.... → NEEDS_REVIEW
+[979/2793] Dufour Aerospace... → NOT_RELEVANT
+[980/2793] FANTIC MOTOR S.P.A.... → NEEDS_REVIEW
+[981/2793] KACO new energy... → NOT_RELEVANT
+[982/2793] Oxford Space Systems... → NOT_RELEVANT
+[983/2793] Pinarello... → NOT_RELEVANT
+[984/2793] Radical Motorsport Ltd.... → NEEDS_REVIEW
+[985/2793] Sunamp... → NOT_RELEVANT
+[986/2793] Teenage Engineering... → NOT_RELEVANT
+[987/2793] Triscan a/s... → NEEDS_REVIEW
+[988/2793] Channel Products... → NEEDS_REVIEW
+[989/2793] Tomar Electronics... → NEEDS_REVIEW
+[990/2793] Westak... → NEEDS_REVIEW
+[991/2793] Peco InspX... → NEEDS_REVIEW
+[992/2793] Solarcraft... → NOT_RELEVANT
+[993/2793] ALAMO Transformer... → NEEDS_REVIEW
+[994/2793] Scott Manufacturing Solutions... → NEEDS_REVIEW
+[995/2793] Power Grid Components... → NEEDS_REVIEW
+[996/2793] BTX... → NEEDS_REVIEW
+[997/2793] Deako Lighting... → NEEDS_REVIEW
+[998/2793] Powerside... → NEEDS_REVIEW
+[999/2793] Crown International... → NEEDS_REVIEW
+[1000/2793] Voltserver... → NEEDS_REVIEW
+[1001/2793] Remtec... → NEEDS_REVIEW
+[1002/2793] EMT Engineering Sales... → NEEDS_REVIEW
+[1003/2793] Canfield Industries... → NEEDS_REVIEW
+[1004/2793] Pacific Power Source... → NEEDS_REVIEW
+[1005/2793] Westinghouse Outdoor Power Equipmen... → NOT_RELEVANT
+[1006/2793] Digilock... → NEEDS_REVIEW
+[1007/2793] Electra Sales... → NEEDS_REVIEW
+[1008/2793] United Electrical Sales... → NEEDS_REVIEW
+[1009/2793] EMSI... → NEEDS_REVIEW
+[1010/2793] South Bay Circuits... → NEEDS_REVIEW
+[1011/2793] Leon Speakers... → NEEDS_REVIEW
+[1012/2793] Sal Electric... → NEEDS_REVIEW
+[1013/2793] Addionics... → NOT_RELEVANT
+[1014/2793] Bentek... → NEEDS_REVIEW
+[1015/2793] A&D Precision... → NEEDS_REVIEW
+[1016/2793] ProClip USA... → NEEDS_REVIEW
+[1017/2793] Virtuix... → NEEDS_REVIEW
+[1018/2793] RCD Components... → NEEDS_REVIEW
+[1019/2793] Fair-Play... → NEEDS_REVIEW
+[1020/2793] VPI Technology Group... → NEEDS_REVIEW
+[1021/2793] SOUNDBOKS... → NEEDS_REVIEW
+[1022/2793] Key Digital... → NEEDS_REVIEW
+[1023/2793] Warshaw... → NEEDS_REVIEW
+[1024/2793] Copper Mountain... → NEEDS_REVIEW
+[1025/2793] American Power Solutions... → NEEDS_REVIEW
+[1026/2793] Aico Limited... → NEEDS_REVIEW
+[1027/2793] Allen & Heath Ltd... → NOT_RELEVANT
+[1028/2793] AME (Applied Micro Electronics)... → NEEDS_REVIEW
+[1029/2793] Analog Way... → NEEDS_REVIEW
+[1030/2793] AP Sensing... → NEEDS_REVIEW
+[1031/2793] basalte... → NEEDS_REVIEW
+[1032/2793] BAUR GmbH... → NEEDS_REVIEW
+[1033/2793] CAME Spa... → NEEDS_REVIEW
+[1034/2793] Crowcon Detection Instruments Ltd.... → NEEDS_REVIEW
+[1035/2793] Easy-Laser... → NEEDS_REVIEW
+[1036/2793] ePower... → NEEDS_REVIEW
+[1037/2793] FRAMOS... → NEEDS_REVIEW
+[1038/2793] Gasmet Technologies Oy... → NEEDS_REVIEW
+[1039/2793] GEUTEBRUCK GmbH... → NEEDS_REVIEW
+[1040/2793] go-e... → NEEDS_REVIEW
+[1041/2793] Haefely AG... → NOT_RELEVANT
+[1042/2793] HAEFELY HIPOTRONICS... → NEEDS_REVIEW
+[1043/2793] HomeLINK... → NEEDS_REVIEW
+[1044/2793] i-charging... → NEEDS_REVIEW
+[1045/2793] IDS Imaging Development Systems Gmb... → NEEDS_REVIEW
+[1046/2793] Inxpect... → NEEDS_REVIEW
+[1047/2793] Loxone... → NEEDS_REVIEW
+[1048/2793] Menlo Systems... → NEEDS_REVIEW
+[1049/2793] Morrow Batteries... → NOT_RELEVANT
+[1050/2793] Olympia Electronics... → NEEDS_REVIEW
+[1051/2793] PicoQuant GmbH... → NEEDS_REVIEW
+[1052/2793] Rointe calefacci?n... → NOT_RELEVANT
+[1053/2793] Septentrio... → NEEDS_REVIEW
+[1054/2793] Televic GSP... → NEEDS_REVIEW
+[1055/2793] Vega Chargers... → NEEDS_REVIEW
+[1056/2793] Victron Energy... → NOT_RELEVANT
+[1057/2793] Yale Home Global... → NEEDS_REVIEW
+[1058/2793] Zurich Instruments... → NEEDS_REVIEW
+[1059/2793] Storage Engine... → NEEDS_REVIEW
+[1060/2793] Roanwell Corporation... → NEEDS_REVIEW
+[1061/2793] Aspen Power... → NOT_RELEVANT
+[1062/2793] BC Engineered Products... → NEEDS_REVIEW
+[1063/2793] Pfister Energy... → NEEDS_REVIEW
+[1064/2793] CS Energy... → NEEDS_REVIEW
+[1065/2793] Xscape Photonics Inc... → RELEVANT
+[1066/2793] Princeton Infrared Technologies, In... → RELEVANT
+[1067/2793] Emerald Energy... → NOT_RELEVANT
+[1068/2793] Soltech Solutions... → NOT_RELEVANT
+[1069/2793] Lite Coms LLC... → NEEDS_REVIEW
+[1070/2793] CEP Renewables... → NOT_RELEVANT
+[1071/2793] USL Technology... → RELEVANT
+[1072/2793] EV Solar... → NOT_RELEVANT
+[1073/2793] Buckingham Manufacturing Co Inc.... → NEEDS_REVIEW
+[1074/2793] d&b audiotechnik... → NEEDS_REVIEW
+[1075/2793] Hughes Fire & Secruity Systems, Inc... → NEEDS_REVIEW
+[1076/2793] Inim Electronics... → NEEDS_REVIEW
+[1077/2793] Minicam... → NEEDS_REVIEW
+[1078/2793] NEXO... → NEEDS_REVIEW
+[1079/2793] NKT Photonics... → NEEDS_REVIEW
+[1080/2793] Nortek... → NEEDS_REVIEW
+[1081/2793] Ohme... → NEEDS_REVIEW
+[1082/2793] Pektron... → NEEDS_REVIEW
+[1083/2793] Profoto AB... → NEEDS_REVIEW
+[1084/2793] PST / Rotronic AG... → NOT_RELEVANT
+[1085/2793] Pyronix... → RELEVANT
+[1086/2793] Rolec Services Ltd... → NOT_RELEVANT
+[1087/2793] Solid State Logic... → NOT_RELEVANT
+[1088/2793] SoundCraft... → NEEDS_REVIEW
+[1089/2793] WB GROUP... → NEEDS_REVIEW
+[1090/2793] DHYBRID Power Systems GmbH... → NEEDS_REVIEW
+[1091/2793] Status Pro Maschinenmesstechnik Gmb... → NEEDS_REVIEW
+[1092/2793] OakTree Power... → NEEDS_REVIEW
+[1093/2793] MAXX SOLAR & ENERGIE GmbH & Co. KG... → NOT_RELEVANT
+[1094/2793] nuuEnergy... → NEEDS_REVIEW
+[1095/2793] P2i... → NEEDS_REVIEW
+[1096/2793] GRIPS Energy... → NEEDS_REVIEW
+[1097/2793] Electrogenos... → NEEDS_REVIEW
+[1098/2793] Airhive... → RELEVANT
+[1099/2793] ion Ventures... → NOT_RELEVANT
+[1100/2793] Lightspace Technologies... → NOT_RELEVANT
+[1101/2793] Pager Power Ltd... → RELEVANT
+[1102/2793] Renewable Strategy Limited... → NOT_RELEVANT
+[1103/2793] Nala Renewables... → NOT_RELEVANT
+[1104/2793] Critical Power Supplies Ltd... → NOT_RELEVANT
+[1105/2793] skarper... → NOT_RELEVANT
+[1106/2793] VOLTARO... → NOT_RELEVANT
+[1107/2793] CYCLE... → NOT_RELEVANT
+[1108/2793] Konrad Technologies - US... → RELEVANT
+[1109/2793] ILS-Integrated Lab Solutions GmbH... → NEEDS_REVIEW
+[1110/2793] PowTechnology Digital Transformatio... → NEEDS_REVIEW
+[1111/2793] Brill Power... → NEEDS_REVIEW
+[1112/2793] SynchroStor... → RELEVANT
+[1113/2793] ERS electronic GmbH... → RELEVANT
+[1114/2793] IMM electronics GmbH... → NEEDS_REVIEW
+[1115/2793] Chipflow... → NEEDS_REVIEW
+[1116/2793] Green Fusion GmbH... → NEEDS_REVIEW
+[1117/2793] Magnomatics Limited... → NEEDS_REVIEW
+[1118/2793] Siliconally... → RELEVANT
+[1119/2793] Mill-Max Mfg. Corp.... → NEEDS_REVIEW
+[1120/2793] Power Edison... → NOT_RELEVANT
+[1121/2793] Adaptive... → NEEDS_REVIEW
+[1122/2793] Safran Federal Systems... → NEEDS_REVIEW
+[1123/2793] Mode:Green, Inc.... → NEEDS_REVIEW
+[1124/2793] Windmill... → NEEDS_REVIEW
+[1125/2793] Harvest Power LLC... → NOT_RELEVANT
+[1126/2793] Thea Energy... → NEEDS_REVIEW
+[1127/2793] Distributed Spectrum... → NEEDS_REVIEW
+[1128/2793] Ravin Electronics... → RELEVANT
+[1129/2793] Triad RF Systems, Inc.... → NEEDS_REVIEW
+[1130/2793] Analytical Science and Technologies... → RELEVANT
+[1131/2793] Accord Power Inc.... → NEEDS_REVIEW
+[1132/2793] Wright Energy Storage Technologies... → NOT_RELEVANT
+[1133/2793] Patriot Energy Solutions corp... → NEEDS_REVIEW
+[1134/2793] Conax Technologies... → NOT_RELEVANT
+[1135/2793] RCD Components, Inc... → RELEVANT
+[1136/2793] Schneider Optics, Inc.... → RELEVANT
+[1137/2793] NewTech Energy Inc... → NEEDS_REVIEW
+[1138/2793] Intelligent Product Solutions... → RELEVANT
+[1139/2793] AccuVein Inc.... → NEEDS_REVIEW
+[1140/2793] Anderson-Negele... → NEEDS_REVIEW
+[1141/2793] Bosch USA... → RELEVANT
+[1142/2793] Clarapath,Inc.... → NOT_RELEVANT
+[1143/2793] Cutting Edge Laser Technologies... → NOT_RELEVANT
+[1144/2793] eMagin Corporation... → NEEDS_REVIEW
+[1145/2793] Environment One Corporation... → NEEDS_REVIEW
+[1146/2793] IoT Right?... → NEEDS_REVIEW
+[1147/2793] Jetson Electric Bikes... → NOT_RELEVANT
+[1148/2793] Lemco... → NEEDS_REVIEW
+[1149/2793] McIntosh Laboratory, Inc.... → NEEDS_REVIEW
+[1150/2793] Morphle Labs Inc.... → NOT_RELEVANT
+[1151/2793] OLEDWorks... → NEEDS_REVIEW
+[1152/2793] Photonics Industries Inc... → NEEDS_REVIEW
+[1153/2793] Quadlogic Controls Corp.... → NEEDS_REVIEW
+[1154/2793] Rosco Vision... → RELEVANT
+[1155/2793] Six15 Technologies... → NEEDS_REVIEW
+[1156/2793] SNA Displays... → NEEDS_REVIEW
+[1157/2793] WyreStorm Technologies... → NEEDS_REVIEW
+[1158/2793] SpiNNcloud Systems GmbH... → RELEVANT
+[1159/2793] IMPULSE EMBEDDED... → RELEVANT
+[1160/2793] HIPER Global UK... → RELEVANT
+[1161/2793] STEGO Group... → NEEDS_REVIEW
+[1162/2793] FYTA... → NOT_RELEVANT
+[1163/2793] Camion... → RELEVANT
+[1164/2793] ASC GmbH... → NEEDS_REVIEW
+[1165/2793] One-LUX Ltd... → NEEDS_REVIEW
+[1166/2793] SOREL GmbH Mikroelektronik... → NEEDS_REVIEW
+[1167/2793] Senseca... → NEEDS_REVIEW
+[1168/2793] DRIFT Energy Ltd... → RELEVANT
+[1169/2793] Carma... → NEEDS_REVIEW
+[1170/2793] PervasID... → RELEVANT
+[1171/2793] FLUSSO LIMITED... → NEEDS_REVIEW
+[1172/2793] Cotswold Energy Group... → NOT_RELEVANT
+[1173/2793] Ubitium... → NOT_RELEVANT
+[1174/2793] Warm Front Ltd... → RELEVANT
+[1175/2793] CX Energy Ltd... → NOT_RELEVANT
+[1176/2793] QMK GmbH... → NEEDS_REVIEW
+[1177/2793] Frequenz... → RELEVANT
+[1178/2793] Keit Industrial Analytics... → NEEDS_REVIEW
+[1179/2793] Cucumber Lighting Controls... → NEEDS_REVIEW
+[1180/2793] EFT Mobility... → NEEDS_REVIEW
+[1181/2793] Universal Smart Cards... → NEEDS_REVIEW
+[1182/2793] Midstream Lighting... → NEEDS_REVIEW
+[1183/2793] tem.... → NEEDS_REVIEW
+[1184/2793] Ortus Energy... → NOT_RELEVANT
+[1185/2793] Navitas Resourcing Group... → NOT_RELEVANT
+[1186/2793] GKD Technologies... → NEEDS_REVIEW
+[1187/2793] Oxford Quantum Circuits... → NOT_RELEVANT
+[1188/2793] QED Technologies International LLC... → RELEVANT
+[1189/2793] Aircela Inc... → NEEDS_REVIEW
+[1190/2793] AeroDefense... → NEEDS_REVIEW
+[1191/2793] Energy Infrastructure Partners... → NOT_RELEVANT
+[1192/2793] CLIP... → RELEVANT
+[1193/2793] Advanced Business Communications... → NEEDS_REVIEW
+[1194/2793] TiniFiber... → RELEVANT
+[1195/2793] Viridi Parente, Inc.... → RELEVANT
+[1196/2793] Stealth... → NOT_RELEVANT
+[1197/2793] QE Solar... → NOT_RELEVANT
+[1198/2793] It's Electric Inc.... → NEEDS_REVIEW
+[1199/2793] Advanced Automation Corporation... → NEEDS_REVIEW
+[1200/2793] MegaPhase... → NOT_RELEVANT
+[1201/2793] BTX Technologies, Inc.... → NEEDS_REVIEW
+[1202/2793] AFC Energy... → NEEDS_REVIEW
+[1203/2793] Alten EnergÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[1204/2793] Arbe... → NEEDS_REVIEW
+[1205/2793] Black Semiconductor... → NEEDS_REVIEW
+[1206/2793] Blu Wireless... → NOT_RELEVANT
+[1207/2793] CorPower Ocean... → NOT_RELEVANT
+[1208/2793] Edda Wind... → NEEDS_REVIEW
+[1209/2793] Elgin... → NEEDS_REVIEW
+[1210/2793] Elum Energy... → RELEVANT
+[1211/2793] Enapter... → NEEDS_REVIEW
+[1212/2793] EnSilica... → NEEDS_REVIEW
+[1213/2793] Faradion Limited... → NOT_RELEVANT
+[1214/2793] Lotus Tech Innovation Centre GmbH... → NEEDS_REVIEW
+[1215/2793] M-Automotive... → NEEDS_REVIEW
+[1216/2793] Nexans aeA... → NEEDS_REVIEW
+[1217/2793] Nexans autoelectric... → NEEDS_REVIEW
+[1218/2793] Nexion spa... → NEEDS_REVIEW
+[1219/2793] Octopus Electric Vehicles... → NEEDS_REVIEW
+[1220/2793] Rimac Automobili d.o.o.... → NEEDS_REVIEW
+[1221/2793] Roole... → NEEDS_REVIEW
+[1222/2793] Svolt Energy Technology Co., Ltd.... → NEEDS_REVIEW
+[1223/2793] Terberg Special Vehicles... → NEEDS_REVIEW
+[1224/2793] Verge Motorcycles... → NEEDS_REVIEW
+[1225/2793] WayRay... → NEEDS_REVIEW
+[1226/2793] Xtrac Ltd... → NEEDS_REVIEW
+[1227/2793] Senseeker Corporation... → NEEDS_REVIEW
+[1228/2793] Abacus Semiconductor Corporation... → NEEDS_REVIEW
+[1229/2793] ChargeNet Stations... → NEEDS_REVIEW
+[1230/2793] CelLink Corporation... → NEEDS_REVIEW
+[1231/2793] General Vision Inc... → NEEDS_REVIEW
+[1232/2793] Caavo... → NEEDS_REVIEW
+[1233/2793] Blue Cheetah Analog Design, Inc.... → NEEDS_REVIEW
+[1234/2793] Tsavorite Scalable Intelligence... → RELEVANT
+[1235/2793] Endura Technologies... → RELEVANT
+[1236/2793] iPowerUp Corporation... → NOT_RELEVANT
+[1237/2793] FLEXXON... → NEEDS_REVIEW
+[1238/2793] Aeromine Technologies, Inc.... → NEEDS_REVIEW
+[1239/2793] Fab-9.com... → RELEVANT
+[1240/2793] Particles Plus... → NEEDS_REVIEW
+[1241/2793] Obsidian Sensors... → NEEDS_REVIEW
+[1242/2793] INNOViON Corporation... → RELEVANT
+[1243/2793] AKT Components Sdn. Bhd.... → RELEVANT
+[1244/2793] ASIP Technologies... → RELEVANT
+[1245/2793] Deterrence... → NEEDS_REVIEW
+[1246/2793] Scorpius Trackers... → NEEDS_REVIEW
+[1247/2793] Eugenus, Inc.... → NOT_RELEVANT
+[1248/2793] Premier Technical Sales, Inc... → NEEDS_REVIEW
+[1249/2793] Focal... → NOT_RELEVANT
+[1250/2793] ARC Europe... → NEEDS_REVIEW
+[1251/2793] hofer powertrain... → NEEDS_REVIEW
+[1252/2793] Arrival... → NEEDS_REVIEW
+[1253/2793] BRABUS GmbH... → NEEDS_REVIEW
+[1254/2793] Eatron Technologies... → NEEDS_REVIEW
+[1255/2793] AImotive... → NEEDS_REVIEW
+[1256/2793] Landi Renzo S.p.A.... → NOT_RELEVANT
+[1257/2793] Lightyear... → NEEDS_REVIEW
+[1258/2793] CaetanoBus... → NEEDS_REVIEW
+[1259/2793] Applus+ Automotive... → NEEDS_REVIEW
+[1260/2793] Donkervoort Automobielen... → NOT_RELEVANT
+[1261/2793] Aurrigo... → NEEDS_REVIEW
+[1262/2793] Caterham... → NEEDS_REVIEW
+[1263/2793] InstaVolt... → NEEDS_REVIEW
+[1264/2793] London EV Company (LEVC)... → NEEDS_REVIEW
+[1265/2793] GSOC solutions... → RELEVANT
+[1266/2793] Payton Planar Magnetics Ltd... → NEEDS_REVIEW
+[1267/2793] Milectria Middle East Cables LLC... → NEEDS_REVIEW
+[1268/2793] Hydro X... → NOT_RELEVANT
+[1269/2793] TracePCB... → NEEDS_REVIEW
+[1270/2793] Hydrolite... → NEEDS_REVIEW
+[1271/2793] NeoLogic... → NEEDS_REVIEW
+[1272/2793] Cybord... → NEEDS_REVIEW
+[1273/2793] Phinergy... → NEEDS_REVIEW
+[1274/2793] Eastronics... → RELEVANT
+[1275/2793] Electrotherm Industry... → NOT_RELEVANT
+[1276/2793] BLEnergy... → NOT_RELEVANT
+[1277/2793] Nostromo Energy... → NOT_RELEVANT
+[1278/2793] Ralco Energy... → NOT_RELEVANT
+[1279/2793] Al Yamuna Densons Industries... → NOT_RELEVANT
+[1280/2793] Avnet ASIC Israel... → NEEDS_REVIEW
+[1281/2793] Tamuz F.T.K Solutions... → NEEDS_REVIEW
+[1282/2793] NeuReality... → NEEDS_REVIEW
+[1283/2793] QDM... → NEEDS_REVIEW
+[1284/2793] SolidRun... → NEEDS_REVIEW
+[1285/2793] SonicEdge Ltd.... → NEEDS_REVIEW
+[1286/2793] Axioma System Engineering and Integ... → NEEDS_REVIEW
+[1287/2793] Efficient Power Conversion... → NEEDS_REVIEW
+[1288/2793] Bandwidth10... → NEEDS_REVIEW
+[1289/2793] Displace... → NEEDS_REVIEW
+[1290/2793] SolarGrade by HelioVolta... → NEEDS_REVIEW
+[1291/2793] OLogic, Inc.... → NEEDS_REVIEW
+[1292/2793] RavenVolt... → NOT_RELEVANT
+[1293/2793] Endurans Solar... → NEEDS_REVIEW
+[1294/2793] Omnitron Sensors... → NEEDS_REVIEW
+[1295/2793] RST CleanTech Solutions... → NOT_RELEVANT
+[1296/2793] Innovation Energy Technology... → RELEVANT
+[1297/2793] Anytrek Corporation... → NEEDS_REVIEW
+[1298/2793] LensLock, Inc... → RELEVANT
+[1299/2793] Exowatt... → NOT_RELEVANT
+[1300/2793] ULINK Technology... → RELEVANT
+[1301/2793] Universal Power... → RELEVANT
+[1302/2793] Etched... → RELEVANT
+[1303/2793] Renewell Energy... → NOT_RELEVANT
+[1304/2793] Holy Grail Inc... → NEEDS_REVIEW
+[1305/2793] Heliodyne Inc.... → NEEDS_REVIEW
+[1306/2793] Marquee Semiconductor Inc.... → RELEVANT
+[1307/2793] CarbonCapture Inc.... → NEEDS_REVIEW
+[1308/2793] GSME... → RELEVANT
+[1309/2793] A. Abunayyan Group... → NOT_RELEVANT
+[1310/2793] Bapco Refining... → NOT_RELEVANT
+[1311/2793] CRESCENT PETROLEUM SERVICES... → NEEDS_REVIEW
+[1312/2793] Dragon Oil... → NEEDS_REVIEW
+[1313/2793] ENOC... → NEEDS_REVIEW
+[1314/2793] Lamprell... → NOT_RELEVANT
+[1315/2793] Mubadala Energy... → NOT_RELEVANT
+[1316/2793] Netafim... → NOT_RELEVANT
+[1317/2793] Netafim USA... → NOT_RELEVANT
+[1318/2793] NMDC Energy... → NEEDS_REVIEW
+[1319/2793] NMDC- Energy ( formerly NPCC )... → RELEVANT
+[1320/2793] North Oil Company Qatar... → NEEDS_REVIEW
+[1321/2793] OilSERV... → NEEDS_REVIEW
+[1322/2793] OQ... → NOT_RELEVANT
+[1323/2793] OQ8... → NOT_RELEVANT
+[1324/2793] Petro Rabigh... → NEEDS_REVIEW
+[1325/2793] EQUATE Petrochemical Company... → NOT_RELEVANT
+[1326/2793] ESNAD... → NEEDS_REVIEW
+[1327/2793] GEOLOG International... → NEEDS_REVIEW
+[1328/2793] SANAD... → NEEDS_REVIEW
+[1329/2793] Gilat Satellite Networks... → NEEDS_REVIEW
+[1330/2793] King Salman Energy Park (SPARK)... → NOT_RELEVANT
+[1331/2793] Qatar General Electricity & Water C... → NEEDS_REVIEW
+[1332/2793] Emarat - Emirates Petroleum Company... → NEEDS_REVIEW
+[1333/2793] PGP Energies... → NEEDS_REVIEW
+[1334/2793] NBTC Group... → NEEDS_REVIEW
+[1335/2793] Shelf Drilling Inc.... → NEEDS_REVIEW
+[1336/2793] Daleel Petroleum LLC... → NOT_RELEVANT
+[1337/2793] Al-Quraishi Electrical Services (AQ... → NEEDS_REVIEW
+[1338/2793] Saudi Electric Supply Company... → NEEDS_REVIEW
+[1339/2793] United Technologies of Substation &... → NEEDS_REVIEW
+[1340/2793] Eaton Arabia... → NOT_RELEVANT
+[1341/2793] Arabian Power Electronics Company (... → NEEDS_REVIEW
+[1342/2793] Middle East Specialized Cables (MES... → NEEDS_REVIEW
+[1343/2793] Legrand Saudi Arabia... → NEEDS_REVIEW
+[1344/2793] Alessa Industries Co.... → NEEDS_REVIEW
+[1345/2793] SEP System House Factory For Electr... → NEEDS_REVIEW
+[1346/2793] ISys... → NEEDS_REVIEW
+[1347/2793] MEMF Electrical Industries Co... → NEEDS_REVIEW
+[1348/2793] Electronic & Electrical Industries ... → NEEDS_REVIEW
+[1349/2793] OGS (Oil & Gas Services)... → NEEDS_REVIEW
+[1350/2793] Emarat - Emirates Petroleum... → NEEDS_REVIEW
+[1351/2793] Dolphin Energy... → NEEDS_REVIEW
+[1352/2793] Petrotec... → NOT_RELEVANT
+[1353/2793] AYTB... → NOT_RELEVANT
+[1354/2793] Gulf Drilling International... → NEEDS_REVIEW
+[1355/2793] Kuiper International... → NOT_RELEVANT
+[1356/2793] aramco... → NOT_RELEVANT
+[1357/2793] CCED... → NEEDS_REVIEW
+[1358/2793] GASCO, National Gas & Industrializa... → NEEDS_REVIEW
+[1359/2793] Energetech... → NEEDS_REVIEW
+[1360/2793] Arabian Pipeline & Services Co. Ltd... → NOT_RELEVANT
+[1361/2793] Dana Gas... → NOT_RELEVANT
+[1362/2793] Abraj Energy... → NEEDS_REVIEW
+[1363/2793] OPAL OMAN... → NEEDS_REVIEW
+[1364/2793] ADNOC Drilling... → NEEDS_REVIEW
+[1365/2793] ADNOC Gas (PMC)... → NOT_RELEVANT
+[1366/2793] ARANER... → NOT_RELEVANT
+[1367/2793] GFG Alliance... → NEEDS_REVIEW
+[1368/2793] GFG Engineering... → NEEDS_REVIEW
+[1369/2793] Global Process Systems... → NEEDS_REVIEW
+[1370/2793] HEISCO... → NOT_RELEVANT
+[1371/2793] Hydrogenious LOHC... → NOT_RELEVANT
+[1372/2793] JIGPC- Jazan Integrated Gasificatio... → NOT_RELEVANT
+[1373/2793] K+S Gruppe... → NEEDS_REVIEW
+[1374/2793] KBR-AMCDE... → NEEDS_REVIEW
+[1375/2793] KUWAIT DRILLING CO. K.S.C.C.... → NEEDS_REVIEW
+[1376/2793] Kuwait Energy... → NEEDS_REVIEW
+[1377/2793] Neptune Energy... → NEEDS_REVIEW
+[1378/2793] Novomet... → NOT_RELEVANT
+[1379/2793] ORYX GTL... → NEEDS_REVIEW
+[1380/2793] Qatalum - Qatar Aluminium Limited... → NEEDS_REVIEW
+[1381/2793] Rawabi Integrated Gas Co... → NOT_RELEVANT
+[1382/2793] Salzgitter AG... → NEEDS_REVIEW
+[1383/2793] Seaways Engineering International I... → NOT_RELEVANT
+[1384/2793] Specialized Industrial Services Co.... → NEEDS_REVIEW
+[1385/2793] Testo SE & Co. KGaA... → NEEDS_REVIEW
+[1386/2793] TGE Gas Engineering... → NOT_RELEVANT
+[1387/2793] WIKA Group... → NEEDS_REVIEW
+[1388/2793] ABB... → NEEDS_REVIEW
+[1389/2793] DroneDeploy... → RELEVANT
+[1390/2793] C3.ai... → NOT_RELEVANT
+[1391/2793] Diligent Robotics... → NOT_RELEVANT
+[1392/2793] Oden Technologies... → NEEDS_REVIEW
+[1393/2793] Cobalt Robotics... → NEEDS_REVIEW
+[1394/2793] Kwant.ai... → NEEDS_REVIEW
+[1395/2793] Knaq... → RELEVANT
+[1396/2793] Kepler... → RELEVANT
+[1397/2793] Tulip Interfaces... → NEEDS_REVIEW
+[1398/2793] AIMS... → NOT_RELEVANT
+[1399/2793] ARGAS - Arabian Geophysical & Surve... → NEEDS_REVIEW
+[1400/2793] BAZAN Group Oil Refineries Ltd... → NEEDS_REVIEW
+[1401/2793] Danem Group... → NEEDS_REVIEW
+[1402/2793] Expertise... → NOT_RELEVANT
+[1403/2793] KIPICOfficial... → NOT_RELEVANT
+[1404/2793] Motum Insurance Services... → NEEDS_REVIEW
+[1405/2793] Petrochemical Industries Co.... → NEEDS_REVIEW
+[1406/2793] Plant Tech Arabia Co. Ltd.... → NEEDS_REVIEW
+[1407/2793] RobtStone (ME) LLC... → NEEDS_REVIEW
+[1408/2793] Seeh Al Sarya Engineering LLC... → NEEDS_REVIEW
+[1409/2793] SERGAS Group... → NEEDS_REVIEW
+[1410/2793] APM Terminals... → NEEDS_REVIEW
+[1411/2793] Automobili Lamborghini S.p.A.... → NEEDS_REVIEW
+[1412/2793] Bentley Motors... → NEEDS_REVIEW
+[1413/2793] DONG Energy A/S... → NOT_RELEVANT
+[1414/2793] Ensco International Inc.... → NEEDS_REVIEW
+[1415/2793] Festo... → NOT_RELEVANT
+[1416/2793] Manz AG... → NOT_RELEVANT
+[1417/2793] ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂrst... → NOT_RELEVANT
+[1418/2793] Seadrill... → NOT_RELEVANT
+[1419/2793] Statoil... → NOT_RELEVANT
+[1420/2793] Tullow Oil... → NOT_RELEVANT
+[1421/2793] Virgin Atlantic... → NOT_RELEVANT
+[1422/2793] Mojio... → NEEDS_REVIEW
+[1423/2793] Hologram Inc.... → NEEDS_REVIEW
+[1424/2793] Hologram... → NEEDS_REVIEW
+[1425/2793] SwoopMe, Inc.... → RELEVANT
+[1426/2793] VergeSense... → NEEDS_REVIEW
+[1427/2793] Cordial... → NEEDS_REVIEW
+[1428/2793] Heex Technologies... → NEEDS_REVIEW
+[1429/2793] Nextera Robotics (MIT, Y-Combinator... → NEEDS_REVIEW
+[1430/2793] Alessa Industries... → NEEDS_REVIEW
+[1431/2793] ADAMAS MOTORS LLC... → NEEDS_REVIEW
+[1432/2793] ADASKY... → NEEDS_REVIEW
+[1433/2793] Airtouch Solar... → NEEDS_REVIEW
+[1434/2793] Al Ghurair Motors... → NEEDS_REVIEW
+[1435/2793] Alpha Omega... → NEEDS_REVIEW
+[1436/2793] AMEA Power... → NEEDS_REVIEW
+[1437/2793] ASSA ABLOY Group... → RELEVANT
+[1438/2793] Automotive Precision Technology (AP... → NEEDS_REVIEW
+[1439/2793] BATM... → NEEDS_REVIEW
+[1440/2793] Berg Engineering Co LLC... → RELEVANT
+[1441/2793] Bynet Testing Systems LTD... → NEEDS_REVIEW
+[1442/2793] Carrar... → NEEDS_REVIEW
+[1443/2793] City Solar... → NOT_RELEVANT
+[1444/2793] City Transformer... → NEEDS_REVIEW
+[1445/2793] Cognata Ltd... → NEEDS_REVIEW
+[1446/2793] CORDIO Medical Ltd.... → NOT_RELEVANT
+[1447/2793] Dolphin Oilfield Equipment Services... → NEEDS_REVIEW
+[1448/2793] DR Utilight Ltd... → RELEVANT
+[1449/2793] EfA Technologies... → NOT_RELEVANT
+[1450/2793] ElectReon... → NEEDS_REVIEW
+[1451/2793] Energix - Renewable Energies... → NEEDS_REVIEW
+[1452/2793] Enervibe... → NEEDS_REVIEW
+[1453/2793] ENOC Link... → NEEDS_REVIEW
+[1454/2793] EVIQ... → NEEDS_REVIEW
+[1455/2793] EVR Motors... → NEEDS_REVIEW
+[1456/2793] Eye-Net Mobile... → NEEDS_REVIEW
+[1457/2793] FormaTK Systems Ltd.... → NOT_RELEVANT
+[1458/2793] GSMS... → NEEDS_REVIEW
+[1459/2793] Hertz KSA... → NEEDS_REVIEW
+[1460/2793] Hydro Wind Energy... → NEEDS_REVIEW
+[1461/2793] Industrial Techno-Logic Solutions (... → NEEDS_REVIEW
+[1462/2793] Inomize... → RELEVANT
+[1463/2793] Inspira Technologies... → NEEDS_REVIEW
+[1464/2793] IRP Systems... → NEEDS_REVIEW
+[1465/2793] ISUZU MOTORS INTERNATIONAL FZE... → NEEDS_REVIEW
+[1466/2793] Kedma Solar - ???? ??????... → NEEDS_REVIEW
+[1467/2793] Laith Al Obaidi Group... → NEEDS_REVIEW
+[1468/2793] Lubinski Group... → NEEDS_REVIEW
+[1469/2793] Maico Gulf L.L.C... → NOT_RELEVANT
+[1470/2793] Maico Holding GMBH... → NOT_RELEVANT
+[1471/2793] Medimor... → NOT_RELEVANT
+[1472/2793] Mego Afek AC Ltd.... → NOT_RELEVANT
+[1473/2793] Micronet, Ltd.... → NEEDS_REVIEW
+[1474/2793] Nervio... → NOT_RELEVANT
+[1475/2793] NIART Systems... → NEEDS_REVIEW
+[1476/2793] Nisko Group LTD-Transformers Divisi... → RELEVANT
+[1477/2793] Noor Energy 1... → NEEDS_REVIEW
+[1478/2793] NuLumenTek... → NOT_RELEVANT
+[1479/2793] Pcb-Technologies... → NEEDS_REVIEW
+[1480/2793] Peec... → NEEDS_REVIEW
+[1481/2793] Pery Car Company... → NEEDS_REVIEW
+[1482/2793] Polytex Technologies... → NEEDS_REVIEW
+[1483/2793] Powertech Switchgear Industries... → NEEDS_REVIEW
+[1484/2793] Radiaction Ltd... → NOT_RELEVANT
+[1485/2793] Rail Vision Ltd... → NEEDS_REVIEW
+[1486/2793] RevitalVision... → NOT_RELEVANT
+[1487/2793] Roboteam Ltd.... → NEEDS_REVIEW
+[1488/2793] RP Optical Lab... → NEEDS_REVIEW
+[1489/2793] Scopio Labs... → NEEDS_REVIEW
+[1490/2793] SGTech - Sustainable Green Technolo... → RELEVANT
+[1491/2793] Shamal Az-Zour Al-Oula Power and Wa... → NEEDS_REVIEW
+[1492/2793] SHL Telemedicine... → RELEVANT
+[1493/2793] Sight Diagnostics... → NEEDS_REVIEW
+[1494/2793] Silentium... → NEEDS_REVIEW
+[1495/2793] SirajPower... → NEEDS_REVIEW
+[1496/2793] StoreDot... → NEEDS_REVIEW
+[1497/2793] Tamar Robotics Ltd.... → NEEDS_REVIEW
+[1498/2793] TavTech, Ltd... → NOT_RELEVANT
+[1499/2793] TechsoMed... → NEEDS_REVIEW
+[1500/2793] Tempdrop... → NEEDS_REVIEW
+[1501/2793] TESCO Engineering... → NEEDS_REVIEW
+[1502/2793] Thermodynamics... → NOT_RELEVANT
+[1503/2793] UC-Care... → NOT_RELEVANT
+[1504/2793] UnifabriX - Stealth Mode Startup... → RELEVANT
+[1505/2793] Upstream Security... → NEEDS_REVIEW
+[1506/2793] Valerann... → RELEVANT
+[1507/2793] Veriest... → RELEVANT
+[1508/2793] Virtual Ports Ltd.... → NEEDS_REVIEW
+[1509/2793] W Motors... → NEEDS_REVIEW
+[1510/2793] Weebit Nano Ltd... → NEEDS_REVIEW
+[1511/2793] Wevo Energy... → RELEVANT
+[1512/2793] Wize... → NEEDS_REVIEW
+[1513/2793] X-trodes... → RELEVANT
+[1514/2793] Zeron... → NEEDS_REVIEW
+[1515/2793] Free2move eSolutions(Stellantis)... → NEEDS_REVIEW
+[1516/2793] BreezeLabs... → NEEDS_REVIEW
+[1517/2793] Ceer... → NEEDS_REVIEW
+[1518/2793] Advanced Electronics Company... → NEEDS_REVIEW
+[1519/2793] International Turnkey Systems - ITS... → NEEDS_REVIEW
+[1520/2793] Lucidya... → RELEVANT
+[1521/2793] Saudi Arabian Military Industries (... → NEEDS_REVIEW
+[1522/2793] Aramco Digital... → NEEDS_REVIEW
+[1523/2793] Wilson Power Solutions... → NEEDS_REVIEW
+[1524/2793] Eland Cables... → NEEDS_REVIEW
+[1525/2793] Ansell Lighting... → NOT_RELEVANT
+[1526/2793] GivEnergy Europe B.V... → NEEDS_REVIEW
+[1527/2793] Apollo Fire Detectors... → NEEDS_REVIEW
+[1528/2793] NAPIT... → NEEDS_REVIEW
+[1529/2793] Thorlux Lighting... → NEEDS_REVIEW
+[1530/2793] TRT Lighting Limited... → RELEVANT
+[1531/2793] Crowcon Detection Instruments... → NEEDS_REVIEW
+[1532/2793] Raymarine... → NEEDS_REVIEW
+[1533/2793] DiGiCo... → NOT_RELEVANT
+[1534/2793] Texecom... → NEEDS_REVIEW
+[1535/2793] SGB-SMIT Group... → NOT_RELEVANT
+[1536/2793] INEOS Energy... → NOT_RELEVANT
+[1537/2793] Logan Energy Limited... → NOT_RELEVANT
+[1538/2793] Finetech... → NEEDS_REVIEW
+[1539/2793] IONETIC... → NOT_RELEVANT
+[1540/2793] Tokamak Energy... → NEEDS_REVIEW
+[1541/2793] LondonEnergy... → NEEDS_REVIEW
+[1542/2793] Codasip... → NEEDS_REVIEW
+[1543/2793] Loh Services GmbH & Co. KG... → NEEDS_REVIEW
+[1544/2793] DEHN... → NEEDS_REVIEW
+[1545/2793] Al Haddad Motors... → NEEDS_REVIEW
+[1546/2793] Enata... → NEEDS_REVIEW
+[1547/2793] German Experts Car Maintenance LLC... → NEEDS_REVIEW
+[1548/2793] HomeBiogas... → NOT_RELEVANT
+[1549/2793] Pimex Medical Equipments LLC... → NEEDS_REVIEW
+[1550/2793] Rockford Xellerix LLC... → NEEDS_REVIEW
+[1551/2793] SICK Sensor Intelligence... → NEEDS_REVIEW
+[1552/2793] Sysmex Middle East FZ - LLC... → NOT_RELEVANT
+[1553/2793] United Diesel... → NEEDS_REVIEW
+[1554/2793] Besomi Electronics Group... → NEEDS_REVIEW
+[1555/2793] Biobeat... → NOT_RELEVANT
+[1556/2793] Denaster General Trading LLC... → RELEVANT
+[1557/2793] desert technologies... → RELEVANT
+[1558/2793] Doral... → NEEDS_REVIEW
+[1559/2793] Ecoppia... → NOT_RELEVANT
+[1560/2793] Enlight Renewable Energy Ltd (ENLT)... → NEEDS_REVIEW
+[1561/2793] Fairtility... → NOT_RELEVANT
+[1562/2793] FERROFAB FZE... → NOT_RELEVANT
+[1563/2793] Gasable... → RELEVANT
+[1564/2793] Givelify... → NOT_RELEVANT
+[1565/2793] IceCure Medical... → NEEDS_REVIEW
+[1566/2793] Magenta Medical Ltd.... → NOT_RELEVANT
+[1567/2793] Medinol... → NEEDS_REVIEW
+[1568/2793] Memic Innovative Surgery... → NEEDS_REVIEW
+[1569/2793] Microbot Medical... → NOT_RELEVANT
+[1570/2793] Nofar Energy... → NOT_RELEVANT
+[1571/2793] Nofar Energy Israel... → NEEDS_REVIEW
+[1572/2793] Pi-Cardia... → NOT_RELEVANT
+[1573/2793] Rapid Medical... → NEEDS_REVIEW
+[1574/2793] Solargik... → NEEDS_REVIEW
+[1575/2793] Vargus... → NOT_RELEVANT
+[1576/2793] XACT Robotics... → NOT_RELEVANT
+[1577/2793] Kite Aero... → NEEDS_REVIEW
+[1578/2793] Emesent... → NEEDS_REVIEW
+[1579/2793] Electro Optic Systems... → NOT_RELEVANT
+[1580/2793] Engineering & Construction... → NEEDS_REVIEW
+[1581/2793] Biomedia Holdings Pte Ltd... → NOT_RELEVANT
+[1582/2793] Amaero International Ltd (ASX:3DA)... → NEEDS_REVIEW
+[1583/2793] ide+... → NEEDS_REVIEW
+[1584/2793] Anduril Australia and Asia Pacific... → NOT_RELEVANT
+[1585/2793] Dawn Aerospace... → NOT_RELEVANT
+[1586/2793] Aran R&D... → NOT_RELEVANT
+[1587/2793] BrightSource Energy... → NOT_RELEVANT
+[1588/2793] Maytronics... → NOT_RELEVANT
+[1589/2793] Nanox.Vision Consortium... → RELEVANT
+[1590/2793] Pioneers Technical Systems... → NEEDS_REVIEW
+[1591/2793] Pulsenmore Ltd... → NEEDS_REVIEW
+[1592/2793] Sentor Electrical... → NEEDS_REVIEW
+[1593/2793] SupPlant... → NEEDS_REVIEW
+[1594/2793] TECO Middle East... → NEEDS_REVIEW
+[1595/2793] Valens... → NEEDS_REVIEW
+[1596/2793] Advamed Group... → NEEDS_REVIEW
+[1597/2793] Al Dana Switchgear... → NEEDS_REVIEW
+[1598/2793] Al-Kadi Commerce & Industry... → NEEDS_REVIEW
+[1599/2793] Al-Umnia Medical LLC... → NEEDS_REVIEW
+[1600/2793] ARMADA COMPANY LTD.... → NEEDS_REVIEW
+[1601/2793] Arrelic Global... → NEEDS_REVIEW
+[1602/2793] Bahwan International Group... → NEEDS_REVIEW
+[1603/2793] Bahwan International Group (Autoren... → NEEDS_REVIEW
+[1604/2793] BGL Energy (formerly: Belectric Gul... → NEEDS_REVIEW
+[1605/2793] Blue Ocean Global... → RELEVANT
+[1606/2793] Carly | ?????... → NEEDS_REVIEW
+[1607/2793] CGS Group... → NEEDS_REVIEW
+[1608/2793] CLIKON... → NEEDS_REVIEW
+[1609/2793] CRTS Global... → NEEDS_REVIEW
+[1610/2793] DNJ Energy LLC... → NEEDS_REVIEW
+[1611/2793] Emerging Global Technologies... → NEEDS_REVIEW
+[1612/2793] Erith Group... → NEEDS_REVIEW
+[1613/2793] Ezz-Elarab Automotive Group... → NEEDS_REVIEW
+[1614/2793] GAMA Engineering... → NEEDS_REVIEW
+[1615/2793] Genetco Oman... → NEEDS_REVIEW
+[1616/2793] HAPCO... → NEEDS_REVIEW
+[1617/2793] Hardco Group... → NEEDS_REVIEW
+[1618/2793] Hydrotek Engineering Company... → NEEDS_REVIEW
+[1619/2793] INNtegra... → RELEVANT
+[1620/2793] IQ Robotics... → NEEDS_REVIEW
+[1621/2793] JAT Medical Services... → NEEDS_REVIEW
+[1622/2793] Jiad Modern Motors... → NEEDS_REVIEW
+[1623/2793] Khusheim Industrial Equipment... → NEEDS_REVIEW
+[1624/2793] Lonestar Alpha Laboratory... → RELEVANT
+[1625/2793] memco... → NEEDS_REVIEW
+[1626/2793] NAZ Industries... → NEEDS_REVIEW
+[1627/2793] NSV Automotive... → NEEDS_REVIEW
+[1628/2793] OSE Industries LLC... → NEEDS_REVIEW
+[1629/2793] OxyMed... → NEEDS_REVIEW
+[1630/2793] SABER... → RELEVANT
+[1631/2793] Safeer... → RELEVANT
+[1632/2793] Saudi Fal Controls Division... → NEEDS_REVIEW
+[1633/2793] Super General Company... → NEEDS_REVIEW
+[1634/2793] Suzuki I Najeeb Auto... → NEEDS_REVIEW
+[1635/2793] Swagelok North Carolina... → NEEDS_REVIEW
+[1636/2793] Taajeer Group... → NEEDS_REVIEW
+[1637/2793] Techno Orbits Co.... → NEEDS_REVIEW
+[1638/2793] VESRA... → NEEDS_REVIEW
+[1639/2793] Western Auto... → NEEDS_REVIEW
+[1640/2793] Namthaja... → NEEDS_REVIEW
+[1641/2793] LeoLabs, Inc.... → NEEDS_REVIEW
+[1642/2793] Opener... → NEEDS_REVIEW
+[1643/2793] Cuberg... → NEEDS_REVIEW
+[1644/2793] Acubed... → RELEVANT
+[1645/2793] Advent Technologies Inc.... → NEEDS_REVIEW
+[1646/2793] Leotek Electronics Corporation... → NEEDS_REVIEW
+[1647/2793] Hyperfine... → NEEDS_REVIEW
+[1648/2793] MOMENTUS... → RELEVANT
+[1649/2793] Posha (formerly Nymble)... → RELEVANT
+[1650/2793] Connection Technology Center... → NEEDS_REVIEW
+[1651/2793] Elroy Air... → NEEDS_REVIEW
+[1652/2793] Finelite... → NEEDS_REVIEW
+[1653/2793] Modulight, Inc.... → NEEDS_REVIEW
+[1654/2793] CTG (Crestwood Technology Group)... → NEEDS_REVIEW
+[1655/2793] AVPro Global Holdings... → RELEVANT
+[1656/2793] Blustream... → NEEDS_REVIEW
+[1657/2793] Boss Audio Systems... → RELEVANT
+[1658/2793] BRELYON... → RELEVANT
+[1659/2793] Cemtrex Inc.... → RELEVANT
+[1660/2793] Corintis... → RELEVANT
+[1661/2793] DAIICHI Electronic... → RELEVANT
+[1662/2793] EarableÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[1663/2793] eero... → RELEVANT
+[1664/2793] Flume, Inc.... → RELEVANT
+[1665/2793] Gibson Innovations (formerly WOOX I... → RELEVANT
+[1666/2793] Gigantic Software, LLC... → RELEVANT
+[1667/2793] GP Batteries... → NEEDS_REVIEW
+[1668/2793] JLab Audio... → NOT_RELEVANT
+[1669/2793] Lexar... → RELEVANT
+[1670/2793] Longsys... → RELEVANT
+[1671/2793] Mizco International... → RELEVANT
+[1672/2793] Monster Inc.... → RELEVANT
+[1673/2793] Mood Service... → NOT_RELEVANT
+[1674/2793] Netatmo... → NEEDS_REVIEW
+[1675/2793] Premium Audio Company... → NOT_RELEVANT
+[1676/2793] Puffco... → NEEDS_REVIEW
+[1677/2793] Rover Robotics... → NEEDS_REVIEW
+[1678/2793] RTI... → RELEVANT
+[1679/2793] Schneider Electric... → NEEDS_REVIEW
+[1680/2793] Snap One... → NEEDS_REVIEW
+[1681/2793] SnapOne... → RELEVANT
+[1682/2793] Sonance... → NOT_RELEVANT
+[1683/2793] SureFire... → NEEDS_REVIEW
+[1684/2793] Trezor... → NEEDS_REVIEW
+[1685/2793] Vaonis... → RELEVANT
+[1686/2793] Yoto... → NOT_RELEVANT
+[1687/2793] Whitespectre... → RELEVANT
+[1688/2793] SmartRPA... → RELEVANT
+[1689/2793] MGT Commerce GmbH... → NEEDS_REVIEW
+[1690/2793] SettleMint... → NEEDS_REVIEW
+[1691/2793] Wello Solutions... → NEEDS_REVIEW
+[1692/2793] ILI.DIGITAL AG... → RELEVANT
+[1693/2793] Leadfeeder... → NEEDS_REVIEW
+[1694/2793] HyperSense Software... → RELEVANT
+[1695/2793] OnTruck... → NEEDS_REVIEW
+[1696/2793] Trentia Consulting... → RELEVANT
+[1697/2793] Acaia... → NOT_RELEVANT
+[1698/2793] Adesso... → NEEDS_REVIEW
+[1699/2793] AIAIAI... → NOT_RELEVANT
+[1700/2793] Audio Video Systems... → NEEDS_REVIEW
+[1701/2793] Audio Video Systems Inc.... → NEEDS_REVIEW
+[1702/2793] Brava Home Inc.... → NOT_RELEVANT
+[1703/2793] Brilliant Labs... → NEEDS_REVIEW
+[1704/2793] Capsulab Ltd... → RELEVANT
+[1705/2793] CREAL... → NEEDS_REVIEW
+[1706/2793] Dirac... → NEEDS_REVIEW
+[1707/2793] Drotek... → NEEDS_REVIEW
+[1708/2793] ELECTRA CONSUMER PRODUCTS 19... → RELEVANT
+[1709/2793] FORM... → NEEDS_REVIEW
+[1710/2793] Grenton... → NEEDS_REVIEW
+[1711/2793] Haas Home Technologies... → RELEVANT
+[1712/2793] Hive... → NEEDS_REVIEW
+[1713/2793] Hotayi Electronic (M) Sdn. Bhd.... → RELEVANT
+[1714/2793] IGB... → RELEVANT
+[1715/2793] Largo... → RELEVANT
+[1716/2793] LOGICOM... → RELEVANT
+[1717/2793] MiTek... → NOT_RELEVANT
+[1718/2793] MiTek Electronics & Communications ... → RELEVANT
+[1719/2793] Nielsen-Kellerman... → NOT_RELEVANT
+[1720/2793] Nix Sensor... → NEEDS_REVIEW
+[1721/2793] Nomono... → NEEDS_REVIEW
+[1722/2793] Nuvyyo Inc.... → NEEDS_REVIEW
+[1723/2793] Ocutrx Technologies, Inc.... → RELEVANT
+[1724/2793] Parklio... → NEEDS_REVIEW
+[1725/2793] Pebblebee... → RELEVANT
+[1726/2793] Petcube... → NEEDS_REVIEW
+[1727/2793] Pixieray... → NEEDS_REVIEW
+[1728/2793] PURO... → RELEVANT
+[1729/2793] Roost... → NEEDS_REVIEW
+[1730/2793] Sabrent... → NEEDS_REVIEW
+[1731/2793] Sivers Semiconductors... → NEEDS_REVIEW
+[1732/2793] SmarDTV... → NEEDS_REVIEW
+[1733/2793] SMS Infocomm... → RELEVANT
+[1734/2793] SUBPAC... → NEEDS_REVIEW
+[1735/2793] Sudio AB... → NOT_RELEVANT
+[1736/2793] Toadi... → NEEDS_REVIEW
+[1737/2793] Visionect... → NOT_RELEVANT
+[1738/2793] VQ... → NEEDS_REVIEW
+[1739/2793] WiNK... → NEEDS_REVIEW
+[1740/2793] Alexander Wang LLC... → NOT_RELEVANT
+[1741/2793] BioWare... → NOT_RELEVANT
+[1742/2793] Calico Life Sciences... → NEEDS_REVIEW
+[1743/2793] Cequens... → NOT_RELEVANT
+[1744/2793] ICP ENTERTAINMENT... → NEEDS_REVIEW
+[1745/2793] Kickstarter Club, Inc.... → NOT_RELEVANT
+[1746/2793] Kiva... → NEEDS_REVIEW
+[1747/2793] Knight Frank MENA... → NOT_RELEVANT
+[1748/2793] Matec Engenharia... → NOT_RELEVANT
+[1749/2793] Novomed... → NOT_RELEVANT
+[1750/2793] Prezi... → NEEDS_REVIEW
+[1751/2793] Saudi Exchange... → RELEVANT
+[1752/2793] Scientific American... → NEEDS_REVIEW
+[1753/2793] SkyTeam... → NOT_RELEVANT
+[1754/2793] the ENTERTAINER... → NOT_RELEVANT
+[1755/2793] Trust Wallet... → NEEDS_REVIEW
+[1756/2793] TÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂV ... → NEEDS_REVIEW
+[1757/2793] Civic Roundtable... → RELEVANT
+[1758/2793] Constella... → RELEVANT
+[1759/2793] Enigma Technologies, Inc.... → RELEVANT
+[1760/2793] ShelfCycle... → NEEDS_REVIEW
+[1761/2793] Impacter AI... → NEEDS_REVIEW
+[1762/2793] Kovo... → RELEVANT
+[1763/2793] Matrices... → RELEVANT
+[1764/2793] Steadily... → NOT_RELEVANT
+[1765/2793] Tecton... → NEEDS_REVIEW
+[1766/2793] Teleskope... → NOT_RELEVANT
+[1767/2793] Alpago Group... → NEEDS_REVIEW
+[1768/2793] Alpago Group of Companies... → RELEVANT
+[1769/2793] Argaam Investments... → NEEDS_REVIEW
+[1770/2793] Avanza Innovations... → NEEDS_REVIEW
+[1771/2793] Bayut.com... → RELEVANT
+[1772/2793] Dubizzle Group... → NEEDS_REVIEW
+[1773/2793] ENGIE... → NOT_RELEVANT
+[1774/2793] JOIN Solutions... → NEEDS_REVIEW
+[1775/2793] Nexa... → NEEDS_REVIEW
+[1776/2793] Novo Cinemas... → RELEVANT
+[1777/2793] Ounass... → NOT_RELEVANT
+[1778/2793] RSA Global... → NEEDS_REVIEW
+[1779/2793] Shipa... → NEEDS_REVIEW
+[1780/2793] SOCIALEYEZ... → NEEDS_REVIEW
+[1781/2793] YOUGotaGift... → NOT_RELEVANT
+[1782/2793] TARSHID... → NEEDS_REVIEW
+[1783/2793] Bitwarden... → NOT_RELEVANT
+[1784/2793] CoinTracker... → NEEDS_REVIEW
+[1785/2793] Fingerprint... → RELEVANT
+[1786/2793] Friday Harbor... → NEEDS_REVIEW
+[1787/2793] Kunai... → RELEVANT
+[1788/2793] Lilypad Learning... → NEEDS_REVIEW
+[1789/2793] RunPod... → RELEVANT
+[1790/2793] Alaan... → NOT_RELEVANT
+[1791/2793] apicorp... → NEEDS_REVIEW
+[1792/2793] DataVolt... → RELEVANT
+[1793/2793] Freedx... → RELEVANT
+[1794/2793] Pluto... → NOT_RELEVANT
+[1795/2793] Pluto LLC... → NEEDS_REVIEW
+[1796/2793] Qureos... → NEEDS_REVIEW
+[1797/2793] Silkhaus... → NOT_RELEVANT
+[1798/2793] Tarabut... → NEEDS_REVIEW
+[1799/2793] The Arab Energy Fund... → NOT_RELEVANT
+[1800/2793] Tiqmo... → NEEDS_REVIEW
+[1801/2793] TPConnects... → RELEVANT
+[1802/2793] Wafeq... → NOT_RELEVANT
+[1803/2793] Yalla Plus... → RELEVANT
+[1804/2793] Automated Trading... → NOT_RELEVANT
+[1805/2793] Filed (formerly Numiro)... → RELEVANT
+[1806/2793] GENIE AI... → RELEVANT
+[1807/2793] In Flight Catering Software TCI LTD... → NEEDS_REVIEW
+[1808/2793] Nonceblox Private Limited... → RELEVANT
+[1809/2793] Oumla... → RELEVANT
+[1810/2793] Qurios... → RELEVANT
+[1811/2793] Sharpe Labs... → NEEDS_REVIEW
+[1812/2793] Spiritual Data... → NEEDS_REVIEW
+[1813/2793] Symmetric Health Solutions... → NEEDS_REVIEW
+[1814/2793] Talus Network... → RELEVANT
+[1815/2793] Velvet.Capital... → NOT_RELEVANT
+[1816/2793] alist.ae... → NEEDS_REVIEW
+[1817/2793] AstroLabs... → RELEVANT
+[1818/2793] Daftra... → NOT_RELEVANT
+[1819/2793] FinZey Finance... → NOT_RELEVANT
+[1820/2793] Holo... → NOT_RELEVANT
+[1821/2793] intella... → NEEDS_REVIEW
+[1822/2793] Lean Technologies... → RELEVANT
+[1823/2793] Lendo... → RELEVANT
+[1824/2793] Maqsam... → RELEVANT
+[1825/2793] mazeed... → RELEVANT
+[1826/2793] MNA Properties... → NOT_RELEVANT
+[1827/2793] PAPEL Holding... → NOT_RELEVANT
+[1828/2793] Sarwa... → NOT_RELEVANT
+[1829/2793] SQUATWOLF... → NEEDS_REVIEW
+[1830/2793] Supy... → NEEDS_REVIEW
+[1831/2793] Tamra Capital... → NEEDS_REVIEW
+[1832/2793] Velents... → RELEVANT
+[1833/2793] CodeSignal... → RELEVANT
+[1834/2793] Cranium... → NEEDS_REVIEW
+[1835/2793] Bentley Systems... → NOT_RELEVANT
+[1836/2793] 360 Technology Ltd... → NOT_RELEVANT
+[1837/2793] 360 Technology... → RELEVANT
+[1838/2793] Clumio... → NEEDS_REVIEW
+[1839/2793] PureCode AI... → NEEDS_REVIEW
+[1840/2793] ProductPlan... → RELEVANT
+[1841/2793] Two Sigma Ventures... → RELEVANT
+[1842/2793] Welcome, an Optimizely Company... → RELEVANT
+[1843/2793] Kahunas.io... → NEEDS_REVIEW
+[1844/2793] Axon Technologies (Cyber Security)... → NEEDS_REVIEW
+[1845/2793] Neom Tech... → RELEVANT
+[1846/2793] Element8... → NEEDS_REVIEW
+[1847/2793] Adrem Technologies... → NEEDS_REVIEW
+[1848/2793] TELEIOS GLOBAL FZ LLC... → NOT_RELEVANT
+[1849/2793] The Prime Technology Systems... → NEEDS_REVIEW
+[1850/2793] finbots.AI... → NEEDS_REVIEW
+[1851/2793] TECHLOR LLC... → NEEDS_REVIEW
+[1852/2793] NEOM Tech and Digital... → NEEDS_REVIEW
+[1853/2793] Safee Fleet Management... → NEEDS_REVIEW
+[1854/2793] Seed Group... → RELEVANT
+[1855/2793] Ascend Elements... → NEEDS_REVIEW
+[1856/2793] Canaan Inc.... → RELEVANT
+[1857/2793] Doosan GridTech... → NOT_RELEVANT
+[1858/2793] Heliene Inc... → NOT_RELEVANT
+[1859/2793] microTECH Global Ltd... → NEEDS_REVIEW
+[1860/2793] Nippon Energy... → NEEDS_REVIEW
+[1861/2793] NOVONIX... → NOT_RELEVANT
+[1862/2793] Smappee... → NEEDS_REVIEW
+[1863/2793] SWTCH... → NEEDS_REVIEW
+[1864/2793] APOLOP2P... → NEEDS_REVIEW
+[1865/2793] BABB... → RELEVANT
+[1866/2793] BetterPic... → NEEDS_REVIEW
+[1867/2793] CrackenAGI... → NEEDS_REVIEW
+[1868/2793] DERA... → NEEDS_REVIEW
+[1869/2793] Satcom Direct... → NEEDS_REVIEW
+[1870/2793] Smarter Contact... → RELEVANT
+[1871/2793] VendueTech... → RELEVANT
+[1872/2793] vidIQ... → NEEDS_REVIEW
+[1873/2793] SellerApp... → RELEVANT
+[1874/2793] Alex Solutions... → RELEVANT
+[1875/2793] IREN... → RELEVANT
+[1876/2793] Parcel Perform... → NOT_RELEVANT
+[1877/2793] OpenSolar... → NEEDS_REVIEW
+[1878/2793] Giift... → NEEDS_REVIEW
+[1879/2793] ViSenze... → RELEVANT
+[1880/2793] AMP... → RELEVANT
+[1881/2793] Sky Mavis... → RELEVANT
+[1882/2793] Xref... → NOT_RELEVANT
+[1883/2793] Hubble.Build... → NEEDS_REVIEW
+[1884/2793] Dovetail... → NEEDS_REVIEW
+[1885/2793] AI Rudder... → RELEVANT
+[1886/2793] Jawaker phone & more... → NEEDS_REVIEW
+[1887/2793] AIQ... → RELEVANT
+[1888/2793] QOAD... → NEEDS_REVIEW
+[1889/2793] WideBot... → RELEVANT
+[1890/2793] 5ireChain... → RELEVANT
+[1891/2793] Jawaker... → NOT_RELEVANT
+[1892/2793] Inova... → RELEVANT
+[1893/2793] Codewyse... → NEEDS_REVIEW
+[1894/2793] CNTXT AI... → RELEVANT
+[1895/2793] ZIWO Cloud Contact Center Software... → NEEDS_REVIEW
+[1896/2793] Adaptive HVM... → NEEDS_REVIEW
+[1897/2793] ams OSRAM... → NEEDS_REVIEW
+[1898/2793] DeepX Digital... → NEEDS_REVIEW
+[1899/2793] e-STORAGE... → RELEVANT
+[1900/2793] Flash Battery... → NEEDS_REVIEW
+[1901/2793] Grupel S.A.... → NEEDS_REVIEW
+[1902/2793] Harmony Energy... → NOT_RELEVANT
+[1903/2793] HID Global... → NEEDS_REVIEW
+[1904/2793] INERATEC... → RELEVANT
+[1905/2793] INIKTI... → RELEVANT
+[1906/2793] POWER GREEN LIMITED... → RELEVANT
+[1907/2793] Quantica Renovables... → NOT_RELEVANT
+[1908/2793] Ritchie-Bland Energy Limited... → NEEDS_REVIEW
+[1909/2793] SiPearl... → NEEDS_REVIEW
+[1910/2793] SPECS Zurich GmbH... → NOT_RELEVANT
+[1911/2793] Tesvolt Ocean GmbH... → NEEDS_REVIEW
+[1912/2793] Viasat Inc.... → NOT_RELEVANT
+[1913/2793] 10a Labs... → NEEDS_REVIEW
+[1914/2793] Deepgram... → NOT_RELEVANT
+[1915/2793] Freed... → RELEVANT
+[1916/2793] Sully.ai... → NEEDS_REVIEW
+[1917/2793] OneSignal... → NOT_RELEVANT
+[1918/2793] Superblocks... → RELEVANT
+[1919/2793] Twingate... → NEEDS_REVIEW
+[1920/2793] BOLD... → NEEDS_REVIEW
+[1921/2793] Bold Valuable Technology Limited... → NEEDS_REVIEW
+[1922/2793] CPE Tecnologia... → NEEDS_REVIEW
+[1923/2793] Econergy Systems Ltd.... → RELEVANT
+[1924/2793] JET Charge... → NEEDS_REVIEW
+[1925/2793] MetOx Technologies, Inc.... → RELEVANT
+[1926/2793] Morse Micro... → NEEDS_REVIEW
+[1927/2793] neoom... → NOT_RELEVANT
+[1928/2793] NETINT Technologies Inc.... → NEEDS_REVIEW
+[1929/2793] Paralos Energy... → NOT_RELEVANT
+[1930/2793] Pico Technology... → NEEDS_REVIEW
+[1931/2793] Pulsenics Inc... → NOT_RELEVANT
+[1932/2793] Quanta Energy S.A.... → NOT_RELEVANT
+[1933/2793] Quercus Technologies... → NEEDS_REVIEW
+[1934/2793] RTDS Technologies Inc.... → NEEDS_REVIEW
+[1935/2793] Tiamat Energy... → NEEDS_REVIEW
+[1936/2793] WeWALK... → NEEDS_REVIEW
+[1937/2793] AirGarage... → NEEDS_REVIEW
+[1938/2793] Blend... → NOT_RELEVANT
+[1939/2793] Guideline... → NOT_RELEVANT
+[1940/2793] Karbon... → NOT_RELEVANT
+[1941/2793] Linkby... → NEEDS_REVIEW
+[1942/2793] RoZetta Technology... → RELEVANT
+[1943/2793] Voxela, Inc.... → NEEDS_REVIEW
+[1944/2793] Heap... → NEEDS_REVIEW
+[1945/2793] Mi-Case... → NEEDS_REVIEW
+[1946/2793] Pocket Gems... → NOT_RELEVANT
+[1947/2793] Rapid Innovation... → RELEVANT
+[1948/2793] Chainstack... → NOT_RELEVANT
+[1949/2793] Ai Palette... → RELEVANT
+[1950/2793] Nexl... → RELEVANT
+[1951/2793] Q-CTRL... → NEEDS_REVIEW
+[1952/2793] Akila... → NEEDS_REVIEW
+[1953/2793] Apartly... → RELEVANT
+[1954/2793] Bellabeat... → NEEDS_REVIEW
+[1955/2793] Conntour (YC W25)... → NEEDS_REVIEW
+[1956/2793] Curo... → NEEDS_REVIEW
+[1957/2793] CyberOptics... → NEEDS_REVIEW
+[1958/2793] David AI... → RELEVANT
+[1959/2793] Delineate... → RELEVANT
+[1960/2793] Dragon Ventures... → NEEDS_REVIEW
+[1961/2793] dScribe AI (YC S25)... → NEEDS_REVIEW
+[1962/2793] Embark Technology... → RELEVANT
+[1963/2793] F4 Industries (YC S25)... → NEEDS_REVIEW
+[1964/2793] Humoniq... → NOT_RELEVANT
+[1965/2793] Inversion Semiconductor (YC W25)... → NEEDS_REVIEW
+[1966/2793] Juxta... → NEEDS_REVIEW
+[1967/2793] Kernel... → NEEDS_REVIEW
+[1968/2793] Luminal (YC S25)... → RELEVANT
+[1969/2793] Mason... → NEEDS_REVIEW
+[1970/2793] Moxion Power Co.... → NEEDS_REVIEW
+[1971/2793] Proception.AI... → NEEDS_REVIEW
+[1972/2793] Reditus Space... → RELEVANT
+[1973/2793] Rigetti Quantum Computing... → NEEDS_REVIEW
+[1974/2793] SigmanticAI... → RELEVANT
+[1975/2793] Toothy AI (YC W25)... → NOT_RELEVANT
+[1976/2793] Uplift AI... → RELEVANT
+[1977/2793] Vetnio... → RELEVANT
+[1978/2793] Pelico... → RELEVANT
+[1979/2793] Leapsome... → NEEDS_REVIEW
+[1980/2793] Vortexa... → NEEDS_REVIEW
+[1981/2793] Bluefin Payment Systems... → NEEDS_REVIEW
+[1982/2793] KYC Hub... → NEEDS_REVIEW
+[1983/2793] Innoveo... → NOT_RELEVANT
+[1984/2793] Toggl... → NEEDS_REVIEW
+[1985/2793] Axelor... → RELEVANT
+[1986/2793] Lumion... → NOT_RELEVANT
+[1987/2793] POSSUMUS... → NEEDS_REVIEW
+[1988/2793] Tenderly... → NOT_RELEVANT
+[1989/2793] CloudCall... → NOT_RELEVANT
+[1990/2793] Ocean.io... → RELEVANT
+[1991/2793] Wingtra... → NEEDS_REVIEW
+[1992/2793] Cake... → NEEDS_REVIEW
+[1993/2793] Genesis Motor Europe GmbH... → NEEDS_REVIEW
+[1994/2793] Pipistrel Aircraft... → NOT_RELEVANT
+[1995/2793] Heart Aerospace... → NEEDS_REVIEW
+[1996/2793] AgEagle Aerial Systems Inc.... → NEEDS_REVIEW
+[1997/2793] European Automobile Manufacturers'?... → NEEDS_REVIEW
+[1998/2793] Aeropeople Ltd... → NOT_RELEVANT
+[1999/2793] Volta Trucks... → NEEDS_REVIEW
+[2000/2793] RAVIN.AI... → NEEDS_REVIEW
+[2001/2793] Morgan Motor Company... → NOT_RELEVANT
+[2002/2793] Porsche Italia S.p.A.... → NEEDS_REVIEW
+[2003/2793] Spotawheel... → NEEDS_REVIEW
+[2004/2793] Ark Energy Corporation... → NEEDS_REVIEW
+[2005/2793] Astranis... → NEEDS_REVIEW
+[2006/2793] AuCom Electronics Ltd... → NEEDS_REVIEW
+[2007/2793] Blickfeld GmbH... → NEEDS_REVIEW
+[2008/2793] Blue Elephant Energy AG... → NOT_RELEVANT
+[2009/2793] Cambridge GaN Devices Ltd... → RELEVANT
+[2010/2793] FENECON GmbH... → RELEVANT
+[2011/2793] Fictiv... → NEEDS_REVIEW
+[2012/2793] Flux Computing... → NOT_RELEVANT
+[2013/2793] FRIEM S.p.A.... → NEEDS_REVIEW
+[2014/2793] Garmin DACH... → RELEVANT
+[2015/2793] Helion Energy... → NEEDS_REVIEW
+[2016/2793] Hypervolt - Smart #EV Chargers... → NOT_RELEVANT
+[2017/2793] iMinTech... → NEEDS_REVIEW
+[2018/2793] Navenio Ltd... → NEEDS_REVIEW
+[2019/2793] trinamiX GmbH... → NEEDS_REVIEW
+[2020/2793] Alba Orbital... → NEEDS_REVIEW
+[2021/2793] AVIRE... → NEEDS_REVIEW
+[2022/2793] CircuitHub (Google Ventures, Y Comb... → NEEDS_REVIEW
+[2023/2793] Focal Systems... → NEEDS_REVIEW
+[2024/2793] GIGA Storage... → NOT_RELEVANT
+[2025/2793] HyLight... → NEEDS_REVIEW
+[2026/2793] Innatera Nanosystems... → NEEDS_REVIEW
+[2027/2793] Karma Automotive... → NEEDS_REVIEW
+[2028/2793] Luminate... → NEEDS_REVIEW
+[2029/2793] MAIHEM (YC W24)... → NEEDS_REVIEW
+[2030/2793] MDT technologies GmbH... → NEEDS_REVIEW
+[2031/2793] Presto Engineering... → NEEDS_REVIEW
+[2032/2793] Propytex... → NEEDS_REVIEW
+[2033/2793] Raytec... → NEEDS_REVIEW
+[2034/2793] Reshape Biotech... → NEEDS_REVIEW
+[2035/2793] Rodan Energy Solutions Inc.... → NEEDS_REVIEW
+[2036/2793] Senic GmbH... → NEEDS_REVIEW
+[2037/2793] Solenergy Systems Inc.... → RELEVANT
+[2038/2793] Sumo Logic... → NEEDS_REVIEW
+[2039/2793] X-ZELL... → NOT_RELEVANT
+[2040/2793] ynvisible... → NEEDS_REVIEW
+[2041/2793] SENSO... → RELEVANT
+[2042/2793] Philex Electronic Ltd... → RELEVANT
+[2043/2793] Hannspree Inc... → NEEDS_REVIEW
+[2044/2793] ALVA... → NEEDS_REVIEW
+[2045/2793] Autel Energy - North America... → NEEDS_REVIEW
+[2046/2793] Bird... → RELEVANT
+[2047/2793] Blink Charging... → NOT_RELEVANT
+[2048/2793] Bollinger Motors... → NEEDS_REVIEW
+[2049/2793] Danlaw, Inc.... → NEEDS_REVIEW
+[2050/2793] Fisker Inc... → NEEDS_REVIEW
+[2051/2793] GreenPower Motor Company Inc.... → NEEDS_REVIEW
+[2052/2793] GreenWay Infrastructure... → NOT_RELEVANT
+[2053/2793] Harbinger... → NEEDS_REVIEW
+[2054/2793] Hewland... → NEEDS_REVIEW
+[2055/2793] Lordstown Motors Corporation... → NEEDS_REVIEW
+[2056/2793] Motiv Power Systems... → NEEDS_REVIEW
+[2057/2793] Mullen Automotive... → NEEDS_REVIEW
+[2058/2793] Phoenix Motorcars... → NEEDS_REVIEW
+[2059/2793] REE... → NEEDS_REVIEW
+[2060/2793] RML Group... → NEEDS_REVIEW
+[2061/2793] SemaConnect... → NEEDS_REVIEW
+[2062/2793] Shift EV... → NEEDS_REVIEW
+[2063/2793] BeyonCa... → NEEDS_REVIEW
+[2064/2793] EVME PLUS Co., Ltd.... → NEEDS_REVIEW
+[2065/2793] Gator Motorsports... → NEEDS_REVIEW
+[2066/2793] Green Scooter... → NEEDS_REVIEW
+[2067/2793] MobileDrive Netherlands B.V.... → NEEDS_REVIEW
+[2068/2793] STAR EV CORPORATION... → NOT_RELEVANT
+[2069/2793] The Shyft Group... → NEEDS_REVIEW
+[2070/2793] VKTR... → NEEDS_REVIEW
+[2071/2793] Webasto EV Solutions US... → NEEDS_REVIEW
+[2072/2793] WiTricity... → NEEDS_REVIEW
+[2073/2793] Workhorse Group Inc.... → NEEDS_REVIEW
+[2074/2793] Wrightspeed... → NEEDS_REVIEW
+[2075/2793] YASA... → NOT_RELEVANT
+[2076/2793] Airstream... → NOT_RELEVANT
+[2077/2793] Alliance Recreational Vehicles... → NEEDS_REVIEW
+[2078/2793] Also.... → NEEDS_REVIEW
+[2079/2793] Arcimoto... → NEEDS_REVIEW
+[2080/2793] Beep, Inc.... → NEEDS_REVIEW
+[2081/2793] Brinkley RV... → NOT_RELEVANT
+[2082/2793] Camaco... → NEEDS_REVIEW
+[2083/2793] ClearMotion... → NEEDS_REVIEW
+[2084/2793] COBB Tuning... → NEEDS_REVIEW
+[2085/2793] DECKED... → NEEDS_REVIEW
+[2086/2793] Diesel Laptops... → NEEDS_REVIEW
+[2087/2793] ECS Tuning... → NEEDS_REVIEW
+[2088/2793] Edelbrock Corporation... → NOT_RELEVANT
+[2089/2793] Edelbrock Group... → NEEDS_REVIEW
+[2090/2793] Eibach, Inc.... → NEEDS_REVIEW
+[2091/2793] EVCS... → NOT_RELEVANT
+[2092/2793] FronTone... → RELEVANT
+[2093/2793] Gill-Industries... → NEEDS_REVIEW
+[2094/2793] Hayes Performance Systems... → NEEDS_REVIEW
+[2095/2793] Humanetics... → NEEDS_REVIEW
+[2096/2793] Indigo Technologies... → NEEDS_REVIEW
+[2097/2793] Intrepid Control Systems... → NEEDS_REVIEW
+[2098/2793] Lightship... → RELEVANT
+[2099/2793] Mishimoto... → NEEDS_REVIEW
+[2100/2793] Piston Group... → NEEDS_REVIEW
+[2101/2793] Reading Truck Group... → NEEDS_REVIEW
+[2102/2793] RIGID Industries... → NEEDS_REVIEW
+[2103/2793] Saleen... → NEEDS_REVIEW
+[2104/2793] TRAM, Inc.... → NEEDS_REVIEW
+[2105/2793] A&D Technology... → NEEDS_REVIEW
+[2106/2793] Adrian Steel... → NEEDS_REVIEW
+[2107/2793] America's Group... → NEEDS_REVIEW
+[2108/2793] AppSecAI... → NEEDS_REVIEW
+[2109/2793] ATC Drivetrain... → NEEDS_REVIEW
+[2110/2793] Cenntro Electric Group Ltd. (CENN)... → NEEDS_REVIEW
+[2111/2793] Dee Zee, Inc... → NEEDS_REVIEW
+[2112/2793] ETE REMAN... → NEEDS_REVIEW
+[2113/2793] Experi-Metal Inc.... → NEEDS_REVIEW
+[2114/2793] Gemini Group, Inc.... → NEEDS_REVIEW
+[2115/2793] HP Tuners LLC... → NEEDS_REVIEW
+[2116/2793] Icahn Automotive Group LLC... → NEEDS_REVIEW
+[2117/2793] Kinetic Automation... → NEEDS_REVIEW
+[2118/2793] Maaco Corporation... → NEEDS_REVIEW
+[2119/2793] Martin Automotive Group... → NEEDS_REVIEW
+[2120/2793] McGard... → NEEDS_REVIEW
+[2121/2793] Midway Products Group... → NEEDS_REVIEW
+[2122/2793] MSSC... → NEEDS_REVIEW
+[2123/2793] Newmar... → NEEDS_REVIEW
+[2124/2793] Piston Automotive... → NEEDS_REVIEW
+[2125/2793] Quadratec... → NEEDS_REVIEW
+[2126/2793] RANDYS Worldwide... → NEEDS_REVIEW
+[2127/2793] Revology Cars LLC... → NEEDS_REVIEW
+[2128/2793] Shelby American, Inc.... → NEEDS_REVIEW
+[2129/2793] Shelby Interactive, LLC... → RELEVANT
+[2130/2793] Suburban Collection... → NEEDS_REVIEW
+[2131/2793] The Faulkner Organization... → NEEDS_REVIEW
+[2132/2793] Velocity Modern Classics... → NOT_RELEVANT
+[2133/2793] VOSS Automotive, Inc., USA... → NEEDS_REVIEW
+[2134/2793] Airzone Control... → NOT_RELEVANT
+[2135/2793] Claypaky... → NEEDS_REVIEW
+[2136/2793] Datacolor... → NEEDS_REVIEW
+[2137/2793] Delta Controls... → NEEDS_REVIEW
+[2138/2793] E2IP TECHNOLOGIES... → NEEDS_REVIEW
+[2139/2793] Eddyfi Technologies... → NEEDS_REVIEW
+[2140/2793] Forsee Power... → NOT_RELEVANT
+[2141/2793] FreeWire Technologies... → NEEDS_REVIEW
+[2142/2793] Gecko Alliance... → NOT_RELEVANT
+[2143/2793] kramer... → NOT_RELEVANT
+[2144/2793] LACROIX... → NEEDS_REVIEW
+[2145/2793] Powersoft... → NEEDS_REVIEW
+[2146/2793] Previan... → NEEDS_REVIEW
+[2147/2793] Pumatronix Equipamentos EletrÃÂÃ... → NEEDS_REVIEW
+[2148/2793] RFI Technology Solutions... → NEEDS_REVIEW
+[2149/2793] Sensor Networks, Inc... → NEEDS_REVIEW
+[2150/2793] Skeleton Technologies... → NEEDS_REVIEW
+[2151/2793] Spectris plc... → NEEDS_REVIEW
+[2152/2793] Tritium... → NEEDS_REVIEW
+[2153/2793] Wallbox Chargers... → NEEDS_REVIEW
+[2154/2793] Zennio... → NEEDS_REVIEW
+[2155/2793] Aluna Learning, LLC... → NEEDS_REVIEW
+[2156/2793] Better Mobile Xperience... → NEEDS_REVIEW
+[2157/2793] Bunch Bikes... → NEEDS_REVIEW
+[2158/2793] Capri Bikes... → NOT_RELEVANT
+[2159/2793] EdgeEnergy??... → NOT_RELEVANT
+[2160/2793] EIM TECHNOLOGY... → RELEVANT
+[2161/2793] Electric Vehicles Outlook Ltd... → NEEDS_REVIEW
+[2162/2793] EndoSound... → NEEDS_REVIEW
+[2163/2793] FEV North America Inc.... → NEEDS_REVIEW
+[2164/2793] Flowtica... → RELEVANT
+[2165/2793] Freeaim Technologies... → RELEVANT
+[2166/2793] Full Spectrum... → RELEVANT
+[2167/2793] Halo Air... → NEEDS_REVIEW
+[2168/2793] Health Care Originals, Inc.... → NOT_RELEVANT
+[2169/2793] HEVO Power... → NEEDS_REVIEW
+[2170/2793] HII... → NEEDS_REVIEW
+[2171/2793] Lit Motors... → NEEDS_REVIEW
+[2172/2793] Neopenda... → NOT_RELEVANT
+[2173/2793] Nireeka Technologies Inc.... → NOT_RELEVANT
+[2174/2793] Olympian Motors... → NEEDS_REVIEW
+[2175/2793] Peak Design... → NEEDS_REVIEW
+[2176/2793] Peak Design Company... → NOT_RELEVANT
+[2177/2793] Power Hero... → NEEDS_REVIEW
+[2178/2793] PRANOS.ai... → NEEDS_REVIEW
+[2179/2793] RoboDK... → NOT_RELEVANT
+[2180/2793] Rolling Square... → NEEDS_REVIEW
+[2181/2793] Sensate... → NOT_RELEVANT
+[2182/2793] Sixfab... → NEEDS_REVIEW
+[2183/2793] SONDORS Inc.... → NEEDS_REVIEW
+[2184/2793] Sonical Inc.... → RELEVANT
+[2185/2793] Tap Systems... → NEEDS_REVIEW
+[2186/2793] ABBY by GOGOTECH... → NEEDS_REVIEW
+[2187/2793] AirSelfie, Inc.... → NEEDS_REVIEW
+[2188/2793] allocortech inc.... → RELEVANT
+[2189/2793] Audicus... → NEEDS_REVIEW
+[2190/2793] Beyond Imagination, Inc.... → NEEDS_REVIEW
+[2191/2793] Bimotal... → NEEDS_REVIEW
+[2192/2793] CIRQ+... → RELEVANT
+[2193/2793] Cor... → RELEVANT
+[2194/2793] Dynaris... → NOT_RELEVANT
+[2195/2793] Electric Hydrogen Co.... → NEEDS_REVIEW
+[2196/2793] EQIFI... → NEEDS_REVIEW
+[2197/2793] Flux Hybrids... → NEEDS_REVIEW
+[2198/2793] Heavys... → NOT_RELEVANT
+[2199/2793] Holodia... → NEEDS_REVIEW
+[2200/2793] Lumina Analytics... → RELEVANT
+[2201/2793] MOBODEXTER... → NEEDS_REVIEW
+[2202/2793] necoTech USA... → NEEDS_REVIEW
+[2203/2793] Nutr, ex-Google, ex-Amazon... → NEEDS_REVIEW
+[2204/2793] Parallel Flight Technologies... → RELEVANT
+[2205/2793] PowerBox Technology... → NEEDS_REVIEW
+[2206/2793] pSemi, A Murata Company... → RELEVANT
+[2207/2793] RYSE... → NOT_RELEVANT
+[2208/2793] Smart AI Connect... → RELEVANT
+[2209/2793] TAINR... → NOT_RELEVANT
+[2210/2793] VibeTech... → NEEDS_REVIEW
+[2211/2793] Volektra... → NEEDS_REVIEW
+[2212/2793] AlphaTheta... → NOT_RELEVANT
+[2213/2793] Aqipa... → NEEDS_REVIEW
+[2214/2793] Frontier Smart Technologies... → NOT_RELEVANT
+[2215/2793] JLab... → NOT_RELEVANT
+[2216/2793] Kooduu... → NOT_RELEVANT
+[2217/2793] Majority Audio... → NEEDS_REVIEW
+[2218/2793] Marshall... → NOT_RELEVANT
+[2219/2793] Mimi Hearing... → NEEDS_REVIEW
+[2220/2793] MONDO... → NOT_RELEVANT
+[2221/2793] StreamUnlimited... → NEEDS_REVIEW
+[2222/2793] WE ARE REWIND... → NEEDS_REVIEW
+[2223/2793] AirBell... → RELEVANT
+[2224/2793] Beafon... → NEEDS_REVIEW
+[2225/2793] Chipolo... → NOT_RELEVANT
+[2226/2793] Epico International... → NEEDS_REVIEW
+[2227/2793] ERTEA... → NEEDS_REVIEW
+[2228/2793] Rolling Square SA... → NEEDS_REVIEW
+[2229/2793] VonmÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → NEEDS_REVIEW
+[2230/2793] SATECHI... → RELEVANT
+[2231/2793] FIXED... → NEEDS_REVIEW
+[2232/2793] Swissten... → NEEDS_REVIEW
+[2233/2793] Barkan Mounts Ltd... → NEEDS_REVIEW
+[2234/2793] CANVAS HiFi... → NEEDS_REVIEW
+[2235/2793] CANVAS HiFi ApS... → RELEVANT
+[2236/2793] DENVER A/S... → NEEDS_REVIEW
+[2237/2793] Next & Next Star (West Africa  regi... → NEEDS_REVIEW
+[2238/2793] One For All... → NEEDS_REVIEW
+[2239/2793] Philips TV & Sound... → NEEDS_REVIEW
+[2240/2793] Sharp Consumer Electronics Europe... → NOT_RELEVANT
+[2241/2793] STRONG Group... → NEEDS_REVIEW
+[2242/2793] Strong Ukraine LLC... → RELEVANT
+[2243/2793] Superior Electronics... → NEEDS_REVIEW
+[2244/2793] Vestel... → NEEDS_REVIEW
+[2245/2793] Mudita... → NEEDS_REVIEW
+[2246/2793] C+A Global... → NEEDS_REVIEW
+[2247/2793] Sudio... → NOT_RELEVANT
+[2248/2793] mPTech... → NEEDS_REVIEW
+[2249/2793] Golden Star Technology Inc (GST)... → NEEDS_REVIEW
+[2250/2793] iOttie Inc.... → NEEDS_REVIEW
+[2251/2793] Scosche Industries, Inc.... → NOT_RELEVANT
+[2252/2793] Hybrid Lidar Systems AG... → NEEDS_REVIEW
+[2253/2793] IEE Sensing... → NEEDS_REVIEW
+[2254/2793] HeyCharge... → NEEDS_REVIEW
+[2255/2793] Hive Power... → NEEDS_REVIEW
+[2256/2793] Gridio... → RELEVANT
+[2257/2793] Hamamatsu Photonics Europe... → RELEVANT
+[2258/2793] KARUSO... → NEEDS_REVIEW
+[2259/2793] Innoviz Technologies... → NEEDS_REVIEW
+[2260/2793] ingenev... → NEEDS_REVIEW
+[2261/2793] INOVA Semiconductors GmbH... → RELEVANT
+[2262/2793] INYO Mobility GmbH... → NEEDS_REVIEW
+[2263/2793] Kenotom - Embedded Engineering Exce... → RELEVANT
+[2264/2793] Lucid Motors... → NEEDS_REVIEW
+[2265/2793] KREISEL Electric... → RELEVANT
+[2266/2793] Group Lotus... → NEEDS_REVIEW
+[2267/2793] LAKE FUSION Technologies GmbH... → NEEDS_REVIEW
+[2268/2793] Copper BV... → NEEDS_REVIEW
+[2269/2793] KIRPART... → NEEDS_REVIEW
+[2270/2793] ZeMA gGmbH... → NEEDS_REVIEW
+[2271/2793] Sonceboz... → RELEVANT
+[2272/2793] SONIMA Group... → NEEDS_REVIEW
+[2273/2793] SonoBeacon GmbH... → NEEDS_REVIEW
+[2274/2793] WirelessCar... → NEEDS_REVIEW
+[2275/2793] Wolf e mobility... → NEEDS_REVIEW
+[2276/2793] Pollmann International GmbH... → NEEDS_REVIEW
+[2277/2793] redi-Group GmbH... → NEEDS_REVIEW
+[2278/2793] Royal Nedschroef... → NOT_RELEVANT
+[2279/2793] Crystaltech Nano... → NEEDS_REVIEW
+[2280/2793] LEONHARD KURZ... → NEEDS_REVIEW
+[2281/2793] MOTER Technologies... → RELEVANT
+[2282/2793] Nidec Group... → NEEDS_REVIEW
+[2283/2793] POLYN Technology... → NEEDS_REVIEW
+[2284/2793] Preh Group... → NEEDS_REVIEW
+[2285/2793] SafeFields Technologies... → NEEDS_REVIEW
+[2286/2793] Pontosense... → NEEDS_REVIEW
+[2287/2793] Poolz... → RELEVANT
+[2288/2793] OxidOS Automotive... → NEEDS_REVIEW
+[2289/2793] NIRA Dynamics AB... → NEEDS_REVIEW
+[2290/2793] RemotiveLabs... → NEEDS_REVIEW
+[2291/2793] Riese & Muller... → NEEDS_REVIEW
+[2292/2793] RUTRONIK Electronics Worldwide... → NEEDS_REVIEW
+[2293/2793] Nexperia... → NEEDS_REVIEW
+[2294/2793] cellcentric GmbH & Co. KG... → NOT_RELEVANT
+[2295/2793] Clarios... → NEEDS_REVIEW
+[2296/2793] Click-Ins... → RELEVANT
+[2297/2793] COMPREDICT... → NEEDS_REVIEW
+[2298/2793] Connected Wise... → NEEDS_REVIEW
+[2299/2793] CUPRA... → NOT_RELEVANT
+[2300/2793] Cyclic... → NEEDS_REVIEW
+[2301/2793] DeepDrive... → NEEDS_REVIEW
+[2302/2793] DEKRA... → NEEDS_REVIEW
+[2303/2793] DENSO... → NEEDS_REVIEW
+[2304/2793] Easelink... → NEEDS_REVIEW
+[2305/2793] Ecobat... → NEEDS_REVIEW
+[2306/2793] EDAG... → NEEDS_REVIEW
+[2307/2793] Ekoenergetyka... → NEEDS_REVIEW
+[2308/2793] EKPO Fuel Cell Technologies GmbH... → NEEDS_REVIEW
+[2309/2793] ElringKlinger... → NEEDS_REVIEW
+[2310/2793] Embedl... → NEEDS_REVIEW
+[2311/2793] emotion3D... → NEEDS_REVIEW
+[2312/2793] EN4... → RELEVANT
+[2313/2793] Enplas Life Tech... → NEEDS_REVIEW
+[2314/2793] ENTROVIEW... → NEEDS_REVIEW
+[2315/2793] Epalfer... → NEEDS_REVIEW
+[2316/2793] Erdrich Umformtechnik... → NEEDS_REVIEW
+[2317/2793] ETAS... → NEEDS_REVIEW
+[2318/2793] Factorial Energy... → NOT_RELEVANT
+[2319/2793] FAISSNER PETERMEIER... → NEEDS_REVIEW
+[2320/2793] Feintool... → NEEDS_REVIEW
+[2321/2793] FIBET... → NEEDS_REVIEW
+[2322/2793] Ford Motor Company... → NOT_RELEVANT
+[2323/2793] Genesis Motor North America... → NOT_RELEVANT
+[2324/2793] Gentex Corporation... → NEEDS_REVIEW
+[2325/2793] German Aerospace... → NEEDS_REVIEW
+[2326/2793] UNY... → NEEDS_REVIEW
+[2327/2793] 2electron... → RELEVANT
+[2328/2793] AAC Technologies... → NEEDS_REVIEW
+[2329/2793] Advanced Thermal Batteries... → NOT_RELEVANT
+[2330/2793] AL-KOR... → NEEDS_REVIEW
+[2331/2793] Allied Motion... → NEEDS_REVIEW
+[2332/2793] Alpitronic... → NEEDS_REVIEW
+[2333/2793] Angelantoni Test Technologies... → RELEVANT
+[2334/2793] ASAS ALUMINYUM... → NEEDS_REVIEW
+[2335/2793] ATTB... → NEEDS_REVIEW
+[2336/2793] AUDI... → NEEDS_REVIEW
+[2337/2793] Auve Tech... → NEEDS_REVIEW
+[2338/2793] AVL Software... → NEEDS_REVIEW
+[2339/2793] Bako Motors... → NEEDS_REVIEW
+[2340/2793] Battery Competence Cluster... → NEEDS_REVIEW
+[2341/2793] Bertrandt Group... → NEEDS_REVIEW
+[2342/2793] BMW... → NEEDS_REVIEW
+[2343/2793] BorgWarner... → NEEDS_REVIEW
+[2344/2793] Bosch... → RELEVANT
+[2345/2793] Bosch eBike Systems... → NEEDS_REVIEW
+[2346/2793] Bosch Thermotechnology... → NEEDS_REVIEW
+[2347/2793] Bossard Group... → NEEDS_REVIEW
+[2348/2793] Bossard Ireland... → RELEVANT
+[2349/2793] Boysen... → NEEDS_REVIEW
+[2350/2793] Buehler Motor... → NEEDS_REVIEW
+[2351/2793] Burg Design... → NEEDS_REVIEW
+[2352/2793] ABT Sportsline GmbH... → NEEDS_REVIEW
+[2353/2793] ENORISE... → NEEDS_REVIEW
+[2354/2793] EVUM Motors GmbH... → NEEDS_REVIEW
+[2355/2793] KEYOU... → NEEDS_REVIEW
+[2356/2793] MicroFuzzy... → NEEDS_REVIEW
+[2357/2793] MOTOR AI... → NEEDS_REVIEW
+[2358/2793] PT. Ziegler Indonesia... → NEEDS_REVIEW
+[2359/2793] TRAILER DYNAMICS... → NEEDS_REVIEW
+[2360/2793] ZIEGLER Group... → NEEDS_REVIEW
+[2361/2793] Buyutech... → NEEDS_REVIEW
+[2362/2793] Bylogix... → RELEVANT
+[2363/2793] Camel Energy... → NEEDS_REVIEW
+[2364/2793] EDAG Group... → NEEDS_REVIEW
+[2365/2793] iLOQ... → NEEDS_REVIEW
+[2366/2793] Axon... → NEEDS_REVIEW
+[2367/2793] Hirsch... → NEEDS_REVIEW
+[2368/2793] Seagate Technology... → NOT_RELEVANT
+[2369/2793] PACOM... → NEEDS_REVIEW
+[2370/2793] Network Optix... → NEEDS_REVIEW
+[2371/2793] Allied Telesis... → NEEDS_REVIEW
+[2372/2793] March Networks... → RELEVANT
+[2373/2793] Motorola Solutions... → RELEVANT
+[2374/2793] Fluke Corporation... → NOT_RELEVANT
+[2375/2793] Nice Group... → NEEDS_REVIEW
+[2376/2793] Gallagher Security... → NEEDS_REVIEW
+[2377/2793] Weber Protect GmbH... → NEEDS_REVIEW
+[2378/2793] Dallmeier electronic UK Ltd... → NEEDS_REVIEW
+[2379/2793] Balter Security GmbH... → NEEDS_REVIEW
+[2380/2793] Ark Vision Systems GmbH & Co. KG... → NEEDS_REVIEW
+[2381/2793] essentry... → NEEDS_REVIEW
+[2382/2793] Tedee... → NEEDS_REVIEW
+[2383/2793] VIGO Photonics... → RELEVANT
+[2384/2793] 2N... → NEEDS_REVIEW
+[2385/2793] ABI-Sicherheitssysteme AG... → NEEDS_REVIEW
+[2386/2793] ADI Global Distribution... → NEEDS_REVIEW
+[2387/2793] BINZ Automotive... → NEEDS_REVIEW
+[2388/2793] CAPRON GmbH... → NEEDS_REVIEW
+[2389/2793] CREAT GmbH... → NEEDS_REVIEW
+[2390/2793] Erwin Quarder Gruppe... → NEEDS_REVIEW
+[2391/2793] FDTech GmbH... → NEEDS_REVIEW
+[2392/2793] FEV Vehicle GmbH... → NEEDS_REVIEW
+[2393/2793] Fuba Automotive Electronics... → NEEDS_REVIEW
+[2394/2793] MAGNA Telemotive GmbH... → NEEDS_REVIEW
+[2395/2793] WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶lf... → NEEDS_REVIEW
+[2396/2793] APSTEC Systems... → NEEDS_REVIEW
+[2397/2793] Aritech... → NEEDS_REVIEW
+[2398/2793] Artifeel... → NEEDS_REVIEW
+[2399/2793] ATG Access... → NEEDS_REVIEW
+[2400/2793] Baldwin Boxall... → NEEDS_REVIEW
+[2401/2793] Bastion Security Products... → NEEDS_REVIEW
+[2402/2793] ADT... → RELEVANT
+[2403/2793] Airthings... → NEEDS_REVIEW
+[2404/2793] tadoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ... → NOT_RELEVANT
+[2405/2793] Vivint... → RELEVANT
+[2406/2793] Molekule... → NEEDS_REVIEW
+[2407/2793] CAPRON... → NEEDS_REVIEW
+[2408/2793] CREAT... → NEEDS_REVIEW
+[2409/2793] Erwin Quarder... → NEEDS_REVIEW
+[2410/2793] FDTech... → NEEDS_REVIEW
+[2411/2793] FEV Vehicle... → NEEDS_REVIEW
+[2412/2793] Fuba Automotive... → NEEDS_REVIEW
+[2413/2793] MAGNA Telemotive... → NEEDS_REVIEW
+[2414/2793] Wolfle... → NEEDS_REVIEW
+[2415/2793] 5G Automotive Association (5GAA)... → NEEDS_REVIEW
+[2416/2793] ACS Armoured Car Systems GmbH... → NEEDS_REVIEW
+[2417/2793] AMPHERR AG... → NEEDS_REVIEW
+[2418/2793] AUTEL Automotive Intelligence ÃÂÃ... → NEEDS_REVIEW
+[2419/2793] Bavarian Automotive Technologies... → NEEDS_REVIEW
+[2420/2793] brabus automotive GmbH... → NEEDS_REVIEW
+[2421/2793] BYD Deutschland... → NEEDS_REVIEW
+[2422/2793] Elektron Motors GmbH... → NEEDS_REVIEW
+[2423/2793] eROCKIT Group... → NEEDS_REVIEW
+[2424/2793] GETEC Getriebe Technik GmbH... → NEEDS_REVIEW
+[2425/2793] HEERO Motors... → NEEDS_REVIEW
+[2426/2793] Hyundai Connected Mobility... → NEEDS_REVIEW
+[2427/2793] Linglong Germany GmbH... → NEEDS_REVIEW
+[2428/2793] LION Smart GmbH... → NEEDS_REVIEW
+[2429/2793] Novus GmbH... → NEEDS_REVIEW
+[2430/2793] ONO GmbH (ONOMOTION.COM)... → NEEDS_REVIEW
+[2431/2793] pepper motion GmbH... → NEEDS_REVIEW
+[2432/2793] Renault Trucks Deutschland... → NEEDS_REVIEW
+[2433/2793] Screens GmbH... → NEEDS_REVIEW
+[2434/2793] SELECT AG... → NEEDS_REVIEW
+[2435/2793] SSR Performance GmbH... → NEEDS_REVIEW
+[2436/2793] Werner Metzger GmbH... → NEEDS_REVIEW
+[2437/2793] Wistra Cargo Control UAB... → NEEDS_REVIEW
+[2438/2793] WITOL... → NEEDS_REVIEW
+[2439/2793] AVM GmbH... → RELEVANT
+[2440/2793] eSystems MTG... → NEEDS_REVIEW
+[2441/2793] Eve Systems... → NEEDS_REVIEW
+[2442/2793] Gira... → NEEDS_REVIEW
+[2443/2793] HOLOPLOT... → NOT_RELEVANT
+[2444/2793] JUNG... → NEEDS_REVIEW
+[2445/2793] LEDVANCE... → NOT_RELEVANT
+[2446/2793] MDT technologies... → NEEDS_REVIEW
+[2447/2793] Paulmann Licht... → NEEDS_REVIEW
+[2448/2793] RZB Lighting... → NEEDS_REVIEW
+[2449/2793] SOMMER Antriebs- und Funktechnik... → NEEDS_REVIEW
+[2450/2793] Thermokon Sensortechnik... → NEEDS_REVIEW
+[2451/2793] TRILUX... → NEEDS_REVIEW
+[2452/2793] Borbet Austria... → NEEDS_REVIEW
+[2453/2793] Dethleffs GmbH & Co. KG... → NEEDS_REVIEW
+[2454/2793] EBZ Gruppe... → NEEDS_REVIEW
+[2455/2793] FEV EVA GmbH... → NEEDS_REVIEW
+[2456/2793] FIT Voltaira Autokabel Gruppe GmbH... → NEEDS_REVIEW
+[2457/2793] FIT Voltaira Group... → NEEDS_REVIEW
+[2458/2793] Hella Gutmann Group... → NEEDS_REVIEW
+[2459/2793] hofer powertrain (USA), Inc.... → NEEDS_REVIEW
+[2460/2793] HYMER AG... → NEEDS_REVIEW
+[2461/2793] ITW Global Fasteners... → NEEDS_REVIEW
+[2462/2793] Knaus Tabbert AG... → NEEDS_REVIEW
+[2463/2793] MBtech Group GmbH & Co. KGaA... → NEEDS_REVIEW
+[2464/2793] MEYLE AG... → NEEDS_REVIEW
+[2465/2793] NBHX Trim GmbH (Abergavenny)... → NEEDS_REVIEW
+[2466/2793] Almas Industries UK & Ireland Ltd... → NEEDS_REVIEW
+[2467/2793] ANYbotics... → NEEDS_REVIEW
+[2468/2793] AxxonSoft... → RELEVANT
+[2469/2793] BauWatch Group... → NEEDS_REVIEW
+[2470/2793] Belixys... → NEEDS_REVIEW
+[2471/2793] BioID GmbH... → RELEVANT
+[2472/2793] BURG-WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[2473/2793] CAMBAUM GmbH... → NEEDS_REVIEW
+[2474/2793] Carl Wittkopp GmbH... → NEEDS_REVIEW
+[2475/2793] Carrier Fire & Security... → NEEDS_REVIEW
+[2476/2793] CDVI UK... → NEEDS_REVIEW
+[2477/2793] DoorBird... → NEEDS_REVIEW
+[2478/2793] BOS GmbH & Co. KG... → NEEDS_REVIEW
+[2479/2793] Carthago Reisemobilbau GmbH... → NEEDS_REVIEW
+[2480/2793] ETO GRUPPE... → NEEDS_REVIEW
+[2481/2793] ETO GRUPPE TECHNOLOGIES GmbH... → RELEVANT
+[2482/2793] ETO Magnetic GmbH... → RELEVANT
+[2483/2793] MEKRA Lang Gmbh&Co.KG... → RELEVANT
+[2484/2793] MEKRA Lang Group... → NEEDS_REVIEW
+[2485/2793] Panasonic Automotive Systems Europe... → NEEDS_REVIEW
+[2486/2793] PSW automotive engineering GmbH... → NEEDS_REVIEW
+[2487/2793] Sortimo International GmbH... → NOT_RELEVANT
+[2488/2793] Swoboda Technologies... → NEEDS_REVIEW
+[2489/2793] A. Kayser Automotive Systems GmbH... → NEEDS_REVIEW
+[2490/2793] ARNOLD UMFORMTECHNIK GmbH & Co. KG... → NEEDS_REVIEW
+[2491/2793] Eugen Forschner GmbH... → NEEDS_REVIEW
+[2492/2793] Linamar Europe... → NEEDS_REVIEW
+[2493/2793] Poppe + Potthoff GmbH... → NEEDS_REVIEW
+[2494/2793] Possehl Electronics... → NEEDS_REVIEW
+[2495/2793] RAPA Rausch & Pausch... → NEEDS_REVIEW
+[2496/2793] SHW Automotive GmbH... → NEEDS_REVIEW
+[2497/2793] thyssenkrupp Springs & Stabilizers... → NEEDS_REVIEW
+[2498/2793] tracetronic GmbH... → NEEDS_REVIEW
+[2499/2793] Turbo Energy Germany GmbH... → NEEDS_REVIEW
+[2500/2793] Baumer Group... → NEEDS_REVIEW
+[2501/2793] Designwerk Group... → NEEDS_REVIEW
+[2502/2793] Emaldo Power... → NOT_RELEVANT
+[2503/2793] EVHUB... → NEEDS_REVIEW
+[2504/2793] IONITY... → NEEDS_REVIEW
+[2505/2793] Mer... → NEEDS_REVIEW
+[2506/2793] 360 Vision Technology Ltd... → NEEDS_REVIEW
+[2507/2793] Chacon-DiO... → RELEVANT
+[2508/2793] Ernitec... → RELEVANT
+[2509/2793] MOBOTIX AG... → RELEVANT
+[2510/2793] NetVu... → NEEDS_REVIEW
+[2511/2793] Pinnacle Response Ltd.... → NEEDS_REVIEW
+[2512/2793] Reveal Media... → RELEVANT
+[2513/2793] Synectics... → NEEDS_REVIEW
+[2514/2793] WCCTV Limited... → NEEDS_REVIEW
+[2515/2793] Weldex AutoTechnik s.r.o.... → NEEDS_REVIEW
+[2516/2793] VIDEOTEC s.r.l. a Pelco Company... → NEEDS_REVIEW
+[2517/2793] Meshcrafts AS... → NEEDS_REVIEW
+[2518/2793] Monta... → NOT_RELEVANT
+[2519/2793] Otovo... → NOT_RELEVANT
+[2520/2793] Spirii... → NEEDS_REVIEW
+[2521/2793] Wattif EV... → NEEDS_REVIEW
+[2522/2793] alinotec GmbH&Co.KG... → NEEDS_REVIEW
+[2523/2793] BauWatch Projekt Service GmbH... → NEEDS_REVIEW
+[2524/2793] CONDOR Schutz- und Sicherheitsdiens... → NEEDS_REVIEW
+[2525/2793] Funkwerk AG... → NEEDS_REVIEW
+[2526/2793] Funkwerk Security Solutions GmbH... → NEEDS_REVIEW
+[2527/2793] HALO Body Cameras... → RELEVANT
+[2528/2793] Kooi Mobile VideoÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[2529/2793] ONEsolution GmbH... → NEEDS_REVIEW
+[2530/2793] Pelco by Schneider Electric... → NEEDS_REVIEW
+[2531/2793] PLANPROTECT AG... → NEEDS_REVIEW
+[2532/2793] Abloy UK... → NEEDS_REVIEW
+[2533/2793] Amthal Group Companies... → NEEDS_REVIEW
+[2534/2793] APB SISTEMAS Y CONTROL DE ACCESOS S... → NEEDS_REVIEW
+[2535/2793] By - Access Control Systems... → NEEDS_REVIEW
+[2536/2793] Clearview Communications... → NEEDS_REVIEW
+[2537/2793] Comelit | UK | Door Entry | Home Au... → NEEDS_REVIEW
+[2538/2793] OPTEX Security EMEA... → NEEDS_REVIEW
+[2539/2793] Paxton Access Inc... → NEEDS_REVIEW
+[2540/2793] Paxton Access Ltd... → NEEDS_REVIEW
+[2541/2793] Salto Home Solutions ApS... → NEEDS_REVIEW
+[2542/2793] SALTO Systems... → NEEDS_REVIEW
+[2543/2793] TDS (Time Data Security) Ltd... → NEEDS_REVIEW
+[2544/2793] The Clearway Group Ltd... → NEEDS_REVIEW
+[2545/2793] TKH Security... → NEEDS_REVIEW
+[2546/2793] TKH Security Solutions USA... → NEEDS_REVIEW
+[2547/2793] Videx Security Limited... → NEEDS_REVIEW
+[2548/2793] Recharge (Charge Point Operator)... → NEEDS_REVIEW
+[2549/2793] Wirtek A/S... → NEEDS_REVIEW
+[2550/2793] ABAX... → NEEDS_REVIEW
+[2551/2793] Autoneum... → NEEDS_REVIEW
+[2552/2793] FleetGO? Telematics... → NEEDS_REVIEW
+[2553/2793] Fleets International Enterprises... → NEEDS_REVIEW
+[2554/2793] Gurtam... → NEEDS_REVIEW
+[2555/2793] LeasePlan Italia... → NEEDS_REVIEW
+[2556/2793] Nextbase... → RELEVANT
+[2557/2793] Octo Telematics... → NEEDS_REVIEW
+[2558/2793] OSRAM... → NEEDS_REVIEW
+[2559/2793] VisionTrack... → RELEVANT
+[2560/2793] ARS ALTMANN AG... → NEEDS_REVIEW
+[2561/2793] Alfred Schuon Group... → NEEDS_REVIEW
+[2562/2793] Barth + Co. Spedition GmbH & Co.KG... → NEEDS_REVIEW
+[2563/2793] BURSPED... → NEEDS_REVIEW
+[2564/2793] Chapman Freeborn OBC... → NEEDS_REVIEW
+[2565/2793] FERNRIDE... → RELEVANT
+[2566/2793] GEORGI GROUP... → NEEDS_REVIEW
+[2567/2793] HGK HÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NOT_RELEVANT
+[2568/2793] KLN Freight... → NEEDS_REVIEW
+[2569/2793] LPR Group... → NEEDS_REVIEW
+[2570/2793] Night Star Express GmbH Logistik... → NEEDS_REVIEW
+[2571/2793] ONLOGIST GmbH... → NEEDS_REVIEW
+[2572/2793] Telekom MobilitySolutions... → NEEDS_REVIEW
+[2573/2793] Urban-Transporte GmbH... → NEEDS_REVIEW
+[2574/2793] WLC WÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[2575/2793] B&G Entrance Control... → NEEDS_REVIEW
+[2576/2793] Bticino... → NEEDS_REVIEW
+[2577/2793] CERTEGO Group... → NEEDS_REVIEW
+[2578/2793] Cosmo Connected... → RELEVANT
+[2579/2793] Gira Giersiepen GmbH & Co KG... → NEEDS_REVIEW
+[2580/2793] HB Hekwerk Oost... → RELEVANT
+[2581/2793] Heda Security AB... → NEEDS_REVIEW
+[2582/2793] Resideo... → NEEDS_REVIEW
+[2583/2793] RISCO Group... → NEEDS_REVIEW
+[2584/2793] Agencja Ochrony OsÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[2585/2793] GROUPE PROTECTOR... → RELEVANT
+[2586/2793] Intergarde... → NEEDS_REVIEW
+[2587/2793] Vollmergruppe Dienstleistung / West... → NEEDS_REVIEW
+[2588/2793] InSiTech - ein Unternehmen der NÃÂ... → NEEDS_REVIEW
+[2589/2793] LSA Group... → NEEDS_REVIEW
+[2590/2793] Avarn Security Finland... → NEEDS_REVIEW
+[2591/2793] Clear Security GmbH... → NEEDS_REVIEW
+[2592/2793] RcO Security... → NEEDS_REVIEW
+[2593/2793] dormakaba... → NEEDS_REVIEW
+[2594/2793] Primion Technology GmbH... → NEEDS_REVIEW
+[2595/2793] Security Systems by Protec... → NEEDS_REVIEW
+[2596/2793] Bergen Logistics... → NEEDS_REVIEW
+[2597/2793] Business Unit MOSOLF Special Vehicl... → NEEDS_REVIEW
+[2598/2793] CTI Global Logistics... → NEEDS_REVIEW
+[2599/2793] Elanders... → NEEDS_REVIEW
+[2600/2793] EV Cargo Fast Forward Freight B.V.... → NEEDS_REVIEW
+[2601/2793] Fleet Logistics Group... → NEEDS_REVIEW
+[2602/2793] HÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¶dl... → NEEDS_REVIEW
+[2603/2793] Jan de Rijk Logistics... → NEEDS_REVIEW
+[2604/2793] KINEXON... → NEEDS_REVIEW
+[2605/2793] Meyer & Meyer... → NEEDS_REVIEW
+[2606/2793] MOSOLF Logistics & Services GmbH... → NEEDS_REVIEW
+[2607/2793] MOSOLF Transport Solutions GmbH... → NEEDS_REVIEW
+[2608/2793] nox... → NEEDS_REVIEW
+[2609/2793] Quehenberger Logistics... → NEEDS_REVIEW
+[2610/2793] Rudolph Logistik Gruppe... → NEEDS_REVIEW
+[2611/2793] Seifert Logistics Group... → NEEDS_REVIEW
+[2612/2793] The Mobility House... → NEEDS_REVIEW
+[2613/2793] time:matters... → NEEDS_REVIEW
+[2614/2793] Wallenborn Transports... → NEEDS_REVIEW
+[2615/2793] A.P. Moller - Maersk... → NOT_RELEVANT
+[2616/2793] AMAG Group... → NEEDS_REVIEW
+[2617/2793] Arndt Automobile GmbH... → NEEDS_REVIEW
+[2618/2793] Beresa GmbH & Co. KG... → NEEDS_REVIEW
+[2619/2793] BLS AG... → NEEDS_REVIEW
+[2620/2793] BMW Group... → NEEDS_REVIEW
+[2621/2793] Continental... → NEEDS_REVIEW
+[2622/2793] DB Schenker... → NEEDS_REVIEW
+[2623/2793] Deutsche Post und DHL... → NEEDS_REVIEW
+[2624/2793] DFDS... → NOT_RELEVANT
+[2625/2793] DHL... → NEEDS_REVIEW
+[2626/2793] DHL Express... → NEEDS_REVIEW
+[2627/2793] DHL Supply Chain... → NEEDS_REVIEW
+[2628/2793] Duvenbeck Unternehmensgruppe... → NEEDS_REVIEW
+[2629/2793] Fleggaard Leasing A/S... → NEEDS_REVIEW
+[2630/2793] Hegelmann Group... → NEEDS_REVIEW
+[2631/2793] inTime Express Logistik GmbH... → NEEDS_REVIEW
+[2632/2793] Kia Europe... → NEEDS_REVIEW
+[2633/2793] Kia Schweiz AG... → NEEDS_REVIEW
+[2634/2793] KINTO Mobility... → NEEDS_REVIEW
+[2635/2793] ABCA Fire and Security... → NEEDS_REVIEW
+[2636/2793] Banham Group... → NEEDS_REVIEW
+[2637/2793] Digital Barriers... → RELEVANT
+[2638/2793] Gunnebo... → NEEDS_REVIEW
+[2639/2793] Gunnebo Entrance Control... → NEEDS_REVIEW
+[2640/2793] Northern Security Ltd... → NEEDS_REVIEW
+[2641/2793] Orbis Protect... → NEEDS_REVIEW
+[2642/2793] Phoenix FMS... → NEEDS_REVIEW
+[2643/2793] SECOM Plc... → NEEDS_REVIEW
+[2644/2793] Secom, LLC... → NEEDS_REVIEW
+[2645/2793] AUDAX GLOBAL SOLUTIONS LIMITED... → RELEVANT
+[2646/2793] Hubbcat... → RELEVANT
+[2647/2793] Audax Global Solutions Ltd... → NEEDS_REVIEW
+[2648/2793] S and P Consulting Group... → NEEDS_REVIEW
+[2649/2793] SecuriGroup... → NEEDS_REVIEW
+[2650/2793] Securitas UK... → NEEDS_REVIEW
+[2651/2793] ADT Fire & Security... → NEEDS_REVIEW
+[2652/2793] Constant Security Services... → NEEDS_REVIEW
+[2653/2793] GS (Global-Securite.ch)... → NEEDS_REVIEW
+[2654/2793] Kromek Group plc... → NEEDS_REVIEW
+[2655/2793] MAK Integrated Services LTD | #Team... → NEEDS_REVIEW
+[2656/2793] Oncam... → NEEDS_REVIEW
+[2657/2793] PKE Electronics GmbH... → NEEDS_REVIEW
+[2658/2793] Schrack Seconet AG... → NEEDS_REVIEW
+[2659/2793] SCUTUM Group... → NEEDS_REVIEW
+[2660/2793] Secur-It Group... → NEEDS_REVIEW
+[2661/2793] CameraMatics... → NEEDS_REVIEW
+[2662/2793] Fleet Complete... → NEEDS_REVIEW
+[2663/2793] Geotab... → NEEDS_REVIEW
+[2664/2793] MICHELIN Connected Fleet... → NEEDS_REVIEW
+[2665/2793] Microlise... → NEEDS_REVIEW
+[2666/2793] MiX Telematics... → NEEDS_REVIEW
+[2667/2793] Radius Telematics... → NEEDS_REVIEW
+[2668/2793] Smart Eye... → RELEVANT
+[2669/2793] SureCam... → RELEVANT
+[2670/2793] Thinkware... → RELEVANT
+[2671/2793] Trakm8... → RELEVANT
+[2672/2793] Vodafone Automotive... → NEEDS_REVIEW
+[2673/2793] Arlo Technologies Inc.... → NEEDS_REVIEW
+[2674/2793] Arlo Technologies, Inc.... → NEEDS_REVIEW
+[2675/2793] Brivo... → NEEDS_REVIEW
+[2676/2793] Envoy... → NEEDS_REVIEW
+[2677/2793] Evolv Technology... → NEEDS_REVIEW
+[2678/2793] Flock Safety... → NEEDS_REVIEW
+[2679/2793] Verkada... → NEEDS_REVIEW
+[2680/2793] Vector Security... → NEEDS_REVIEW
+[2681/2793] Alarm.com... → RELEVANT
+[2682/2793] AprilAire... → NEEDS_REVIEW
+[2683/2793] Avigilon... → NEEDS_REVIEW
+[2684/2793] Chamberlain Group (CGI)... → RELEVANT
+[2685/2793] CompX secuirty products... → NEEDS_REVIEW
+[2686/2793] Deep Sentinel... → NEEDS_REVIEW
+[2687/2793] digital watchdog... → RELEVANT
+[2688/2793] Identiv... → NEEDS_REVIEW
+[2689/2793] InVue... → NEEDS_REVIEW
+[2690/2793] LILIN Americas... → NEEDS_REVIEW
+[2691/2793] PCSC... → NEEDS_REVIEW
+[2692/2793] Omniq... → NEEDS_REVIEW
+[2693/2793] rhombus systems... → RELEVANT
+[2694/2793] simplisafe... → NEEDS_REVIEW
+[2695/2793] swann communications... → RELEVANT
+[2696/2793] Wyze... → NEEDS_REVIEW
+[2697/2793] Cobra Electronics... → NEEDS_REVIEW
+[2698/2793] Garmin... → NEEDS_REVIEW
+[2699/2793] ACRE... → NEEDS_REVIEW
+[2700/2793] Acre Security... → NEEDS_REVIEW
+[2701/2793] Alert 360... → NEEDS_REVIEW
+[2702/2793] NAPCO Security Technologies... → NEEDS_REVIEW
+[2703/2793] Prosegur... → NEEDS_REVIEW
+[2704/2793] Vicon Industries... → NEEDS_REVIEW
+[2705/2793] Lytx, Inc.... → NEEDS_REVIEW
+[2706/2793] Motive... → NEEDS_REVIEW
+[2707/2793] Nauto... → NEEDS_REVIEW
+[2708/2793] ROVE Dash Cam... → RELEVANT
+[2709/2793] Samsara... → RELEVANT
+[2710/2793] Solera Fleet Solutions... → NEEDS_REVIEW
+[2711/2793] Teletrac Navman... → NEEDS_REVIEW
+[2712/2793] Verizon Connect... → NEEDS_REVIEW
+[2713/2793] Zonar Systems... → NEEDS_REVIEW
+[2714/2793] 3Xlogic... → NEEDS_REVIEW
+[2715/2793] AV Costar... → NEEDS_REVIEW
+[2716/2793] Eagle Eye Networks... → RELEVANT
+[2717/2793] Exacq - Video Security Products... → NEEDS_REVIEW
+[2718/2793] I-View Now... → NEEDS_REVIEW
+[2719/2793] Kastle Systems... → RELEVANT
+[2720/2793] BrickHouse Security... → NEEDS_REVIEW
+[2721/2793] CalAmp... → RELEVANT
+[2722/2793] EROAD... → NEEDS_REVIEW
+[2723/2793] FleetUp... → NEEDS_REVIEW
+[2724/2793] HD Fleet GPS Tracking Cameras... → RELEVANT
+[2725/2793] IdriveAI... → RELEVANT
+[2726/2793] Nexar Inc.... → RELEVANT
+[2727/2793] Rand McNally... → NEEDS_REVIEW
+[2728/2793] Adt Security Services... → NEEDS_REVIEW
+[2729/2793] Ecam... → NEEDS_REVIEW
+[2730/2793] ECAMSECURE... → NEEDS_REVIEW
+[2731/2793] Wireless CCTV LLC... → RELEVANT
+[2732/2793] Alibi Security... → NEEDS_REVIEW
+[2733/2793] Luminyus Crop... → NEEDS_REVIEW
+[2734/2793] Quanergy... → NEEDS_REVIEW
+[2735/2793] Digital Monitoring Products... → NEEDS_REVIEW
+[2736/2793] KMC Controls... → NEEDS_REVIEW
+[2737/2793] LSI Industries Inc.... → NEEDS_REVIEW
+[2738/2793] LT Security Inc.... → NEEDS_REVIEW
+[2739/2793] LTS - Video Solutions for Security ... → NEEDS_REVIEW
+[2740/2793] Ring... → RELEVANT
+[2741/2793] TAPCO (Traffic & Parking Control Co... → RELEVANT
+[2742/2793] The Reynolds and Reynolds Company... → NEEDS_REVIEW
+[2743/2793] Surecam GmbH... → RELEVANT
+[2744/2793] Aeva... → NEEDS_REVIEW
+[2745/2793] Autocar Trucks... → NEEDS_REVIEW
+[2746/2793] Jeep... → NEEDS_REVIEW
+[2747/2793] Nikola Motor Company... → NEEDS_REVIEW
+[2748/2793] Oshkosh Corporation... → NEEDS_REVIEW
+[2749/2793] Oshkosh YMCA... → NEEDS_REVIEW
+[2750/2793] PACCAR... → NOT_RELEVANT
+[2751/2793] Scout Motors Inc.... → NEEDS_REVIEW
+[2752/2793] Slate... → NEEDS_REVIEW
+[2753/2793] Slate.... → RELEVANT
+[2754/2793] Thor Industries... → NEEDS_REVIEW
+[2755/2793] THOR Industries, Inc.... → NEEDS_REVIEW
+[2756/2793] Zoox... → NEEDS_REVIEW
+[2757/2793] Alcatraz AI... → NEEDS_REVIEW
+[2758/2793] Athena Security Inc.... → NEEDS_REVIEW
+[2759/2793] Genetec... → NEEDS_REVIEW
+[2760/2793] Knightscope... → NEEDS_REVIEW
+[2761/2793] Lorex Technology Inc.... → RELEVANT
+[2762/2793] SCW... → RELEVANT
+[2763/2793] SCW - Security Technology... → RELEVANT
+[2764/2793] Alula... → NEEDS_REVIEW
+[2765/2793] Alvarado... → NEEDS_REVIEW
+[2766/2793] CBC AMERICA LLC... → NEEDS_REVIEW
+[2767/2793] CBC AMERICAS Corp.... → NEEDS_REVIEW
+[2768/2793] ENS Security... → NEEDS_REVIEW
+[2769/2793] Keri Systems... → NEEDS_REVIEW
+[2770/2793] Ortus security... → RELEVANT
+[2771/2793] BEA Sensors Americas... → NEEDS_REVIEW
+[2772/2793] Brinks Home... → NEEDS_REVIEW
+[2773/2793] Canary... → RELEVANT
+[2774/2793] Canary (canary.is)... → NEEDS_REVIEW
+[2775/2793] Omron Electronic Components- Americ... → NEEDS_REVIEW
+[2776/2793] SABREÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃ... → NEEDS_REVIEW
+[2777/2793] United Electronics Inc... → NEEDS_REVIEW
+[2778/2793] Universal Electronics... → NEEDS_REVIEW
+[2779/2793] Edmonton Police Service... → NEEDS_REVIEW
+[2780/2793] G4S... → NEEDS_REVIEW
+[2781/2793] Halton Regional Police Service... → NEEDS_REVIEW
+
+============================================================
+SUMMARY
+Category
+NEEDS_REVIEW    1829
+RELEVANT         513
+NOT_RELEVANT     439
+Name: count, dtype: int64
+============================================================
