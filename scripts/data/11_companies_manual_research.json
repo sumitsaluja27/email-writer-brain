@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "source": "manual_research_by_user",
+    "date": "2025-12-26",
+    "total_companies": 11
+  },
+  "companies": [
+    {
+      "name": "MICHELIN Connected Fleet",
+      "folder": "michelin_connected_fleet",
+      "type": "odm_customer",
+      "business_model": "INTEGRATOR/RESELLER",
+      "what_they_do": "Fleet management company providing GPS tracking and telematics solutions with AI dashcams, ELD, and driver coaching",
+      "products": ["MyConnectedFleet Platform", "AI Dash Cams", "GPS Fleet Tracking", "ELD Solutions", "Telematics Devices"],
+      "services": ["Fleet management", "Driver behavior analysis", "Maintenance diagnostics", "Route optimization", "Cold-chain monitoring"],
+      "target_customers": ["Fleet operators", "Trucking companies", "Logistics companies"],
+      "rapidise_relevance": "NOT_RELEVANT - Integrator, does not manufacture hardware"
+    },
+    {
+      "name": "VersaCold Logistics Services",
+      "folder": "versacold_logistics_services",
+      "type": "end_user",
+      "business_model": "BUYER/END USER",
+      "what_they_do": "Canada's largest cold chain logistics with 27 facilities and own transportation fleet",
+      "products": [],
+      "services": ["Cold storage warehousing", "Temperature-sensitive transportation", "National/international distribution"],
+      "target_customers": ["Food manufacturers", "Distributors", "Retailers"],
+      "rapidise_relevance": "RELEVANT - Potential BUYER of fleet dashcams for their fleet"
+    },
+    {
+      "name": "Platform Science",
+      "folder": "platform_science",
+      "type": "odm_customer",
+      "business_model": "SOFTWARE PLATFORM",
+      "what_they_do": "Fleet optimization platform for transportation companies, partners with Daimler Trucks",
+      "products": ["PS Fleet", "PS Workflow", "PS Forms", "PS HOS", "PS Navigation", "PS Messaging"],
+      "services": ["Fleet management software", "ELD compliance"],
+      "target_customers": ["Enterprise fleets", "Trucking companies", "TSPs"],
+      "rapidise_relevance": "NOT_RELEVANT - Software only, no hardware manufacturing"
+    },
+    {
+      "name": "iDrive.ai",
+      "folder": "idriveai",
+      "type": "odm_customer",
+      "business_model": "TECHNOLOGY LICENSOR / OEM SUPPLIER",
+      "what_they_do": "AI-powered camera technology and driver monitoring systems with facial recognition",
+      "products": ["PRO7 Dual-Lens AI Dashcam", "AI Camera Technology", "Driver Monitoring Systems"],
+      "services": ["Technology licensing", "AI development"],
+      "target_customers": ["Automotive OEMs", "Fleet operators", "Commercial vehicle manufacturers"],
+      "rapidise_relevance": "RELEVANT - Potential ODM customer needing camera hardware manufacturing"
+    },
+    {
+      "name": "HD Fleet GPS Tracking Cameras",
+      "folder": "hd_fleet_gps_tracking_cameras",
+      "type": "odm_customer",
+      "business_model": "INTEGRATOR",
+      "what_they_do": "Fleet management solutions with GPS tracking cameras and dashcams",
+      "products": ["Fleet Dash Cams", "GPS Tracking Devices", "Multi-Camera Systems", "Asset Trackers"],
+      "services": ["Real-time monitoring", "Cloud storage", "Distracted driving detection"],
+      "target_customers": ["Fleet operators", "Trucking companies", "Construction companies"],
+      "rapidise_relevance": "POSSIBLE - Could source white-label cameras from Rapidise"
+    },
+    {
+      "name": "Reveal Media",
+      "folder": "reveal_media",
+      "type": "odm_customer",
+      "business_model": "MANUFACTURER",
+      "what_they_do": "UK-based body-worn camera manufacturer with AI, live streaming, and evidence management",
+      "products": ["K-Series Body Cameras", "R1 Camera", "KS-Series", "D-Series", "Calla Camera", "DEMS 360 Software"],
+      "services": ["Body camera solutions", "Digital evidence management"],
+      "target_customers": ["Police/law enforcement", "Security professionals", "Retail", "Sports"],
+      "rapidise_relevance": "COMPETITOR or POTENTIAL ODM - They manufacture but could outsource"
+    },
+    {
+      "name": "Vertical Cold Storage",
+      "folder": "vertical_cold_storage",
+      "type": "end_user",
+      "business_model": "BUYER/END USER",
+      "what_they_do": "Cold storage and logistics with 12 locations, temperature-controlled warehousing",
+      "products": [],
+      "services": ["Cold storage", "Blast freezing", "Import/export handling", "Cross-docking"],
+      "target_customers": ["Food manufacturers", "Distributors", "International traders"],
+      "rapidise_relevance": "RELEVANT - Potential BUYER for cargo monitoring and fleet safety"
+    },
+    {
+      "name": "KRYOTEC",
+      "folder": "kryotec",
+      "type": "end_user",
+      "business_model": "SOLUTIONS PROVIDER",
+      "what_they_do": "Mexico-based cold chain solutions with qualified packaging and temperature monitoring",
+      "products": ["Qualified packaging solutions", "Temperature monitoring systems"],
+      "services": ["Cold chain logistics", "Temperature monitoring", "Consulting"],
+      "target_customers": ["Food sector", "Pharmaceutical companies"],
+      "rapidise_relevance": "NOT_RELEVANT - Solutions provider, not direct buyer or manufacturer"
+    },
+    {
+      "name": "Nexar Inc.",
+      "folder": "nexar_inc",
+      "type": "odm_customer",
+      "business_model": "PRODUCT COMPANY - DESIGNS/MANUFACTURES via contract manufacturing",
+      "what_they_do": "AI-powered dashcam company with crowdsourced vision network, leading US consumer dashcam brand",
+      "products": ["Nexar One (4K)", "NEXC1", "NEXS1", "NEXC2", "CityStream Platform", "Nexar Data"],
+      "services": ["AI analytics", "Emergency alerts", "Collision detection", "Data services"],
+      "target_customers": ["Consumers", "Commercial fleets", "Insurance companies", "City planners"],
+      "rapidise_relevance": "RELEVANT - Uses contract manufacturing, could source from Rapidise"
+    },
+    {
+      "name": "Garmin",
+      "folder": "garmin",
+      "type": "odm_customer",
+      "business_model": "MANUFACTURER",
+      "what_they_do": "GPS/navigation manufacturer with fleet management, ELDs, dashcams",
+      "products": ["Consumer dashcams", "Garmin Fleet 790", "ELD Solutions", "GPS Fleet Tracking"],
+      "services": ["Fleet tracking", "Driver scorecards"],
+      "target_customers": ["Commercial fleets", "Trucking companies", "Individual drivers"],
+      "rapidise_relevance": "COMPETITOR - Established manufacturer, unlikely to outsource"
+    },
+    {
+      "name": "Edmonton Police Service",
+      "folder": "edmonton_police_service",
+      "type": "end_user",
+      "business_model": "END USER - PUBLIC SECTOR BUYER",
+      "what_they_do": "Municipal police department, ~1,800 officers, ~300 patrol vehicles, uses Axon body cameras",
+      "products": [],
+      "services": ["Law enforcement"],
+      "target_customers": [],
+      "current_vendor": "Axon Enterprise Inc.",
+      "rapidise_relevance": "NOT_RELEVANT - Buys from vendors like Axon, not direct customer"
+    }
+  ],
+  "summary": {
+    "MANUFACTURERS": ["Reveal Media", "Garmin", "Nexar (contract mfg)", "iDrive.ai (tech developer)"],
+    "INTEGRATORS_RESELLERS": ["MICHELIN Connected Fleet", "Platform Science", "HD Fleet"],
+    "SERVICE_PROVIDERS_BUYERS": ["VersaCold", "Vertical Cold Storage", "KRYOTEC", "Edmonton Police"],
+    "RAPIDISE_RELEVANT": ["iDrive.ai", "Nexar", "HD Fleet (white-label)", "VersaCold", "Vertical Cold Storage"],
+    "NOT_RELEVANT": ["MICHELIN Connected Fleet", "Platform Science", "KRYOTEC", "Garmin", "Edmonton Police"]
+  }
+}
